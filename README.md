@@ -1,22 +1,40 @@
-# Eu sou Carlos Souza, Desenvolvedor Android<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<h2> Oi gente, Eu sou o Carlos Vinicius Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/carlos-souza-technology/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://whats.link/eduardojose)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:vinicius.souza5530@gmail.com)](mailto:vinicius.souza5530@gmail.com)
-[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677)](https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677)
+<h3> 👨🏻‍💻 Quem sou : </h3>
 
-```javascript
-  async user.index({
-    name: 'Carlos Souza',
-    age: 19,
-    city: 'Manaus, AM, Brasil',
-    stack: ['JavaScript', 'MongoDB', 'NoSQL', 'Python'],
-    hobby: 'Eletronic Music'
-  });
-  
-  return response.status(201).send();
-```
-<hr>
-<h1 align="center">
-<img alt="CarlosViniMSouza" src="https://github-readme-stats.codestackr.vercel.app/api?username=carlosvinimsouza&show_icons=true&hide_border=true&theme=dark" />
-</h1>
+- 🔭 &nbsp; Atualmente estou estudando Kotlin para Desenvolvimento Android;
+- 🌱 &nbsp; Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data são meu assuntos favoritos;
+- 🎓 &nbsp; Estou cursando Engenharia Elétrica, mas minha dedicação é direcionada para a Computação;
+- 💼 &nbsp; No momento me preparando para o Mercado;
+- 🤔 &nbsp; Gosto de participar de eventos sobre várias tecnologias p/ fazer network com qualquer dev;
+- ✍️ &nbsp; Uma boa partida online de Among Us e um tempo no Clash of Clans são ótimos passatempos;
+- ☕ &nbsp; Café para mim é algo sagrado (melhor do que ver um projeto pronto, é uma boa xícara de coffee);
+
+<h3>🛠 Soft's skills: </h3>
+
+- 💻 &nbsp; Python | R | JavaScript | Kotlin  
+- 🌐 &nbsp; Android | Jupyter Notebook | Power BI Desktop | Arduino 
+- 🛢 &nbsp; NoSQL | Firebase | MongoDB
+- 🔧 &nbsp; Android Studio | PyCharm | Intellij IDEA |Visual Studio code
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CarlosViniMSouza Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinimsouza&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/CarlosViniMSouza/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with me to exchange ideas </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/carlosvinimsouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/carlos-souza-technology/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [Carlitos!](https://github.com/CarlosViniMSozua)
+# Agradeço a devSouvik por este exemplar pro meu README.md - Link pro GitHub dela : https://github.com/devSouvik
