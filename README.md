@@ -20,12 +20,14 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CarlosViniMSouza Github Stats">
+<a href="https://github.com/CarlosViniMSouza/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosViniMSouza&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinimsouza&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/CarlosViniMSouza/github-readme-stats)
-
+<a href="https://github.com/CarlosViniMSouza/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=radical" />
+</a>
 
 <h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork: </h2>
 
@@ -34,6 +36,7 @@
 &nbsp; <a href="https://www.instagram.com/carlosvinimsouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/carlos-souza-technology/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/swift.png" width="50" /></a> 
 </p>
 
 **[Agradeço a devSouvik por este exemplar pro meu README.md - Link pro GitHub dela : https://github.com/devSouvik]**
