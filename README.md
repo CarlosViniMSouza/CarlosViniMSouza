@@ -11,7 +11,7 @@
 - :iphone: &nbsp; Uma boa partida online de Among Us e um tempo no Clash of Clans são ótimos passatempos;
 - ☕ &nbsp; Café para mim é algo sagrado (melhor do que ver um projeto pronto, é uma boa xícara de coffee);
 
-<h3>🛠 Soft's skills: </h3>
+<h3>:atom: Competências Técnicas: </h3>
 
 - 💻 &nbsp; Python | R | JavaScript | Kotlin  
 - 🌐 &nbsp; Jupyter Notebook | Libraries_R | React | Android 
