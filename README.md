@@ -20,12 +20,12 @@
 
 <br>
 
-<a href="https://github.com/CarlosViniMSouza/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosViniMSouza&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<a href="https://github.com/CarlosViniMSouza/CarlosViniMSouza"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosViniMSouza&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 
 </br>
 
-<a href="https://github.com/CarlosViniMSouza/github-readme-stats">
+<a href="https://github.com/CarlosViniMSouza/CarlosViniMSouza">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=radical" />
 </a>
 
