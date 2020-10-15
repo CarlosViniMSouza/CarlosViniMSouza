@@ -4,11 +4,11 @@
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - 🔭 &nbsp; Atualmente estou estudando Kotlin para Desenvolvimento Android;
-- :books: &nbsp; Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data são meu assuntos favoritos;
+- :books: &nbsp; Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data são meus assuntos favoritos;
 - 🎓 &nbsp; Estou cursando Engenharia Elétrica, mas minha dedicação é direcionada para a Computação;
-- 💼 &nbsp; No momento me preparando para o Mercado;
-- 🤔 &nbsp; Gosto de participar de eventos sobre várias tecnologias p/ fazer network com qualquer dev;
-- ✍️ &nbsp; Uma boa partida online de Among Us e um tempo no Clash of Clans são ótimos passatempos;
+- 💼 &nbsp; No momento estou me preparando para o Mercado;
+- :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias p/ fazer network com qualquer dev;
+- :iphone: &nbsp; Uma boa partida online de Among Us e um tempo no Clash of Clans são ótimos passatempos;
 - ☕ &nbsp; Café para mim é algo sagrado (melhor do que ver um projeto pronto, é uma boa xícara de coffee);
 
 <h3>🛠 Soft's skills: </h3>
@@ -25,7 +25,6 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinimsouza&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/CarlosViniMSouza/github-readme-stats)
-
 
 <h3> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork: </h3>
 
