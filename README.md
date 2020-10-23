@@ -1,4 +1,4 @@
-<h2> Oi gente, Eu sou o Carlos Vinicius Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500"/>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
