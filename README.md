@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; Atualmente estou estudando Kotlin para Desenvolvimento Android;
 - :books: &nbsp; Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data são meus assuntos favoritos;
-- 🎓 &nbsp; Estou cursando Engenharia Elétrica, mas minha dedicação é direcionada para a Computação;
+- 🎓 &nbsp; Estou cursando (nada-no-momento), mas minha dedicação é direcionada para a Computação;
 - 💼 &nbsp; No momento estou me preparando para o Mercado;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias p/ fazer network com qualquer dev;
 - :iphone: &nbsp; Uma boa partida online de Among Us e um tempo no Clash of Clans são ótimos passatempos;
