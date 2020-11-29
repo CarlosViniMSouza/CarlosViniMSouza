@@ -3,7 +3,7 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- 🔭 &nbsp; Atualmente estou estudando Kotlin para Desenvolvimento Android;
+- 🔭 &nbsp; Atualmente estou estudando Java para Desenvolvimento Web;
 - :books: &nbsp; Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data são meus assuntos favoritos;
 - 🎓 &nbsp; Estou cursando (nada-no-momento), mas minha dedicação é direcionada para a Computação;
 - 💼 &nbsp; No momento estou me preparando para o Mercado;
