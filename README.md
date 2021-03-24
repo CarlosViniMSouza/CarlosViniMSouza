@@ -3,20 +3,20 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- 🔭 &nbsp; Atualmente estou estudando Java para Desenvolvimento Web;
+- 🔭 &nbsp; Atualmente estou estudando R e Python para Ciência de Dados e B.I;
 - :books: &nbsp; Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data são meus assuntos favoritos;
-- 🎓 &nbsp; Estou cursando (nada-no-momento), mas minha dedicação é direcionada para a Computação;
-- 💼 &nbsp; No momento estou me preparando para o Mercado;
-- :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias p/ fazer network com qualquer dev;
+- 🎓 &nbsp; Em breve estarei cursando Eng. Software no IFAM;
+- 💼 &nbsp; No momento estou estudando para construir a base da minha carreira em T.I;
+- :computer: &nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
 - :iphone: &nbsp; Uma boa partida online de Among Us e um tempo no Clash of Clans são ótimos passatempos;
 - ☕ &nbsp; Café para mim é algo sagrado (melhor do que ver um projeto pronto, é uma boa xícara de coffee);
 
 <h3>:atom: Competências Técnicas: </h3>
 
 - 💻 &nbsp; Python | R | JavaScript | Kotlin  
-- 🌐 &nbsp; Jupyter Notebook | Libraries_R | React | Android 
+- 🌐 &nbsp; Jupyter Notebook | Bibliotecas R | TypeScript | Android 
 - 🛢 &nbsp; NoSQL | RStudio | MongoDB | Firebase
-- 🔧 &nbsp; PyCharm | Intellij IDEA | Visual Studio code | Android Studio
+- 🔧 &nbsp; Intellij IDEA | RStudio | Visual Studio code | Android Studio
 
 <br>
 
