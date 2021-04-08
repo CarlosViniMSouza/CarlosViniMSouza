@@ -38,4 +38,4 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/swift.png" width="50" /></a> 
 </p>
 
-**[Agradeço a devSouvik por este exemplar pro meu README.md - Link pro GitHub dela : https://github.com/devSouvik]**
+**[Agradeço a devSouvik por este exemplar pro meu README.md - Link pro GitHub dele : https://github.com/devSouvik]**
