@@ -1,22 +1,31 @@
 <h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500"/>
 
-<h3> :man_office_worker: 💻 Quem sou eu: </h3>
+<h3> :man_office_worker: 💻 Sobre a minha pessoa : </h3>
 
-- 🔭 &nbsp; Atualmente estou estudando R e Python para Ciência de Dados e B.I;
-- :books: &nbsp; Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data são meus assuntos favoritos;
-- 🎓 &nbsp; Em breve estarei cursando Eng. Software no IFAM;
-- 💼 &nbsp; No momento estou estudando para construir a base da minha carreira em T.I;
-- :computer: &nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
-- :iphone: &nbsp; Uma boa partida online de Among Us e um tempo no Clash of Clans são ótimos passatempos;
-- ☕ &nbsp; Café para mim é algo sagrado (melhor do que ver um projeto pronto, é uma boa xícara de coffee);
+- 📖 &nbsp; Estudando R e Python para Ciência de Dados e B.I;
+- 📚 &nbsp; Focado em : Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data;
+- 🗺 &nbsp; Idiomas : Inglês (Intermediário), Espanhol (Intermediário), Italiano (Básico)
+- 🎓 &nbsp; Cursando Eng. Software no IFAM;
+- 🛠 &nbsp; Construindo a base da minha carreira em T.I;
+- 🖥 &nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
+- :iphone: &nbsp; Passatempos : Jogos, Filmes de ação e Aprender algo novo;
+- ☕ &nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; Python | R | JavaScript | Kotlin  
-- 🌐 &nbsp; Jupyter Notebook | Bibliotecas R | TypeScript | Android 
-- 🛢 &nbsp; NoSQL | RStudio | MongoDB | Firebase
-- 🔧 &nbsp; Intellij IDEA | RStudio | Visual Studio code | Android Studio
+- 💻 &nbsp; Python | R | JavaScript |
+- 🌐 &nbsp; Jupyter Notebook | Bibliotecas R | TypeScript | 
+- 🛢 &nbsp; SQL Server | MongoDB | TypeORM | 
+- 🔧 &nbsp; VS Code | RStudio | Anaconda Navigator 
+
+<h3> 🗃 &nbsp; Algumas das Minhas Contribuições :  </h3>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=recursos-gratuitos&theme=radical)](https://github.com/CarlosViniMSouza/recursos-gratuitos)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=R&theme=radical)](https://github.com/CarlosViniMSouza/R)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=Algoritmos-e-Estruturas-de-Dados&theme=radical)](https://github.com/CarlosViniMSouza/Algoritmos-e-Estruturas-de-Dados)
 
 <br>
 
