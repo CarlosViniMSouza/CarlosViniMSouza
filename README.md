@@ -21,11 +21,11 @@
 
 <h3> 🗃 &nbsp; Algumas das Minhas Contribuições :  </h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=recursos-gratuitos&theme=radical)](https://github.com/CarlosViniMSouza/recursos-gratuitos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=recursos-gratuitos&theme=radical)](https://github.com/iuricode/recursos-gratuitos)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=R&theme=radical)](https://github.com/CarlosViniMSouza/R)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=R&theme=radical)](https://github.com/dmpe/R)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=Algoritmos-e-Estruturas-de-Dados&theme=radical)](https://github.com/CarlosViniMSouza/Algoritmos-e-Estruturas-de-Dados)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvinimsouza&repo=Algoritmos-e-Estruturas-de-Dados&theme=radical)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
 <br>
 
