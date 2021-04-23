@@ -29,7 +29,7 @@
 
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api?username=carlosvinimsouza"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosvinimsouza&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=carlosvinimsouza"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosvinimsouza&show_icons=true&include_all_commits=true&theme=radical" />
 </a>
 
 </br>
