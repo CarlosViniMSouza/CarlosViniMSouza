@@ -23,10 +23,13 @@
 
 <p align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=recursos-gratuitos&theme=radical)](https://github.com/CarlosViniMSouza/recursos-gratuitos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=links-uteis&theme=radical)](https://github.com/CarlosViniMSouza/links-uteis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=Algoritmos-e-Estruturas-de-Dados&theme=radical)](https://github.com/CarlosViniMSouza/Algoritmos-e-Estruturas-de-Dados)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=R&theme=radical)](https://github.com/CarlosViniMSouza/R)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=recursos-gratuitos&theme=onedark)](https://github.com/CarlosViniMSouza/recursos-gratuitos)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=links-uteis&theme=onedark)](https://github.com/CarlosViniMSouza/links-uteis)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=Algoritmos-e-Estruturas-de-Dados&theme=onedark)](https://github.com/CarlosViniMSouza/Algoritmos-e-Estruturas-de-Dados)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=R&theme=onedark)](https://github.com/CarlosViniMSouza/R)
 
 
 </p>
@@ -35,15 +38,15 @@
 
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&show_icons=true&include_all_commits=true&theme=radical" />
-</a>
-
+<a href="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&show_icons=true&include_all_commits=true&theme=onedark" />
 </a>
 
 </br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=radical"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark"/>
 </a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🌐&nbsp; Vamos tomar aquele ☕&nbsp; e fazer NetWork: </h2>
 
