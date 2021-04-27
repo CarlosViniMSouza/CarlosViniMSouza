@@ -29,7 +29,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=Algoritmos-e-Estruturas-de-Dados&theme=onedark)](https://github.com/CarlosViniMSouza/Algoritmos-e-Estruturas-de-Dados)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=R&theme=onedark)](https://github.com/CarlosViniMSouza/R)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
 
 </p>
