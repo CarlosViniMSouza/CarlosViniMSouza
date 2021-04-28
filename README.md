@@ -17,7 +17,7 @@
 - 💻 &nbsp; Python | R | JavaScript |
 - 🌐 &nbsp; Jupyter Notebook | Bibliotecas R | TypeScript | 
 - 🛢 &nbsp; SQL Server | MongoDB | TypeORM | 
-- 🔧 &nbsp; VS Code | RStudio | Anaconda Navigator 
+- 🔧 &nbsp; Anaconda Navigator | RStudio | VS Code
 
 <h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
