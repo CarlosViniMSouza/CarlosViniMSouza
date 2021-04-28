@@ -14,10 +14,10 @@
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; Python | R | JavaScript |
-- 🌐 &nbsp; Jupyter Notebook | Bibliotecas R | TypeScript | 
-- 🛢 &nbsp; SQL Server | MongoDB | TypeORM | 
-- 🔧 &nbsp; Anaconda Navigator | RStudio | VS Code
+- 💻 &nbsp; [Python](https://www.python.org) | [R](https://www.r-project.org/) | [JavaScript](https://www.javascript.com/) |
+- 🌐 &nbsp; [Jupyter Notebook](https://jupyter.org/index.html) | [Packages R](https://cloud.r-project.org/) | [NodeJS](https://nodejs.org/en/) | 
+- 🛢 &nbsp; [SQL Server](https://www.microsoft.com/pt-br/sql-server) | [MongoDB](https://www.mongodb.com/) | [TypeORM](https://typeorm.io/#/) | 
+- 🔧 &nbsp; [Anaconda Navigator](https://www.anaconda.com/blog) | [RStudio](https://www.rstudio.com/) | [VS Code](https://code.visualstudio.com/) |
 
 <h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
