@@ -36,21 +36,11 @@
 
 <h3> 🧑‍🔬 &nbsp; Meu progresso na Programação:  </h3>
 
-<br>
+[![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&show_icons=true&include_all_commits=true&theme=onedark"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark"/>
-</a>
-
-<br>
-
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza"><img align="center" src="https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=onedark"/>
-
-</br>
+[![CarlosViniMSouza wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🌐&nbsp; Vamos tomar aquele ☕&nbsp; e fazer NetWork: </h2>
 
