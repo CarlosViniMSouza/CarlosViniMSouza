@@ -36,11 +36,11 @@
 
 <h3> 🧑‍🔬 &nbsp; Meu progresso na Programação:  </h3>
 
-[![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![CarlosViniMSouza wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🌐&nbsp; Vamos tomar aquele ☕&nbsp; e fazer NetWork: </h2>
 
