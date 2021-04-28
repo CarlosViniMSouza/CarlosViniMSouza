@@ -19,18 +19,18 @@
 - 🛢 &nbsp; SQL Server | MongoDB | TypeORM | 
 - 🔧 &nbsp; VS Code | RStudio | Anaconda Navigator 
 
-<h3> 🗃 &nbsp; Algumas das Minhas Contribuições :  </h3>
+<h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
 <p align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=recursos-gratuitos&theme=onedark)](https://github.com/CarlosViniMSouza/recursos-gratuitos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=links-uteis&theme=onedark)](https://github.com/CarlosViniMSouza/links-uteis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=onedark)](https://github.com/Lorenalgm/hackathon-dicas)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=onedark)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=Algoritmos-e-Estruturas-de-Dados&theme=onedark)](https://github.com/CarlosViniMSouza/Algoritmos-e-Estruturas-de-Dados)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosViniMSouza&repo=R&theme=onedark)](https://github.com/dmpe/R)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=onedark)](https://github.com/perifacode/conteudo-gratuito)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
 </p>
 
@@ -38,9 +38,9 @@
 
 [![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=onedark&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🌐&nbsp; Vamos tomar aquele ☕&nbsp; e fazer NetWork: </h2>
 
@@ -48,7 +48,7 @@
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/carlos-souza-technology/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto.vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/swift.png" width="50" /></a> 
 </p>
 
