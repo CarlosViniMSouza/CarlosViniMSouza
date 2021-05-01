@@ -45,11 +45,10 @@
 <h2> 🌐&nbsp; Vamos tomar aquele ☕&nbsp; e fazer NetWork: </h2>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/carlos-souza-technology/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto.vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/swift.png" width="50" /></a> 
-</p>
+&nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/twitter.png"/></a>
+&nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/instagram-new--v2.png"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/carlos-souza-technology/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/linkedin.png"/></a>
+&nbsp; <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/gmail.png"/></a>
+&nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/rocket.png"/></a>
 
 **[Agradeço a devSouvik por este exemplar ao meu README.md - Link pro GitHub dele : https://github.com/devSouvik]**
