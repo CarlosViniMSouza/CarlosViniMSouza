@@ -1,23 +1,33 @@
-Carlos Vinícius Monteiro de Souza
-Endereço: Parque Dez – Manaus
-Telefone: (92) 99268-0331
+Currículo Profissional
 
-Objetivo Profissional
+👨‍💻 Carlos Vinícius Monteiro de Souza
+
+🔎 Endereço: Manaus - Amazonas
+🔵 Contato via-Telegram: https://t.me/CarlosViniMSouza
+🟢 Contato via-Whatssap: https://api.whatsapp.com/send?phone=5592992680331 
+🌐 Contato via-LinkedIn: https://www.linkedin.com/in/carlos-souza-technology/
+
+🎯 Objetivo Profissional
 Cargo na área de Ciência de Dados e/ou Desenvolvimento de Software:
 ° Cientista de Dados Jr.
 ° Desenvolvedor Python Jr.
 
-Formação
-° Graduação em Engenharia de Software.
-° Instituto Federal do Amazonas.
-° Conclusão: Dezembro/2024.
+📚 Formação
+° Graduação em Engenharia de Software - Em Andamento.
+    ° Instituto Federal do Amazonas.
+    ° Conclusão: Dezembro/2024.
 
-Idiomas
+° Graduação em Enganharia Elétrica - Cancelado.
+    ° Universidade do Estado do Amazonas.
+    ° Início: Março/2019.
+    ° Cancelado: Novembro/2020.
+
+🗺 Idiomas
 Inglês – nível Intermediário.
 Espanhol – nível Intermediário.
 Italiano – nível Básico.
 
-Atividades Extracurricular
+⚒ Atividades Extracurricular
 ° Organização do Festival de Dança durante o Ensino Médio.
 ° Participação em Olimpíadas de Matemática:
 	1 – OBMEP;
@@ -43,14 +53,14 @@ Atividades Extracurricular
 		1.6 – Desenvolvimento e deployment de modelos de Aprendizado de Máquina com Jupyter 
 		Notebook, Watson Machine Learning e SPSS Modeler(todos são serviços disponibilizados na IBM Cloud);
 		1.7 – Desenvolvimento de Assistentes Virtuais inteligentes integrados com APIs e Microsserviços;
-
+	
 	2 – Hackathon Eugenio&Natura:
 	Desenvolvedor Back-End, atividade exercida:
 		° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão 
 		guardadas dentro de um Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de 
 		produtos (com base nas preferências de diversas pessoas). Utilizando de APIs da Eugenio(para análise 
 		de dados) e Google Maps(na parte de Geolocalização do aplicativo).
-
+	
 	3 – Hackathon GetNet&SEBRAE:
 	Desenvolvedor Back-End, atividade exercida:
 		°  Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão
