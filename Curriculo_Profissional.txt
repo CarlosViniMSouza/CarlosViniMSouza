@@ -1,54 +1,60 @@
-Carlos Vinícius Monteiro de Souza
-Endereço: Parque Dez – Manaus
+Carlos VinÃ­cius Monteiro de Souza
+EndereÃ§o: Parque Dez â€“ Manaus
 Telefone: (92) 99268-0331
 
 Objetivo Profissional
-Cargo na área de Ciência de Dados e/ou Desenvolvimento de Software:
-° Cientista de Dados Jr.
-° Desenvolvedor Python Jr.
+Cargo na Ã¡rea de CiÃªncia de Dados e/ou Desenvolvimento de Software:
+Â° Cientista de Dados Jr.
+Â° Desenvolvedor Python Jr.
 
-Formação
-° Graduação em Engenharia de Software.
-° Instituto Federal do Amazonas.
-° Conclusão: Dezembro/2024.
+FormaÃ§Ã£o
+Â° GraduaÃ§Ã£o em Engenharia de Software.
+Â° Instituto Federal do Amazonas.
+Â° ConclusÃ£o: Dezembro/2024.
 
 Idiomas
-Inglês – nível Intermediário.
-Espanhol – nível Intermediário.
-Italiano – nível Básico.
+InglÃªs â€“ nÃ­vel IntermediÃ¡rio.
+Espanhol â€“ nÃ­vel IntermediÃ¡rio.
+Italiano â€“ nÃ­vel BÃ¡sico.
 
 Atividades Extracurricular
-° Organização do Festival de Dança durante o Ensino Médio.
-° Participação em Olimpíadas de Matemática:
-	1 – OBMEP;
-	2 – OAM;
-	3 – Olimpíada de Matemática do SESI;
-	4 – Olimpíada de Matemática da EST – UEA;
+Â° OrganizaÃ§Ã£o do Festival de DanÃ§a durante o Ensino MÃ©dio.
+Â° ParticipaÃ§Ã£o em OlimpÃ­adas de MatemÃ¡tica:
+	1 â€“ OBMEP;
+	2 â€“ OAM;
+	3 â€“ OlimpÃ­ada de MatemÃ¡tica do SESI;
+	4 â€“ OlimpÃ­ada de MatemÃ¡tica da EST â€“ UEA;
 
-° Participação em cursos técnicos da Samsung Ocean:
-	1 – Web Scraping com Python;
-	2 – Ciência de Dados: Laboratório com Pandas e Python;
-	3 – Deep Learning: Introdução com Keras e Python;
-	4 – Ciência de Dados Aplicada ao Setor Público;
-	5 – Uso de dados de Mídia Social para Análise Urbana;
+Â° ParticipaÃ§Ã£o em cursos tÃ©cnicos da Samsung Ocean:
+	1 â€“ Web Scraping com Python;
+	2 â€“ CiÃªncia de Dados: LaboratÃ³rio com Pandas e Python;
+	3 â€“ Deep Learning: IntroduÃ§Ã£o com Keras e Python;
+	4 â€“ CiÃªncia de Dados Aplicada ao Setor PÃºblico;
+	5 â€“ Uso de dados de MÃ­dia Social para AnÃ¡lise Urbana;
 
-° Participação em Hackathons e Competições, onde exerci funções e atividades como:
-	1 – IBM Behind The Code – Edition 2020:
-	Desenvolvedor autônomo com ênfase em:
-		1.1 – Reconhecimento de imagens e entidades textuais com Inteligência Artificial;
-		1.2 – Desenvolvimento de aplicações Web com Cloud Foundry.
-		1.3 – ferramentas de DevOps;
-		1.4 – Ciência de Dados;
-		1.5 – Feature Engineering;
-		1.6 – Desenvolvimento e deployment de modelos de Aprendizado de Máquina com Jupyter Notebook, Watson Machine Learning e SPSS Modeler(todos são serviços disponibilizados na IBM Cloud);
-		1.7 – Desenvolvimento de Assistentes Virtuais inteligentes integrados com APIs e Microsserviços;
+Â° ParticipaÃ§Ã£o em Hackathons e CompetiÃ§Ãµes, onde exerci funÃ§Ãµes e atividades como:
+	1 â€“ IBM Behind The Code â€“ Edition 2020:
+	Desenvolvedor autÃ´nomo com Ãªnfase em:
+		1.1 â€“ Reconhecimento de imagens e entidades textuais com InteligÃªncia Artificial;
+		1.2 â€“ Desenvolvimento de aplicaÃ§Ãµes Web com Cloud Foundry.
+		1.3 â€“ ferramentas de DevOps;
+		1.4 â€“ CiÃªncia de Dados;
+		1.5 â€“ Feature Engineering;
+		1.6 â€“ Desenvolvimento e deployment de modelos de Aprendizado de MÃ¡quina com Jupyter 
+		Notebook, Watson Machine Learning e SPSS Modeler(todos sÃ£o serviÃ§os disponibilizados na IBM Cloud);
+		1.7 â€“ Desenvolvimento de Assistentes Virtuais inteligentes integrados com APIs e MicrosserviÃ§os;
 
-	2 – Hackathon Eugenio&Natura:
+	2 â€“ Hackathon Eugenio&Natura:
 	Desenvolvedor Back-End, atividade exercida:
-		° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de produtos (com base nas preferências de diversas pessoas). Utilizando de APIs da Eugenio(para análise de dados) e Google Maps(na parte de Geolocalização do aplicativo).
+		Â° Desenvolver o Back-End da aplicaÃ§Ã£o que, ao receber algumas informaÃ§Ãµes do usuÃ¡rio â€“ que serÃ£o 
+		guardadas dentro de um Banco de Dados SQL â€“ deverÃ¡ agilizar o processo de compra e recomendaÃ§Ã£o de 
+		produtos (com base nas preferÃªncias de diversas pessoas). Utilizando de APIs da Eugenio(para anÃ¡lise 
+		de dados) e Google Maps(na parte de GeolocalizaÃ§Ã£o do aplicativo).
 
-	3 – Hackathon GetNet&SEBRAE:
+	3 â€“ Hackathon GetNet&SEBRAE:
 	Desenvolvedor Back-End, atividade exercida:
-		°  Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito(para a situação atual de sua microempresa), direcionamento para cursos e especializações necessárias á atividade essencial da empresa, e também, fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio Empreendedor, informações relevantes sobre seus clientes e ‘potenciais’ clientes.
-
-
+		Â°  Desenvolver o Back-End&I.A. da aplicaÃ§Ã£o que, ao receber algumas informaÃ§Ãµes do usuÃ¡rio â€“ que serÃ£o
+		guardadas dentro de um Banco de Dados NoSQL â€“ poderÃ¡ fornecer suporte em: indicaÃ§Ã£o de linhas de crÃ©dito
+		(para a situaÃ§Ã£o atual de sua microempresa), direcionamento para cursos e especializaÃ§Ãµes necessÃ¡rias Ã¡ 
+		atividade essencial da empresa, e tambÃ©m, fornecer para Bancos e InstituiÃ§Ãµes de Apoio ao Pequeno e MÃ©dio
+		Empreendedor, informaÃ§Ãµes relevantes sobre seus clientes e â€˜potenciaisâ€™ clientes.
