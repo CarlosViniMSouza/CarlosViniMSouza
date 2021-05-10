@@ -1,8 +1,6 @@
-#### See this README.md in English : <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translations/README_en.md)</kbd> Vea este README.md en español : <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translations/README_es.md)</kbd> この README.md を日本語で参照してください。: <kbd>[<img title="日本語" alt="日本語" src="flags/jp.jpg" width="22">](translations/README_jp.md)</kbd>
+<h2> Hello guys, my names is Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-<h3> 📡 Se quiser me contatar, conversar ou só trocar uma ideia, aqui estão algumas vias disponíveis : </h3>
+<h3> 📡 If you want to contact me, chat or just exchange an idea, here are some ways available : </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/twitter.png"/></a>
@@ -13,29 +11,29 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
   
-  <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! ✌️🤓 </h2>
+  <h2> 🌐&nbsp; How about we take a good ☕ &nbsp; and do NetWork ?!  ✌️🤓 </h2>
 
-<h3> 👨‍💼💻 Sobre a minha pessoa : </h3>
+<h3> 👨‍💼💻 About me : </h3>
 
-- 📖 &nbsp; Estudando R e Python para Ciência de Dados e B.I;
-- 📚 &nbsp; Focado em : Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data;
-- 🗺 &nbsp; Idiomas : Inglês (Intermediário), Espanhol (Intermediário), Italiano (Básico)
-- 🎓 &nbsp; Cursando Eng. Software no IFAM;
-- 🛠 &nbsp; Construindo a base da minha carreira em T.I;
-- 🖖 &nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
-- 🖥 &nbsp; Passatempos : Jogos, Filmes de ação e Aprender algo novo;
-- ☕ &nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
+- 📖 &nbsp; Studying R and Python for Data Science and B.I;
+- 📚 &nbsp; Focused on: Artificial Intelligence, Enhanced Machine Learning, Big Data;
+- 🗺 &nbsp; Languages: English (Intermediate), Spanish (Intermediate), Italian (Basic);
+- 🎓 &nbsp; Studying Eng. Software at IFAM;
+- 🛠 &nbsp; Building the foundation of my I.T. career;
+- 🖖 &nbsp; I like to participate in technology events and network with any dev;
+- 🖥 &nbsp; Hobbies: Games, Action Movies and Learning Something New;
+- ☕ &nbsp; Coffee for me is something very important (better than seeing a finished project, it's a good coffee);
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
-<h3>:atom: Competências Técnicas: </h3>
+<h3>:atom: Technical skills : </h3>
 
 - 💻 &nbsp; [Python](https://www.python.org) | [R](https://www.r-project.org/) | [JavaScript](https://www.javascript.com/) |
 - 🌐 &nbsp; [Jupyter Notebook](https://jupyter.org/index.html) | [Packages R](https://cloud.r-project.org/) | [NodeJS](https://nodejs.org/en/) | 
 - 🛢 &nbsp; [SQL Server](https://www.microsoft.com/pt-br/sql-server) | [MongoDB](https://www.mongodb.com/) | [TypeORM](https://typeorm.io/#/) | 
 - 🔧 &nbsp; [Anaconda Navigator](https://www.anaconda.com/blog) | [RStudio](https://www.rstudio.com/) | [VS Code](https://code.visualstudio.com/) |
 
-<h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
+<h3> 🗃 &nbsp; My Contributions :  </h3>
 
 <p align="center">
 
@@ -50,7 +48,7 @@
 
 </p>
 
-<h3> 🧑‍🔬 &nbsp; Meu progresso na Programação:  </h3>
+<h3> 🧑‍🔬 &nbsp; My Progress in Programming : </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://git.io/streak-stats)
 
@@ -60,4 +58,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=8&hide=jupyter%20notebook)
 
-🤗**Agradeçimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
+🤗 **Thanks to: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) and [Raven](https://github.com/Anirban166) - For your help in the construction of my README.md**
