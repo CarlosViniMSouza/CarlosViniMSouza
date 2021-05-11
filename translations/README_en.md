@@ -49,6 +49,10 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
+<h3> 📊 &nbsp; My GitHub Metrics :  </h3>
+
+![Metrics](https://metrics.lecoq.io/CarlosViniMSouza?template=classic&base.repositories=0&lines=1&achievements=1&gists=1&people=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
+
 <h3> 🗃 &nbsp; My Contributions :  </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
