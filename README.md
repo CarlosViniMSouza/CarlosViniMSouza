@@ -67,3 +67,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=8&hide=jupyter%20notebook)
 
 🤗**Agradeçimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
+
+<h3><center>👋 Visitas no meu perfil :</center></h3>
+
+<img src="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg"/>
