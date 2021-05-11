@@ -11,7 +11,7 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
   
-  <h2> 🌐&nbsp; Che ne dici di prendere un buon ☕&nbsp; e fai NetWork ?! ✌️🤓 </h2>
+<h2> 🌐&nbsp; Che ne dici di prendere un buon ☕&nbsp; e fai NetWork ?! ✌️🤓 </h2>
 
 <h3> 👨‍💼💻 Su di me : </h3>
 
@@ -28,10 +28,23 @@
 
 <h3>:atom: Abilità tecniche : </h3>
 
-- 💻 &nbsp; [Python](https://www.python.org) | [R](https://www.r-project.org/) | [JavaScript](https://www.javascript.com/) |
-- 🌐 &nbsp; [Jupyter Notebook](https://jupyter.org/index.html) | [Packages R](https://cloud.r-project.org/) | [NodeJS](https://nodejs.org/en/) | 
-- 🛢 &nbsp; [SQL Server](https://www.microsoft.com/pt-br/sql-server) | [MongoDB](https://www.mongodb.com/) | [TypeORM](https://typeorm.io/#/) | 
-- 🔧 &nbsp; [Anaconda Navigator](https://www.anaconda.com/blog) | [RStudio](https://www.rstudio.com/) | [VS Code](https://code.visualstudio.com/) |
+- 💻 &nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" link="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" link="https://www.javascript.com/"/> |
+
+- 🌐 &nbsp; <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" link="https://jupyter.org/index.html"/> | <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://cloud.r-project.org/"/> | <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" link="https://nodejs.org/en/"/> |
+
+- 🛢 &nbsp; <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" link="https://azure.microsoft.com/pt-br/"/> | <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" link="https://www.mongodb.com/"/> | <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" link="https://www.microsoft.com/pt-br/sql-server"/> |
+
+- 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" link="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" link="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" link="https://code.visualstudio.com/"/> |
+
+<h3> 🧑‍🔬 &nbsp; I miei progressi nella programmazione :  </h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://git.io/streak-stats)
+
+![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark&count_private=true&include_all_commits=true&show_icons=true)
+
+![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=onedark&range=last_7_days)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=8&hide=jupyter%20notebook)
 
 <h3> 🗃 &nbsp; I miei contributi :  </h3>
 
@@ -47,15 +60,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
 </p>
-
-<h3> 🧑‍🔬 &nbsp; I miei progressi nella programmazione :  </h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://git.io/streak-stats)
-
-![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark&count_private=true&include_all_commits=true&show_icons=true)
-
-![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=onedark&range=last_7_days)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=8&hide=jupyter%20notebook)
 
 🤗**Grazie a: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Per assistenza nella creazione di README.md**
