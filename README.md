@@ -1,6 +1,6 @@
 #### See this README.md in English : <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translations/README_en.md)</kbd> Vea este README.md en español : <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translations/README_es.md)</kbd>
 
-#### Vedi questo README.md in italiano : <kbd>[<img title="Italiano" alt="Español" src="flags/ita.png" width="22">](translations/README_ita.md)</kbd> この README.md を日本語で参照してください。: <kbd>[<img title="日本語" alt="日本語" src="flags/jp.jpg" width="22">](translations/README_jp.md)</kbd>
+#### Vedi questo README.md in italiano : <kbd>[<img title="Italiano" alt="Italiano" src="flags/ita.png" width="22">](translations/README_ita.md)</kbd> この README.md を日本語で参照してください。: <kbd>[<img title="日本語" alt="日本語" src="flags/jp.jpg" width="22">](translations/README_jp.md)</kbd>
 
 <h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
