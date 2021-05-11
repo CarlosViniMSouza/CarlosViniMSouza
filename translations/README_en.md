@@ -10,6 +10,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+</p>
   
 <h2> 🌐&nbsp; How about we take a good ☕ &nbsp; and do NetWork ?!  ✌️🤓 </h2>
 
@@ -48,8 +49,6 @@
 
 <h3> 🗃 &nbsp; My Contributions :  </h3>
 
-<p align="center">
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
 
@@ -59,6 +58,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=onedark)](https://github.com/perifacode/conteudo-gratuito)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
-</p>
+<h3> 🏆&nbsp; My GitHub Trophies : </h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
 
 🤗 **Thanks to: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) and [Raven](https://github.com/Anirban166) - For your help in the construction of my README.md**
