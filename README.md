@@ -55,6 +55,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=8&hide=jupyter%20notebook)
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
+
 <h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
