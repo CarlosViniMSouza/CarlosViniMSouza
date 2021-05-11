@@ -1,3 +1,6 @@
+#### Veja esse README.md Português : <kbd>[<img title="Brasil" alt="Brasil" src="flags/br.jpg" width="22">](README.md)</kbd>
+
+
 <h2> Hola chicos, soy Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 📡 Si quieres contactarme, chatear o simplemente intercambiar una idea, aquí tienes algunas formas disponibles: </h3>
@@ -49,11 +52,6 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3> 📊 &nbsp; Mis métricas de GitHub :  </h3>
-
-![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=true&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-
-
 <h3> 🗃 &nbsp; Mis Contribuciones :  </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
@@ -78,3 +76,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3> 📊 &nbsp; Mis métricas de GitHub :  </h3>
+
+![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=true&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)

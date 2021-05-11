@@ -1,10 +1,6 @@
-#### See this README.md in English : <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translations/README_en.md)</kbd>
+#### See this README.md in English : <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translations/README_en.md)</kbd> Vea este README.md en español : <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translations/README_es.md)</kbd>
 
-#### Vea este README.md en español : <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translations/README_es.md)</kbd>
-
-#### Vedi questo README.md in italiano : <kbd>[<img title="Italiano" alt="Español" src="flags/ita.png" width="22">](translations/README_ita.md)</kbd>
-
-#### この README.md を日本語で参照してください。: <kbd>[<img title="日本語" alt="日本語" src="flags/jp.jpg" width="22">](translations/README_jp.md)</kbd>
+#### Vedi questo README.md in italiano : <kbd>[<img title="Italiano" alt="Español" src="flags/ita.png" width="22">](translations/README_ita.md)</kbd> この README.md を日本語で参照してください。: <kbd>[<img title="日本語" alt="日本語" src="flags/jp.jpg" width="22">](translations/README_jp.md)</kbd>
 
 <h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
@@ -57,10 +53,6 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3> 📊 &nbsp; Minhas Métricas do GitHub :  </h3>
-
-![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=true&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-
 <h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
@@ -85,3 +77,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3> 📊 &nbsp; Minhas Métricas do GitHub :  </h3>
+
+![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=true&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
