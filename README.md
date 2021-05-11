@@ -59,7 +59,7 @@
 
 <h3> 📊 &nbsp; Minhas Métricas do GitHub :  </h3>
 
-![Metrics](https://metrics.lecoq.io/CarlosViniMSouza?template=classic&base.repositories=0&lines=1&achievements=1&gists=1&people=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
+![Metrics](![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=1&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo))
 
 <h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
