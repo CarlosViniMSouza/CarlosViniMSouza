@@ -57,6 +57,10 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
+<h3> 📊 &nbsp; Minhas Métricas do GitHub :  </h3>
+<!---METRICS-GITHUB:START--->
+<!---METRICS-GITHUB:END--->
+
 <h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
