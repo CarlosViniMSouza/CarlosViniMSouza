@@ -47,7 +47,7 @@
 
 ![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=onedark&range=last_7_days)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=8&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=10&hide=jupyter%20notebook)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
