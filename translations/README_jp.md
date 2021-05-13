@@ -1,4 +1,4 @@
-#### Veja esse README.md em Português : <kbd>[<img title="Brasil" alt="Brasil" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/flags/br.jpg" width="22">](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/README.md)</kbd>
+#### Veja esse README.md em Português : <kbd>[<img title="Português" alt="Português" src="flags/br.jpg" width="22">](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/README.md)</kbd>
 
 <h2> こんにちは、カルロス・ヴィニシウス・モンテイロ・デ・ソウザです。<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
@@ -39,7 +39,7 @@
 
 - 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" link="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" link="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" link="https://code.visualstudio.com/"/> |
 
-<h3> 🧑‍🔬 &nbsp; プログラミングの進歩 :  </h3>
+<h3> 🧑‍🔬 &nbsp; プログラミングの進歩 : </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -51,7 +51,7 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3> 🗃 &nbsp; 私の貢献 :  </h3>
+<h3> 🗃 &nbsp; 私の貢献 : </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
@@ -76,6 +76,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3> 📊 &nbsp; 私のGitHubメトリクス :  </h3>
+<h3> 📊 &nbsp; 私のGitHubメトリクス : </h3>
 
 ![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=true&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)

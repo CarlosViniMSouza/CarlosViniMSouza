@@ -2,6 +2,8 @@
 
 #### Vedi questo README.md in italiano : <kbd>[<img title="Italiano" alt="Italiano" src="flags/ita.png" width="22">](translations/README_ita.md)</kbd> この README.md を日本語で参照してください。: <kbd>[<img title="日本語" alt="日本語" src="flags/jp.jpg" width="22">](translations/README_jp.md)</kbd>
 
+#### इस README.md को हिंदी में देखें : <kbd>[<img title="को हिंदी में देखें" alt="को हिंदी में देखें" src="flags/ind.jpg" width="22">](translations/README_ind.md)</kbd>
+
 <h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 📡 Se quiser me contatar, conversar ou só trocar uma ideia, aqui estão algumas vias disponíveis : </h3>
@@ -21,8 +23,8 @@
 <h3> 👨‍💼💻 Sobre a minha pessoa : </h3>
 
 - 📖 &nbsp; Estudando R e Python para Ciência de Dados e B.I;
-- 📚 &nbsp; Focado em : Inteligência Artificial, Apredizado Reforçado de Máquina, Big Data;
-- 🗺 &nbsp; Idiomas : Inglês (Intermediário), Espanhol (Intermediário), Italiano (Básico)
+- 📚 &nbsp; Focado em : Inteligência Artificial, Aprendizado Reforçado de Máquina, Big Data;
+- 🗺 &nbsp; Idiomas : Inglês (Intermediário), Espanhol (Intermediário), Italiano (Básico);
 - 🎓 &nbsp; Cursando Eng. Software no IFAM;
 - 🛠 &nbsp; Construindo a base da minha carreira em T.I;
 - 🖖 &nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
@@ -31,7 +33,7 @@
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
-<h3>:atom: Competências Técnicas: </h3>
+<h3>:atom: Competências Técnicas : </h3>
 
 - 💻 &nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" link="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" link="https://www.javascript.com/"/> |
 
@@ -41,7 +43,7 @@
 
 - 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" link="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" link="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" link="https://code.visualstudio.com/"/> | 
 
-<h3> 🧑‍🔬 &nbsp; Meu progresso na Programação:  </h3>
+<h3> 🧑‍🔬 &nbsp; Meu progresso na Programação :  </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 

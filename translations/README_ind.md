@@ -1,8 +1,8 @@
 #### Veja esse README.md em Português : <kbd>[<img title="Português" alt="Português" src="flags/br.jpg" width="22">](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/README.md)</kbd>
 
-<h2> Hola chicos, soy Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> हाय दोस्तों, मैं कार्लोस विनीसियस मोंटेइरो डी सूजा हूँ। <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> 📡 Si quieres contactarme, chatear o simplemente intercambiar una idea, aquí tienes algunas formas disponibles: </h3>
+<h3> 📡 यदि आप मुझसे संपर्क करना चाहते हैं, तो चैट करें या केवल एक विचार का आदान-प्रदान करें, यहां कुछ तरीके उपलब्ध हैं : </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/twitter.png"/></a>
@@ -14,22 +14,22 @@
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
 </p>
   
-<h2> 🌐&nbsp; ¿Qué tal si tomamos un buen ☕ &nbsp; y NetWork? ✌️🤓 </h2>
+<h2> 🌐&nbsp; कैसे के बारे में हम एक अच्छा लेते हैं ☕&nbsp; और NetWork करते हैं! ✌️🤓 </h2>
 
-<h3> 👨‍💼💻 Acerca de mí : </h3>
+<h3> 👨‍💼💻 मेरे बारे मेँ : </h3>
 
-- 📖 &nbsp; Estudiar R y Python para Data Science y B.I;
-- 📚 &nbsp; Enfocado en: Inteligencia Artificial, Aprendizaje Automático Mejorado, Big Data;
-- 🗺 &nbsp; Idiomas: inglés (intermedio), español (intermedio), italiano (básico);
-- 🎓 &nbsp; Estudiar Ingeniería de Software en IFAM;
-- 🛠 &nbsp; Construyendo la base de mi carrera en TI;
-- 🖖 &nbsp; Me gusta participar en eventos de tecnología y relacionarme con cualquier desarrollador;
-- 🖥 &nbsp; Pasatiempos: juegos, películas de acción y aprender algo nuevo;
-- ☕ &nbsp; El café para mí es algo muy importante (mejor que ver un proyecto terminado, es un buen café);
+- 📖 &nbsp; डेटा साइंस और बिजनेस इंटेलिजेंस के लिए आर और पायथन का अध्ययन;
+- 📚 &nbsp; पर केंद्रित: आर्टिफिशियल इंटेलिजेंस, मशीन लर्निंग, बिग डेटा;
+- 🗺 &nbsp; भाषाएँ: अंग्रेजी (इंटरमीडिएट), स्पेनिश (इंटरमीडिएट), इतालवी (बेसिक);
+- 🎓 &nbsp; IFAM में इंजीनियरिंग सॉफ्टवेयर का अध्ययन;
+- 🛠 &nbsp; मेरे T.I करियर की नींव बनाना;
+- 🖖 &nbsp; मैं किसी भी देव के साथ प्रौद्योगिकी कार्यक्रमों और नेटवर्क में भाग लेना पसंद करता हूं;
+- 🖥 &nbsp; शौक: खेल, एक्शन मूवी और सीखना कुछ नया;
+- ☕ &nbsp; मेरे लिए कॉफी कुछ बहुत महत्वपूर्ण है (समाप्त परियोजना को देखने से बेहतर है, यह एक अच्छी कॉफी है);
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
-<h3>:atom: Habilidades técnicas : </h3>
+<h3>:atom: तकनीकी कौशल : </h3>
 
 - 💻 &nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" link="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" link="https://www.javascript.com/"/> |
 
@@ -37,9 +37,9 @@
 
 - 🛢 &nbsp; <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" link="https://azure.microsoft.com/pt-br/"/> | <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" link="https://www.mongodb.com/"/> | <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" link="https://www.microsoft.com/pt-br/sql-server"/> |
 
-- 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" link="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" link="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" link="https://code.visualstudio.com/"/> |
+- 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" link="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" link="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" link="https://code.visualstudio.com/"/> | 
 
-<h3> 🧑‍🔬 &nbsp; Mi progreso en la programación :  </h3>
+<h3> 🧑‍🔬 &nbsp; प्रोग्रामिंग में मेरी प्रगति :  </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -51,7 +51,7 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3> 🗃 &nbsp; Mis Contribuciones :  </h3>
+<h3> 🗃 &nbsp; मेरा योगदान :  </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
@@ -62,13 +62,13 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=onedark)](https://github.com/perifacode/conteudo-gratuito)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
-<h3> 🏆&nbsp; Mis trofeos de GitHub : </h3>
+<h3> 🏆&nbsp; मेरी गिटहब ट्राफियां : </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
 
-🤗**Gracias a: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Para obtener ayuda en la construcción de mi README.md**
+🤗**शुकि्रया : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - मेरे README.md के निर्माण में मदद के लिए**
 
-**Extra: Repositorios súper geniales para que personalices tu README.md**
+**अतिरिक्त: आपके README.md को कस्टमाइज़ करने के लिए सुपर-कूल रिपॉजिटरी**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=onedark)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
@@ -76,6 +76,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3> 📊 &nbsp; Mis métricas de GitHub :  </h3>
+<h3> 📊 &nbsp; मेरा गिटहब मेट्रिक्स :  </h3>
 
 ![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=true&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
