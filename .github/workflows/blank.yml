@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: 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
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: CarlosViniMSouza
