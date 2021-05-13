@@ -82,4 +82,5 @@
 
 <h3> 📊 &nbsp; Minhas Métricas do GitHub :  </h3>
 
-![Metrics](https://metrics.lecoq.io/CarlosVIniMSouza?template=classic&base.repositories=0&gists=true&people=1&achievements=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
