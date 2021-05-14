@@ -62,6 +62,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=onedark)](https://github.com/perifacode/conteudo-gratuito)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
+
 <h3> 🏆&nbsp; मेरी गिटहब ट्राफियां : </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
