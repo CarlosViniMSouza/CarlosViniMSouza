@@ -8,7 +8,6 @@
 
 <h3> 📡 Se quiser me contatar, conversar ou só trocar uma ideia, aqui estão algumas vias disponíveis : </h3>
 
-<p align="center">
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/twitter.png"/></a>
 &nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/instagram-new--v2.png"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/carlos-souza-technology/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/linkedin.png"/></a>
@@ -17,9 +16,8 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
-</p>
   
-<h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! ✌️🤓 </h2>
+<h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp;e fazer NetWork ?! ✌️🤓 </h2>
 
 <h3> 👨‍💼💻 Sobre a minha pessoa : </h3>
 
@@ -54,8 +52,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=10&hide=jupyter%20notebook)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
-
 <h3> 🗃 &nbsp; Minhas Contribuições :  </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
@@ -70,9 +66,19 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=onedark)](https://github.com/geekcomputers/Python)
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
+
 <h3> 🏆&nbsp; Meus Troféus do GitHub : </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
+
+<h3> ⚗️&nbsp; Meus Sites para Exercitar : </h3>
+
+&nbsp; <a href="http://www.hackerearth.com/@CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.hackerrank.com/vinicius_souza51" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width="60"/></a>
+&nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/37351657?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://codeforces.com/profile/vinicius.souza5530" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5007251?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.coderbyte.com/profile/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/54690461?s=200&v=4" width="60"/></a>
 
 🤗**Agradeçimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
 
