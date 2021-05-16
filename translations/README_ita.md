@@ -64,6 +64,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=onedark)](https://github.com/geekcomputers/Python)
 
 <h3> 🏆&nbsp; I miei trofei GitHub : </h3>
 
