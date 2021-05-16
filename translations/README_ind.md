@@ -75,6 +75,7 @@
 &nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/37351657?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://codeforces.com/profile/vinicius.souza5530" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5007251?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.coderbyte.com/profile/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/54690461?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.urionlinejudge.com.br/judge/en/profile/548127" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5201116?v=4" width="60"/></a>
 
 🤗**शुकि्रया : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - मेरे README.md के निर्माण में मदद के लिए**
 
