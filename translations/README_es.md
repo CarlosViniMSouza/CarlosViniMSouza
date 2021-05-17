@@ -32,7 +32,7 @@
 
 - 💻 &nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" link="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" link="https://www.javascript.com/"/> |
 
-- 🌐 &nbsp; <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" link="https://jupyter.org/index.html"/> | <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://cloud.r-project.org/"/> | <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" link="https://nodejs.org/en/"/> |
+- 🌐 &nbsp; <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" link="https://jupyter.org/index.html"/> | <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://cloud.r-project.org/"/> | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" link="https://www.typescriptlang.org/"/> |
 
 - 🛢 &nbsp; <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" link="https://azure.microsoft.com/pt-br/"/> | <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" link="https://www.mongodb.com/"/> | <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" link="https://www.microsoft.com/pt-br/sql-server"/> |
 
@@ -76,6 +76,7 @@
 &nbsp; <a href="https://codeforces.com/profile/vinicius.souza5530" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5007251?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.coderbyte.com/profile/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/54690461?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.urionlinejudge.com.br/judge/en/profile/548127" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5201116?v=4" width="60"/></a>
+&nbsp; <a href="https://www.kaggle.com/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/1336944?s=200&v=4" width="60"/></a>
 
 🤗**Gracias a: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Para obtener ayuda en la construcción de mi README.md**
 
