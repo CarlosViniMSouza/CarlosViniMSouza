@@ -79,6 +79,7 @@
 &nbsp; <a href="https://www.codewars.com/users/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5387632?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.kaggle.com/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/1336944?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://codeforces.com/profile/vinicius.souza5530" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5007251?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.educative.io/" target="_blank" rel="noopener noreferrer"><img src="https://www.bing.com/th?id=AMMS_6f1c26efeb1f975debd8543758d5c5d7&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&dpr=1.25&pid=16.1" width="60"/></a>
 
 🤗**Grazie a: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Per assistenza nella creazione di README.md**
 
