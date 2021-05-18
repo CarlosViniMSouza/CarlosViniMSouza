@@ -52,9 +52,10 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=onedark)](https://github.com/Lorenalgm/hackathon-dicas)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=onedark)](https://github.com/Lorenalgm/hackathon-dicas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=onedark)](https://github.com/geekcomputers/Python)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=onedark)](https://github.com/perifacode/conteudo-gratuito)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
@@ -91,10 +92,11 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=onedark)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3> 📊 &nbsp; मेरा गिटहब मेट्रिक्स :  </h3>
 
