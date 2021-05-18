@@ -30,13 +30,13 @@
 
 <h3>:atom: Abilità tecniche : </h3>
 
-- 💻 &nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" link="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" link="https://www.javascript.com/"/> |
+- 💻 &nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" href="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" href="https://www.javascript.com/"/> | <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-E10098?style=flat-square&logo=Kotlin&logoColor=white" href="https://kotlinlang.org/"/> | <img alt="C++" src="https://img.shields.io/badge/-C++_Language-232F3E?style=flat-square&logo=C%2B%2B&logoColor=white" href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"/> | <img alt="C" src="https://img.shields.io/badge/-C_Language-232F3E?style=flat-square&logo=C&logoColor=white" href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#:~:text=The%20C%20language%20includes%20a%20set%20of%20preprocessor,Objective-C%20programs%2C%20so%20it%20is%20not%20included%20here."/>
 
-- 🌐 &nbsp; <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" link="https://jupyter.org/index.html"/> | <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" link="https://cloud.r-project.org/"/> | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" link="https://www.typescriptlang.org/"/> |
+- 🌐 &nbsp; <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> | <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://cloud.r-project.org/"/> | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" href="https://www.typescriptlang.org/"/> |
 
-- 🛢 &nbsp; <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" link="https://azure.microsoft.com/pt-br/"/> | <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" link="https://www.mongodb.com/"/> | <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" link="https://www.microsoft.com/pt-br/sql-server"/> |
+- 🛢 &nbsp; <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" href="https://azure.microsoft.com/pt-br/"/> | <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" href="https://www.mongodb.com/"/> | <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" href="https://www.microsoft.com/pt-br/sql-server"/> | <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=flat-square&logo=Visual-Studio&logoColor=white" href="https://visualstudio.microsoft.com/pt-br/"/> |
 
-- 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" link="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" link="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" link="https://code.visualstudio.com/"/> |
+- 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" href="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" href="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" href="https://code.visualstudio.com/"/> | <img alt="Intellij Idea" src="https://img.shields.io/badge/-IntelliJ_IDEA-3b2e5a?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" href="https://www.jetbrains.com/idea/"/> | <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-003f2c?style=flat-square&logo=PyCharm&logoColor=white" href="https://www.jetbrains.com/pycharm/"/> |
 
 <h3> 🧑‍🔬 &nbsp; I miei progressi nella programmazione :  </h3>
 
@@ -52,34 +52,38 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=onedark)](https://github.com/Lorenalgm/hackathon-dicas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=onedark)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=onedark)](https://github.com/geekcomputers/Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=onedark)](https://github.com/perifacode/conteudo-gratuito)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=onedark)](https://github.com/geekcomputers/Python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=onedark)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
 <h3> 🏆&nbsp; I miei trofei GitHub : </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
 
-<h3> ⚗️&nbsp; I miei siti di allenamento : </h3>
+<h3> ⚗️&nbsp; Siti per sfide e apprendimento : </h3>
 
 &nbsp; <a href="http://www.hackerearth.com/@CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.hackerrank.com/vinicius_souza51" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width="60"/></a>
-&nbsp; <a href="https://github.com/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/77673807?v=4" width="60"/></a>
 &nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/37351657?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.coderbyte.com/profile/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/54690461?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.urionlinejudge.com.br/judge/en/profile/548127" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5201116?v=4" width="60"/></a>
 &nbsp; <a href="https://www.codewars.com/users/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5387632?s=200&v=4" width="60"/></a>
-&nbsp; <a href="https://www.kaggle.com/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/1336944?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://codeforces.com/profile/vinicius.souza5530" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5007251?s=200&v=4" width="60"/></a>
+
+&nbsp; <a href="https://my-learning.w3schools.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/77673807?v=4" width="60"/></a>
 &nbsp; <a href="https://www.educative.io/" target="_blank" rel="noopener noreferrer"><img src="https://www.bing.com/th?id=AMMS_6f1c26efeb1f975debd8543758d5c5d7&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&dpr=1.25&pid=16.1" width="60"/></a>
+&nbsp; <a href="https://copyassignment.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60"/></a>
+&nbsp; <a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/1336944?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.javatpoint.com/" target="_blank" rel="noopener noreferrer"><img src="https://static.javatpoint.com/images/logo/jtp_logo.png" width="60" height="45"/></a>
+&nbsp; <a href="https://www.tutorialspoint.com/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://www.tutorialspoint.com/images/tp-logo-diamond.png" width="60" height="45"/></a>
+&nbsp; <a href="https://www.studypoint.com" target="_blank" rel="noopener noreferrer"><img src="https://www.studypoint.com/Media/studypoint/SPImages/logo.png" width="60" height="45"/></a>
 
 🤗**Grazie a: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Per assistenza nella creazione di README.md**
 
@@ -87,9 +91,10 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=onedark)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
 <h3> 📊 &nbsp; Le mie metriche GitHub :  </h3>
 
