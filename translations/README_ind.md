@@ -42,31 +42,31 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark&count_private=true&include_all_commits=true&show_icons=true)
+![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)
 
-![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=onedark&range=last_7_days)
+![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=dracula&range=last_7_days)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=10&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook)
 
 <h3> 🗃&nbsp; मेरा योगदान : </h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=dracula)](https://github.com/gabrielcmarinho/links-uteis)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=onedark)](https://github.com/Lorenalgm/hackathon-dicas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=onedark)](https://github.com/geekcomputers/Python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=dracula)](https://github.com/Lorenalgm/hackathon-dicas)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=dracula)](https://github.com/geekcomputers/Python)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=onedark)](https://github.com/perifacode/conteudo-gratuito)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=onedark)](https://github.com/dmpe/R)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=dracula)](https://github.com/perifacode/conteudo-gratuito)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=dracula)](https://github.com/dmpe/R)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=onedark)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=dracula)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
 <h3> 🏆&nbsp; मेरी गिटहब ट्राफियां : </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula)
 
 <h3> ⚗️&nbsp; चुनौतियों और सीखने के लिए साइटें : </h3>
 
@@ -92,13 +92,13 @@
 
 **अतिरिक्त: आपके README.md को कस्टमाइज़ करने के लिए सुपर-कूल रिपॉजिटरी**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=onedark)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dracula)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=onedark)](https://github.com/EddieHubCommunity/awesome-github-profiles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>.</h3>
 
