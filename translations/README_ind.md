@@ -40,7 +40,7 @@
 
 <h3> 🧑‍🔬&nbsp; प्रोग्रामिंग में मेरी प्रगति :  </h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=onedark&count_private=true&include_all_commits=true&show_icons=true)
 
