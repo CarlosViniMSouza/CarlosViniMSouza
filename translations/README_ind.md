@@ -98,7 +98,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3> 📊 &nbsp; मेरा गिटहब मेट्रिक्स :  </h3>
+<h3>.</h3>
+
+<h3> 📊&nbsp; मेरा गिटहब मेट्रिक्स :  </h3>
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
@@ -111,6 +113,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-<h3> 👋 &nbsp; मेरी प्रोफ़ाइल पर विज़िट की संख्या : </h3>
+<h3> 👋&nbsp; मेरी प्रोफ़ाइल पर विज़िट की संख्या : </h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)

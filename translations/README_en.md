@@ -2,7 +2,7 @@
 
 <h2> Hello guys, my names is Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> 📡 If you want to contact me, chat or just exchange an idea, here are some ways available : </h3>
+<h3> 📡&nbsp; If you want to contact me, chat or just exchange an idea, here are some ways available : </h3>
 
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/twitter.png"/></a>
 &nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png"/></a>
@@ -13,32 +13,32 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
   
-<h2> 🌐 &nbsp; How about we take a good ☕&nbsp;and do NetWork ?!  ✌️🤓 </h2>
+<h2> 🌐&nbsp; How about we take a good ☕&nbsp; and do NetWork ?! ✌️🤓&nbsp; </h2>
 
-<h3> 👨‍💼💻 About me : </h3>
+<h3> 👨‍💼💻&nbsp; About me : </h3>
 
-- 📖 &nbsp; Studying R and Python for Data Science and B.I;
-- 📚 &nbsp; Focused on: Artificial Intelligence, Enhanced Machine Learning, Big Data;
-- 🗺 &nbsp; Languages: English (Intermediate), Spanish (Intermediate), Italian (Basic);
-- 🎓 &nbsp; Studying Eng. Software at IFAM;
-- 🛠 &nbsp; Building the foundation of my I.T. career;
-- 🖖 &nbsp; I like to participate in technology events and network with any dev;
-- 🖥 &nbsp; Hobbies: Games, Action Movies and Learning Something New;
-- ☕ &nbsp; Coffee for me is something very important (better than seeing a finished project, it's a good coffee);
+- 📖&nbsp; Studying R and Python for Data Science and B.I;
+- 📚&nbsp; Focused on: Artificial Intelligence, Enhanced Machine Learning, Big Data;
+- 🗺&nbsp; Languages: English (Intermediate), Spanish (Intermediate), Italian (Basic);
+- 🎓&nbsp; Studying Eng. Software at IFAM;
+- 🛠&nbsp; Building the foundation of my I.T. career;
+- 🖖&nbsp; I like to participate in technology events and network with any dev;
+- 🖥&nbsp; Hobbies: Games, Action Movies and Learning Something New;
+- ☕&nbsp; Coffee for me is something very important (better than seeing a finished project, it's a good coffee);
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
-<h3>:atom: Technical skills : </h3>
+<h3>:atom:&nbsp; Technical skills : </h3>
 
-- 💻 &nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" href="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" href="https://www.javascript.com/"/> | <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-E10098?style=flat-square&logo=Kotlin&logoColor=white" href="https://kotlinlang.org/"/> | <img alt="C++" src="https://img.shields.io/badge/-C++_Language-232F3E?style=flat-square&logo=C%2B%2B&logoColor=white" href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"/> | <img alt="C" src="https://img.shields.io/badge/-C_Language-232F3E?style=flat-square&logo=C&logoColor=white" href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#:~:text=The%20C%20language%20includes%20a%20set%20of%20preprocessor,Objective-C%20programs%2C%20so%20it%20is%20not%20included%20here."/>
+- 💻&nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" href="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" href="https://www.javascript.com/"/> | <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-E10098?style=flat-square&logo=Kotlin&logoColor=white" href="https://kotlinlang.org/"/> | <img alt="C++" src="https://img.shields.io/badge/-C++_Language-232F3E?style=flat-square&logo=C%2B%2B&logoColor=white" href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"/> | <img alt="C" src="https://img.shields.io/badge/-C_Language-232F3E?style=flat-square&logo=C&logoColor=white" href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#:~:text=The%20C%20language%20includes%20a%20set%20of%20preprocessor,Objective-C%20programs%2C%20so%20it%20is%20not%20included%20here."/>
 
-- 🌐 &nbsp; <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> | <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://cloud.r-project.org/"/> | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" href="https://www.typescriptlang.org/"/> |
+- 🌐&nbsp; <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> | <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://cloud.r-project.org/"/> | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" href="https://www.typescriptlang.org/"/> |
 
-- 🛢 &nbsp; <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" href="https://azure.microsoft.com/pt-br/"/> | <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" href="https://www.mongodb.com/"/> | <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" href="https://www.microsoft.com/pt-br/sql-server"/> | <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=flat-square&logo=Visual-Studio&logoColor=white" href="https://visualstudio.microsoft.com/pt-br/"/> |
+- 🛢&nbsp; <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" href="https://azure.microsoft.com/pt-br/"/> | <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" href="https://www.mongodb.com/"/> | <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" href="https://www.microsoft.com/pt-br/sql-server"/> | <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=flat-square&logo=Visual-Studio&logoColor=white" href="https://visualstudio.microsoft.com/pt-br/"/> |
 
-- 🔧 &nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" href="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" href="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" href="https://code.visualstudio.com/"/> | <img alt="Intellij Idea" src="https://img.shields.io/badge/-IntelliJ_IDEA-3b2e5a?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" href="https://www.jetbrains.com/idea/"/> | <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-003f2c?style=flat-square&logo=PyCharm&logoColor=white" href="https://www.jetbrains.com/pycharm/"/> |
+- 🔧&nbsp; <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" href="https://www.anaconda.com/blog"/> | <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" href="https://www.rstudio.com/"/> | <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" href="https://code.visualstudio.com/"/> | <img alt="Intellij Idea" src="https://img.shields.io/badge/-IntelliJ_IDEA-3b2e5a?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" href="https://www.jetbrains.com/idea/"/> | <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-003f2c?style=flat-square&logo=PyCharm&logoColor=white" href="https://www.jetbrains.com/pycharm/"/> |
 
-<h3> 🧑‍🔬 &nbsp; My Progress in Programming : </h3>
+<h3> 🧑‍🔬&nbsp; My Progress in Programming : </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=onedark&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -48,7 +48,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=onedark&langs_count=10&hide=jupyter%20notebook)
 
-<h3> 🗃 &nbsp; My Contributions :  </h3>
+<h3> 🗃&nbsp; My Contributions : </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=onedark)](https://github.com/iuricode/recursos-gratuitos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=onedark)](https://github.com/gabrielcmarinho/links-uteis)
@@ -64,11 +64,15 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3> 🏆 &nbsp; My GitHub Trophies : </h3>
+<h3>.</h3>
+
+<h3> 🏆&nbsp; My GitHub Trophies : </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
 
-<h3> ⚗️ &nbsp; Sites for Challenges and Learning : </h3>
+<h3>.</h3>
+
+<h3> ⚗️&nbsp; Sites for Challenges and Learning : </h3>
 
 &nbsp; <a href="http://www.hackerearth.com/@CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.hackerrank.com/vinicius_souza51" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width="60"/></a>
@@ -86,7 +90,9 @@
 &nbsp; <a href="https://www.tutorialspoint.com/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://www.tutorialspoint.com/images/tp-logo-diamond.png" width="60" height="45"/></a>
 &nbsp; <a href="https://www.studypoint.com" target="_blank" rel="noopener noreferrer"><img src="https://www.studypoint.com/Media/studypoint/SPImages/logo.png" width="60" height="45"/></a>
 
-🤗 **Thanks to: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) and [Raven](https://github.com/Anirban166) - For your help in the construction of my README.md**
+<h3>.</h3>
+
+🤗&nbsp; **Thanks to: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) and [Raven](https://github.com/Anirban166) - For your help in the construction of my README.md**
 
 **Extra: Super-Cool Repositories for you to customize your README.md**
 
@@ -98,7 +104,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3> 📊 &nbsp; My GitHub Metrics :  </h3>
+<h3>.</h3>
+
+<h3> 📊&nbsp; My GitHub Metrics :  </h3>
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
@@ -111,6 +119,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-<h3> 👋 &nbsp; Number of Visits to my Profile : </h3>
+<h3>.</h3>
+
+<h3> 👋&nbsp; Number of Visits to my Profile : </h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
