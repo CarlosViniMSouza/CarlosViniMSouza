@@ -13,7 +13,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
   
-<h2> 🌐&nbsp; How about we take a good ☕&nbsp;and do NetWork ?!  ✌️🤓 </h2>
+<h2> 🌐 &nbsp; How about we take a good ☕&nbsp;and do NetWork ?!  ✌️🤓 </h2>
 
 <h3> 👨‍💼💻 About me : </h3>
 
@@ -64,11 +64,11 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3> 🏆&nbsp; My GitHub Trophies : </h3>
+<h3> 🏆 &nbsp; My GitHub Trophies : </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=onedark)
 
-<h3> ⚗️&nbsp; Sites for Challenges and Learning : </h3>
+<h3> ⚗️ &nbsp; Sites for Challenges and Learning : </h3>
 
 &nbsp; <a href="http://www.hackerearth.com/@CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.hackerrank.com/vinicius_souza51" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width="60"/></a>
@@ -102,3 +102,15 @@
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
+<h3> 👋 &nbsp; Number of Visits to my Profile : </h3>
+
+![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
