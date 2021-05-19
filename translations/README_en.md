@@ -28,7 +28,7 @@
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
-<h3>:atom:&nbsp; Technical skills : </h3>
+<h3> :atom:&nbsp; Technical skills : </h3>
 
 - 💻&nbsp; <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" href="https://www.python.org/"/> | <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://www.r-project.org/"/> | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" href="https://www.javascript.com/"/> | <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-E10098?style=flat-square&logo=Kotlin&logoColor=white" href="https://kotlinlang.org/"/> | <img alt="C++" src="https://img.shields.io/badge/-C++_Language-232F3E?style=flat-square&logo=C%2B%2B&logoColor=white" href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"/> | <img alt="C" src="https://img.shields.io/badge/-C_Language-232F3E?style=flat-square&logo=C&logoColor=white" href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#:~:text=The%20C%20language%20includes%20a%20set%20of%20preprocessor,Objective-C%20programs%2C%20so%20it%20is%20not%20included%20here."/>
 
