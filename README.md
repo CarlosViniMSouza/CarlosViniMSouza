@@ -125,7 +125,9 @@
 
 <h3>.</h3>
 
-<h3> ⚗️&nbsp; Sites para Desafios e Aprendizados : </h3>
+<details> 
+  <summary> ⚗️&nbsp; Sites para Desafios e Aprendizados : </summary>
+  <br/>
 
 &nbsp; <a href="http://www.hackerearth.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
 &nbsp; <a href="https://www.hackerrank.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width="60"/></a>
@@ -143,6 +145,29 @@
 &nbsp; <a href="https://www.tutorialspoint.com/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://www.tutorialspoint.com/images/tp-logo-diamond.png" width="60" height="45"/></a>
 &nbsp; <a href="https://www.studypoint.com" target="_blank" rel="noopener noreferrer"><img src="https://www.studypoint.com/Media/studypoint/SPImages/logo.png" width="60" height="45"/></a>
 
+<br/>
+</details>
+
+<details> 
+  <summary> ⚗📢&nbsp; Sites para Encontrar Empregos : </summary>
+  <br/>
+
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="" width="60" height="45"/></a>
+  
+<br/>
+</details>
 
 <h3>.</h3>
 
