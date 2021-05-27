@@ -72,7 +72,7 @@
 <img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-21759B?logo=ibm&logoColor=white" href="https://cloud.ibm.com/login"/> |
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" href="https://www.postgresql.org/"/> |
 
-### - 🛠&nbsp; Ambientes de Desenvolvimento - IDE's
+### - ⚒&nbsp; Ambientes de Desenvolvimento Integrados - IDE's
 <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" href="https://www.anaconda.com/blog"/> | 
 <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" href="https://www.rstudio.com/"/> | 
 <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" href="https://code.visualstudio.com/"/> | 
