@@ -36,6 +36,10 @@
 
 <h3> :electron:&nbsp; Competências Técnicas : </h3>
 
+<details> 
+  <summary>  </summary>
+  <br/>
+
 ### - 💻&nbsp; Linguagens de Programação
 <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" href="https://www.python.org/"/> |
 <img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://www.r-project.org/"/> |
@@ -85,9 +89,16 @@
 <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-45b8d8?style=flat-square&logo=apache-netbeans-ide&logoColor=white" href="https://netbeans.apache.org/"/> |
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> |
 
+<br/>
+</details>
+
 <h3>.</h3>
 
 <h3> 🧑‍🔬&nbsp; Meu progresso na Programação : </h3>
+
+<details> 
+  <summary>  </summary>
+  <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -97,9 +108,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook)
 
+<br/>
+</details>
+
 <h3>.</h3>
 
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
+
+<details> 
+  <summary>  </summary>
+  <br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=dracula)](https://github.com/gabrielcmarinho/links-uteis)
@@ -115,13 +133,27 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
+<br/>
+</details>
+
 <h3>.</h3>
 
 <h3> 🏆&nbsp; Meus Troféus do GitHub : </h3>
 
+<details> 
+  <summary>  </summary>
+  <br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula)
 
+<br/>
+</details>
+
 <h3>.</h3>
+
+<details> 
+  <summary>  </summary>
+  <br/>
 
 <h3> ⚗️&nbsp; Sites para Desafios e Aprendizados : </h3>
 
@@ -141,7 +173,14 @@
 &nbsp; <a href="https://www.tutorialspoint.com/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://www.tutorialspoint.com/images/tp-logo-diamond.png" width="60" height="45"/></a>
 &nbsp; <a href="https://www.studypoint.com" target="_blank" rel="noopener noreferrer"><img src="https://www.studypoint.com/Media/studypoint/SPImages/logo.png" width="60" height="45"/></a>
 
+<br/>
+</details>
+
 <h3>.</h3>
+
+<details> 
+  <summary>  </summary>
+  <br/>
 
 🤗&nbsp; **Agradeçimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
 
@@ -155,12 +194,22 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br/>
+</details>
+
 <h3>.</h3>
+
+<details> 
+  <summary>  </summary>
+  <br/>
 
 <h3> 📊&nbsp; Minhas Métricas do GitHub :  </h3>
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
+
+<br/>
+</details>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
