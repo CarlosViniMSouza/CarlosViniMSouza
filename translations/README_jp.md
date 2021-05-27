@@ -20,13 +20,15 @@
 ### - 📖&nbsp; データサイエンスとB.IのためにRとPythonを勉強する。
 ### - 📚&nbsp; 焦点：人工知能、強化された機械学習、ビッグデータ。
 ### - 🗺&nbsp; 言語：英語（中級）、スペイン語（中級）、イタリア語（基本）。
-### - 🎓&nbsp; IFAMでエンジニアリングソフトウェアを勉強しています。
+### - 🎓&nbsp; アマゾナス連邦研究所でソフトウェア工学を学ぶ。
 ### - 🛠&nbsp; ITにおける私のキャリアの基盤を構築します。
 ### - 🖖&nbsp; 私はテクノロジーイベントに参加したり、あらゆる開発者とネットワークを築いたりするのが好きです。
 ### - 🖥&nbsp; 趣味：ゲーム、アクション映画、何か新しいことを学ぶ。
 ### - ☕&nbsp; 私にとってコーヒーは非常に重要なものです（完成したプロジェクトを見るよりも、おいしいコーヒーです）。
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
+
+<h3>.</h3>
 
 <h3> :electron:&nbsp; 技術的なスキル : </h3>
 
@@ -79,6 +81,8 @@
 <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-45b8d8?style=flat-square&logo=apache-netbeans-ide&logoColor=white" href="https://netbeans.apache.org/"/> |
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> |
 
+<h3>.</h3>
+
 <h3> 🧑‍🔬&nbsp; プログラミングの進歩 : </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -88,6 +92,8 @@
 ![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=dracula&range=last_7_days)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook)
+
+<h3>.</h3>
 
 <h3> 🗃&nbsp; 私の貢献 : </h3>
 

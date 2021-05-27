@@ -20,13 +20,15 @@
 ### - 📖&nbsp; Estudiar R y Python para Data Science y B.I;
 ### - 📚&nbsp; Enfocado en: Inteligencia Artificial, Aprendizaje Automático Mejorado, Big Data;
 ### - 🗺&nbsp; Idiomas: inglés (intermedio), español (intermedio), italiano (básico);
-### - 🎓&nbsp; Estudiar Ingeniería de Software en IFAM;
+### - 🎓&nbsp; Estudiando Ingeniería de Software en el Instituto Federal de Amazonas;
 ### - 🛠&nbsp; Construyendo la base de mi carrera en TI;
 ### - 🖖&nbsp; Me gusta participar en eventos de tecnología y relacionarme con cualquier desarrollador;
 ### - 🖥&nbsp; Pasatiempos: juegos, películas de acción y aprender algo nuevo;
 ### - ☕&nbsp; El café para mí es algo muy importante (mejor que ver un proyecto terminado, es un buen café);
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
+
+<h3>.</h3>
 
 <h3> :electron:&nbsp; Habilidades técnicas : </h3>
 
@@ -79,6 +81,8 @@
 <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-45b8d8?style=flat-square&logo=apache-netbeans-ide&logoColor=white" href="https://netbeans.apache.org/"/> |
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> |
 
+<h3>.</h3>
+
 <h3> 🧑‍🔬&nbsp; Mi progreso en la programación : </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -88,6 +92,8 @@
 ![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=dracula&range=last_7_days)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook)
+
+<h3>.</h3>
 
 <h3> 🗃&nbsp; Mis Contribuciones : </h3>
 

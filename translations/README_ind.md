@@ -20,13 +20,15 @@
 ### - 📖&nbsp; डेटा साइंस और बिजनेस इंटेलिजेंस के लिए आर और पायथन का अध्ययन;
 ### - 📚&nbsp; पर केंद्रित: आर्टिफिशियल इंटेलिजेंस, मशीन लर्निंग, बिग डेटा;
 ### - 🗺&nbsp; भाषाएँ: अंग्रेजी (इंटरमीडिएट), स्पेनिश (इंटरमीडिएट), इतालवी (बेसिक);
-### - 🎓&nbsp; IFAM में इंजीनियरिंग सॉफ्टवेयर का अध्ययन;
+### - 🎓&nbsp; Amazonas के संघीय संस्थान में सॉफ्टवेयर इंजीनियरिंग का अध्ययन;
 ### - 🛠&nbsp; मेरे T.I करियर की नींव बनाना;
 ### - 🖖&nbsp; मैं किसी भी देव के साथ प्रौद्योगिकी कार्यक्रमों और नेटवर्क में भाग लेना पसंद करता हूं;
 ### - 🖥&nbsp; शौक: खेल, एक्शन मूवी और सीखना कुछ नया;
 ### - ☕&nbsp; मेरे लिए कॉफी कुछ बहुत महत्वपूर्ण है (समाप्त परियोजना को देखने से बेहतर है, यह एक अच्छी कॉफी है);
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
+
+<h3>.</h3>
 
 <h3> :electron:&nbsp; तकनीकी कौशल : </h3>
 
@@ -79,6 +81,8 @@
 <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-45b8d8?style=flat-square&logo=apache-netbeans-ide&logoColor=white" href="https://netbeans.apache.org/"/> |
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> |
 
+<h3>.</h3>
+
 <h3> 🧑‍🔬&nbsp; प्रोग्रामिंग में मेरी प्रगति :  </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -88,6 +92,8 @@
 ![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&&layout=compact&theme=dracula&range=last_7_days)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook)
+
+<h3>.</h3>
 
 <h3> 🗃&nbsp; मेरा योगदान : </h3>
 
@@ -105,9 +111,13 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
+<h3>.</h3>
+
 <h3> 🏆&nbsp; मेरी गिटहब ट्राफियां : </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula)
+
+<h3>.</h3>
 
 <h3> ⚗️&nbsp; चुनौतियों और सीखने के लिए साइटें : </h3>
 

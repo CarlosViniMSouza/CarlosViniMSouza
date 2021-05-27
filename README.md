@@ -24,7 +24,7 @@
 ### - 📖&nbsp; Estudando R e Python para Ciência de Dados e B.I;
 ### - 📚&nbsp; Focado em : Inteligência Artificial, Aprendizado Reforçado de Máquina, Big Data;
 ### - 🗺&nbsp; Idiomas : Inglês (Intermediário), Espanhol (Intermediário), Italiano (Básico);
-### - 🎓&nbsp; Cursando Eng. Software no IFAM;
+### - 🎓&nbsp; Cursando Engenharia de Software no Instituto Federal do Amazonas;
 ### - 🛠&nbsp; Construindo a base da minha carreira em T.I;
 ### - 🖖&nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
 ### - 🖥&nbsp; Passatempos : Jogos, Filmes de ação e Aprender algo novo;
