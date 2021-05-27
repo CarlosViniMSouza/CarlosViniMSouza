@@ -153,18 +153,18 @@
   <br/>
 
 &nbsp; <a href="https://www.glassdoor.com.br/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/Glassdoor.png" width="90" height="90"/></a>
-&nbsp; <a href="https://angel.co/jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/angel-list.jpg" width="60" height="45"/></a>
-&nbsp; <a href="https://www.dice.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/dice.png" width="60" height="45"/></a>
-&nbsp; <a href="https://www.fiverr.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/fiverr.jpg" width="60" height="45"/></a>
-&nbsp; <a href="https://www.freelancer.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/freelancer.jpg" width="60" height="45"/></a>
-&nbsp; <a href="https://br.indeed.com/?r=us" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/indeed.png" width="60" height="45"/></a>
+&nbsp; <a href="https://angel.co/jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/angel-list.jpg" width="90" height="90"/></a>
+&nbsp; <a href="https://www.dice.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/dice.png" width="90" height="90"/></a>
+&nbsp; <a href="https://www.fiverr.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/fiverr.jpg" width="90" height="90"/></a>
+&nbsp; <a href="https://www.freelancer.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/freelancer.jpg" width="90" height="90"/></a>
+&nbsp; <a href="https://br.indeed.com/?r=us" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/indeed.png" width="90" height="90"/></a>
 
-&nbsp; <a href="https://www.producthunt.com/jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/producthunt.png" width="60" height="45"/></a>
-&nbsp; <a href="https://remoteok.io/remote-dev-jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/remoteok.png" width="60" height="45"/></a>
-&nbsp; <a href="https://stackoverflow.com/jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/stackoverflow.png" width="60" height="45"/></a>
-&nbsp; <a href="https://www.toptal.com/community" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/toptotal.png" width="60" height="45"/></a>
-&nbsp; <a href="https://www.upwork.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/upwork.png" width="60" height="45"/></a>
-&nbsp; <a href="https://weworkremotely.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/wwr.png" width="60" height="45"/></a>
+&nbsp; <a href="https://www.producthunt.com/jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/producthunt.png" width="90" height="90"/></a>
+&nbsp; <a href="https://remoteok.io/remote-dev-jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/remoteok.png" width="90" height="90"/></a>
+&nbsp; <a href="https://stackoverflow.com/jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/stackoverflow.png" width="90" height="90"/></a>
+&nbsp; <a href="https://www.toptal.com/community" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/toptotal.png" width="90" height="90"/></a>
+&nbsp; <a href="https://www.upwork.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/upwork.png" width="90" height="90"/></a>
+&nbsp; <a href="https://weworkremotely.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/wwr.png" width="90" height="90"/></a>
   
 <br/>
 </details>
