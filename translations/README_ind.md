@@ -70,13 +70,13 @@
 
 <h3> ⚗️&nbsp; चुनौतियों और सीखने के लिए साइटें : </h3>
 
-&nbsp; <a href="http://www.hackerearth.com/@CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
-&nbsp; <a href="https://www.hackerrank.com/vinicius_souza51" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width="60"/></a>
-&nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/37351657?s=200&v=4" width="60"/></a>
-&nbsp; <a href="https://www.coderbyte.com/profile/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/54690461?s=200&v=4" width="60"/></a>
-&nbsp; <a href="https://www.urionlinejudge.com.br/judge/en/profile/548127" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5201116?v=4" width="60"/></a>
-&nbsp; <a href="https://www.codewars.com/users/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5387632?s=200&v=4" width="60"/></a>
-&nbsp; <a href="https://codeforces.com/profile/vinicius.souza5530" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5007251?s=200&v=4" width="60"/></a>
+&nbsp; <a href="http://www.hackerearth.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3033794?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.hackerrank.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width="60"/></a>
+&nbsp; <a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/37351657?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.coderbyte.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/54690461?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://www.urionlinejudge.com.br/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5201116?v=4" width="60"/></a>
+&nbsp; <a href="https://www.codewars.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5387632?s=200&v=4" width="60"/></a>
+&nbsp; <a href="https://codeforces.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/5007251?s=200&v=4" width="60"/></a>
 
 &nbsp; <a href="https://my-learning.w3schools.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/77673807?v=4" width="60"/></a>
 &nbsp; <a href="https://www.educative.io/" target="_blank" rel="noopener noreferrer"><img src="https://www.bing.com/th?id=AMMS_6f1c26efeb1f975debd8543758d5c5d7&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&dpr=1.25&pid=16.1" width="60"/></a>
