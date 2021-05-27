@@ -47,7 +47,7 @@
 <img alt="MarkDown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" href="https://markdown.net.br/"/> |
 <img alt="MarkDown" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" href="https://nodejs.org/en/download/"/> |
 
-### - 🌐&nbsp; Bibliotecas e Farramentas 
+### - 🌐&nbsp; Bibliotecas e Ferramentas 
 <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://cloud.r-project.org/"/> | 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" href="https://www.typescriptlang.org/"/> |
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache_Spark-FB542B?style=flat-square&logo=apache-spark&logoColor=white" href="https://spark.apache.org/"/> | 
