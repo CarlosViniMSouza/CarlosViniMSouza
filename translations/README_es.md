@@ -17,14 +17,14 @@
 
 <h3> 👨‍💼💻&nbsp; Acerca de mí : </h3>
 
-- 📖&nbsp; Estudiar R y Python para Data Science y B.I;
-- 📚&nbsp; Enfocado en: Inteligencia Artificial, Aprendizaje Automático Mejorado, Big Data;
-- 🗺&nbsp; Idiomas: inglés (intermedio), español (intermedio), italiano (básico);
-- 🎓&nbsp; Estudiar Ingeniería de Software en IFAM;
-- 🛠&nbsp; Construyendo la base de mi carrera en TI;
-- 🖖&nbsp; Me gusta participar en eventos de tecnología y relacionarme con cualquier desarrollador;
-- 🖥&nbsp; Pasatiempos: juegos, películas de acción y aprender algo nuevo;
-- ☕&nbsp; El café para mí es algo muy importante (mejor que ver un proyecto terminado, es un buen café);
+### - 📖&nbsp; Estudiar R y Python para Data Science y B.I;
+### - 📚&nbsp; Enfocado en: Inteligencia Artificial, Aprendizaje Automático Mejorado, Big Data;
+### - 🗺&nbsp; Idiomas: inglés (intermedio), español (intermedio), italiano (básico);
+### - 🎓&nbsp; Estudiar Ingeniería de Software en IFAM;
+### - 🛠&nbsp; Construyendo la base de mi carrera en TI;
+### - 🖖&nbsp; Me gusta participar en eventos de tecnología y relacionarme con cualquier desarrollador;
+### - 🖥&nbsp; Pasatiempos: juegos, películas de acción y aprender algo nuevo;
+### - ☕&nbsp; El café para mí es algo muy importante (mejor que ver un proyecto terminado, es un buen café);
     
 <img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
