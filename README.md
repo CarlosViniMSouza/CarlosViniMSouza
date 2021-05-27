@@ -152,7 +152,7 @@
   <summary> 📢&nbsp; Sites para Encontrar Empregos : </summary>
   <br/>
 
-&nbsp; <a href="https://www.glassdoor.com.br/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/Glassdoor.png"/></a>
+&nbsp; <a href="https://www.glassdoor.com.br/index.htm" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/Glassdoor.png" width="120" height="90"/></a>
 &nbsp; <a href="https://angel.co/jobs" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/angel-list.jpg" width="60" height="45"/></a>
 &nbsp; <a href="https://www.dice.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/dice.png" width="60" height="45"/></a>
 &nbsp; <a href="https://www.fiverr.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/fiverr.jpg" width="60" height="45"/></a>
