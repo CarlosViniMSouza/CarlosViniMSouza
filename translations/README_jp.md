@@ -153,10 +153,17 @@
 
 <h3>.</h3>
 
-<h3> 📊 &nbsp; 私のGitHubメトリクス : </h3>
+<details> 
+  <summary> 📊&nbsp; 私のGitHubメトリクス : </summary>
+  <br/>
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
+
+<br/>
+</details>
+
+<h3>.</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
