@@ -25,8 +25,6 @@
 ### - 🖖&nbsp; Mi piace partecipare a eventi tecnologici e fare rete con qualsiasi sviluppatore;
 ### - 🖥&nbsp; Hobby: giochi, film d'azione e imparare qualcosa di nuovo;
 ### - ☕&nbsp; Il caffè per me è qualcosa di molto importante (meglio che vedere un progetto finito, è un buon caffè);
-    
-<img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
 <h3>.</h3>
 
