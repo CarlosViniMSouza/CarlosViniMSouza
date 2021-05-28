@@ -209,3 +209,6 @@
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
+
+<!-- If you're using "main" as default branch -->
+![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
