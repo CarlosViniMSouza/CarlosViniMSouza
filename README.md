@@ -211,4 +211,4 @@
 ![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
 
 <!-- If you're using "main" as default branch -->
-![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/platane-demo.svg)
+![GIF](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/platane-demo.svg)
