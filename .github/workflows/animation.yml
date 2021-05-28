@@ -2,7 +2,6 @@ name: generate animation
 
 on:
   schedule: [{cron: "0 */6 * * *"}]
-
 jobs:
   generate:
     runs-on: ubuntu-latest
