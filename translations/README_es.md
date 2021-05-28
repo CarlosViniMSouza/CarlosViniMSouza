@@ -25,8 +25,6 @@
 ### - 🖖&nbsp; Me gusta participar en eventos de tecnología y relacionarme con cualquier desarrollador;
 ### - 🖥&nbsp; Pasatiempos: juegos, películas de acción y aprender algo nuevo;
 ### - ☕&nbsp; El café para mí es algo muy importante (mejor que ver un proyecto terminado, es un buen café);
-    
-<img align="down" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="500" GIF class="displayed"/>
 
 <h3>.</h3>
 
