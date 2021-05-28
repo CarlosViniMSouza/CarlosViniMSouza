@@ -202,3 +202,6 @@
 <h3> 👋&nbsp; Number of Visits to my Profile : </h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
+
+<!-- If you're using "main" as default branch -->
+![GIF](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/platane-demo.svg)
