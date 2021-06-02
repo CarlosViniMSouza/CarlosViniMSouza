@@ -117,6 +117,30 @@
 
 <h3>.</h3>
 
+🤗&nbsp; **Grazie a: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Per assistenza nella creazione di README.md**
+
+**Extra: repository super fantastici per personalizzare il tuo README.md**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dracula)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3>.</h3>
+
+<details> 
+  <summary> 📊&nbsp; Le mie metriche GitHub : </summary>
+  <br/>
+
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
+
+<br/>
+</details>
+
 <details> 
   <summary> ⚗️&nbsp; Siti per sfide e apprendimento : </summary>
   <br/>
@@ -163,31 +187,12 @@
 
 <h3>.</h3>
 
-🤗&nbsp; **Grazie a: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Per assistenza nella creazione di README.md**
+<h3> 👋&nbsp; Numero di Visite al mio Profilo : </h3>
 
-**Extra: repository super fantastici per personalizzare il tuo README.md**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dracula)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3>.</h3>
-
-<details> 
-  <summary> 📊&nbsp; Le mie metriche GitHub : </summary>
-  <br/>
+![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
-
-<br/>
-</details>
-
-<h3>.</h3>
+![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
@@ -196,10 +201,3 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
-
-<h3> 👋&nbsp; Numero di Visite al mio Profilo : </h3>
-
-![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
-
-<!-- If you're using "main" as default branch -->
-![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
