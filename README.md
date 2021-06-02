@@ -193,6 +193,8 @@
 <br/>
 </details>
 
+<h3>.</h3>
+
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
