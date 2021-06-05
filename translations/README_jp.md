@@ -185,6 +185,17 @@
 <br/>
 </details>
 
+<details> 
+  <summary> 📰&nbsp; [Powered by CODERSRANK.IO] : </summary>
+  <br/>
+
+![RankersCoderHabilities](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CarlosViniMSouza&skills=C,C%2B%2B,Java,JavaScript,Jupyter%20Notebook,Kotlin,Python,TypeScript)
+
+![RankersCoderActivity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=CarlosViniMSouza)
+
+<br/>
+</details>
+
 <h3>.</h3>
 
 <h3> 👋&nbsp; 私のプロフィールへの訪問数 : </h3>

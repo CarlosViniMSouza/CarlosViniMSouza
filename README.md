@@ -89,7 +89,7 @@
 
 <h3> 🧑‍🔬&nbsp; Meu progresso na Programação : </h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&hide_border=true&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)
 
@@ -190,6 +190,17 @@
 &nbsp; <a href="https://www.upwork.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/upwork.png" width="90" height="90"/></a>
 &nbsp; <a href="https://weworkremotely.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Jobs/wwr.png" width="90" height="90"/></a>
   
+<br/>
+</details>
+
+<details> 
+  <summary> 📰&nbsp; [Powered by CODERSRANK.IO] : </summary>
+  <br/>
+
+![RankersCoderHabilities](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CarlosViniMSouza&skills=C,C%2B%2B,Java,JavaScript,Jupyter%20Notebook,Kotlin,Python,TypeScript)
+
+![RankersCoderActivity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=CarlosViniMSouza)
+
 <br/>
 </details>
 
