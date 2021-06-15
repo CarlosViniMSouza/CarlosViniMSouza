@@ -12,6 +12,7 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
+&nbsp; <a href="https://carlosvinimsouza.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/domain.png"/></a>
   
 <h2> 🌐&nbsp; ¿Qué tal si tomamos un buen ☕&nbsp; y NetWork? ✌️🤓&nbsp; </h2>
 
