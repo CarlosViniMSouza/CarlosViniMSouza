@@ -125,7 +125,7 @@
 
 <h3>.</h3>
 
-🤗&nbsp; **Agradeçimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
+🤗&nbsp; **Agradecimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
 
 **Extra : Repositórios Super-Legais para você personalizar seu README.md**
 
