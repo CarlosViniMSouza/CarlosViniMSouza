@@ -138,11 +138,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h3>.</h3>
+<h3> 📊&nbsp; Minhas Métricas do GitHub : </h3>
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="75%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="65%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
@@ -181,4 +181,4 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-![techs](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs_2020.png)
