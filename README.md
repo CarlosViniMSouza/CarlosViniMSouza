@@ -140,24 +140,11 @@
 
 <h3>.</h3>
 
-<details> 
-  <summary> 📊&nbsp; Minhas Métricas do GitHub : </summary>
-  <br/>
-
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
-
-<br/>
-</details>
-
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
     <img width="75%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
-    <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg" width="75%"/>
   </a>
 </p>
-
-<h3>.</h3>
 
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
