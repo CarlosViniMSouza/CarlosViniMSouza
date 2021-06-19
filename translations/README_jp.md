@@ -129,20 +129,14 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+<h3> 📊&nbsp; 私のGitHubメトリクス : </h3>
 
-<h3>.</h3>
-
-<details> 
-  <summary> 📊&nbsp; 私のGitHubメトリクス : </summary>
-  <br/>
-
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
-
-<br/>
-</details>
-
-<h3>.</h3>
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width="65%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+  </a>
+</p>
 
 <h3> 👋&nbsp; 私のプロフィールへの訪問数 : </h3>
 

@@ -130,19 +130,13 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>.</h3>
+<h3> 📊&nbsp; Mis métricas de GitHub : </h3>
 
-<details> 
-  <summary> 📊&nbsp; Mis métricas de GitHub : </summary>
-  <br/>
-
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg)
-
-<br/>
-</details>
-
-<h3>.</h3>
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width="65%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+  </a>
+</p>
 
 <h3> 👋&nbsp; Número de Visitas a mi Perfil : </h3>
 
