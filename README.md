@@ -146,7 +146,11 @@
   </a>
 </p>
 
-![Calendar](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/CarlosViniMSouza-2020-Calendar.stl)
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width="65%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/CarlosViniMSouza-2020-Calendar.stl"/>
+  </a>
+</p>
 
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
