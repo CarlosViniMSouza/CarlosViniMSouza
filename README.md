@@ -146,7 +146,7 @@
   </a>
 </p>
 
-![Calendar](images/Others/CarlosViniMSouza-2020-Calendar.stl)
+![Calendar](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/CarlosViniMSouza-2020-Calendar.stl)
 
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
