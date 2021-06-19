@@ -146,6 +146,8 @@
   </a>
 </p>
 
+![Calendar](images/Others/CarlosViniMSouza-2020-Calendar.stl)
+
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
 ![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
