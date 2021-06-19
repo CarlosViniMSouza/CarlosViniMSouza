@@ -150,6 +150,13 @@
 <br/>
 </details>
 
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width="75%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg" width="75%"/>
+  </a>
+</p>
+
 <h3>.</h3>
 
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
@@ -186,3 +193,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
+![techs](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
