@@ -96,7 +96,7 @@
 
 ![CarlosViniMSouza Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula&range=last_7_days)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Java,c%2B%2B,TSQL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Python,TSQL)
 
 
 <h3>.</h3>
