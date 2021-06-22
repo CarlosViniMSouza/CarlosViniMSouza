@@ -151,7 +151,7 @@
 <!-- If you're using "main" as default branch -->
 ![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
 
-![GIF]()
+![GIF](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif?raw=true)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
