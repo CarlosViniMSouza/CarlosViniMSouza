@@ -137,6 +137,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+![NLW-Together]()
 
 <h3> 📊&nbsp; Minhas Métricas do GitHub : </h3>
 
