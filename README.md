@@ -139,7 +139,7 @@
 
 <h3>.</h3>
 
-![NLW_Together]()
+![NLW_Together](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/NLW_Together.jpg?raw=true)
 
 <h3>.</h3>
 
@@ -147,7 +147,7 @@
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="65%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 

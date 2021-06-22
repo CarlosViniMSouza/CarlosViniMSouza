@@ -129,12 +129,18 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3>.</h3>
+
+![NLW_Together](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/NLW_Together.jpg?raw=true)
+
+<h3>.</h3>
  
 <h3> 📊&nbsp; 私のGitHubメトリクス : </h3>
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="65%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
