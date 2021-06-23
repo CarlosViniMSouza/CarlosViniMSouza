@@ -45,21 +45,20 @@
 [![NodeJS](https://img.shields.io/badge/node.js-003f2c?style=for-the-badge&logo=Node.js&logoColor=white "NodeJS")](https://nodejs.org/en/download/)
 
 ### - 🌐&nbsp; ライブラリとツール
-<img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://cloud.r-project.org/"/> | 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" href="https://www.typescriptlang.org/"/> |
-<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache_Spark-FB542B?style=flat-square&logo=apache-spark&logoColor=white" href="https://spark.apache.org/"/> | 
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white" href="https://docs.github.com/en/actions"/> | 
-<img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white" href="https://numpy.org/"/> | 
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white" href="https://pandas.pydata.org/docs/user_guide/index.html#user-guide"/> | 
-<img alt="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" href="https://seaborn.pydata.org/#" width="60"/> | 
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white" href="https://www.tensorflow.org/"/> | 
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%2302569B.svg?logo=Selenium&logoColor=white" href="https://www.selenium.dev/selenium-ide/"/> | 
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%2302569B.svg?logo=Selenium&logoColor=white" href="https://www.selenium.dev/selenium-ide/"/> |
-<img alt="Plotly" src="https://img.shields.io/badge/Plotly%20-21759B.svg?logo=Plotly&logoColor=white" href="https://plotly.com/"/> |
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" href="https://www.postman.com/"/> |
-<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-%23E39842.svg?logo=Power%20BI" href="https://powerbi.microsoft.com/pt-br/what-is-power-bi/"/> |
-<img alt="Terminal Linux" src="https://img.shields.io/badge/Terminal_Linux%20-%23121011.svg?logo=gnu-bash&logoColor=white" href="" /> |
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" href="https://git-scm.com/" /> |
+[![Packages R](https://img.shields.io/badge/-Packages_R-2088FF?style=for-the-badge&logo=R&logoColor=white "R Packages")](https://cloud.r-project.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")](https://www.typescriptlang.org/)
+[![Apache Spark](https://img.shields.io/badge/-Apache_Spark-FB542B?style=for-the-badge&logo=apache-spark&logoColor=white "Apache Spark")](https://spark.apache.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2367EC?style=for-the-badge&logo=github%20actions&logoColor=white "-")](https://docs.github.com/en/actions)
+[![Numpy](https://img.shields.io/badge/-Numpy-2088FF?style=for-the-badge&logo=numpy&logoColor=white "Numpy")](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-2088FF?style=for-the-badge&logo=pandas&logoColor=white "Pandas")](https://pandas.pydata.org/docs/user_guide/index.html#user-guide) 
+[![Seaborn](https://img.shields.io/badge/-Seaborn-2088FF?style=for-the-badge&logo=seaborn&logoColor=white "Seaborn")](https://seaborn.pydata.org/#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-23FF6F?style=for-the-badge&logo=TensorFlow&logoColor=white "TensorFlow")](https://www.tensorflow.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-02569B?style=for-the-badge&logo=Selenium&logoColor=white "Selenium")](https://www.selenium.dev/selenium-ide/)
+[![Plotly](https://img.shields.io/badge/Plotly-21759B?style=for-the-badge&logo=Plotly&logoColor=white "Plotly")](https://plotly.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")](https://www.postman.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-23E398?style=for-the-badge&logo=Power%20BI&logoColor=white "Power BI")](https://powerbi.microsoft.com/pt-br/what-is-power-bi/)
+[![Terminal Linux](https://img.shields.io/badge/Terminal_Linux-231210?style=for-the-badge&logo=gnu-bash&logoColor=white "Terminal Linux")]()
+[![Git](https://img.shields.io/badge/Git-23F050?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
 
 ### - 🛢&nbsp; データベースとクラウドサービス
 <img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" href="https://azure.microsoft.com/pt-br/"/> | 
