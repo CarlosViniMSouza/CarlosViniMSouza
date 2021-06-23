@@ -32,17 +32,17 @@
 <h3> :electron:&nbsp; तकनीकी कौशल : </h3>
 
 ### - 💻&nbsp; प्रोग्रामिंग की भाषाएँ
-<img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" href="https://www.python.org/"/> |
-<img alt="R" src="https://img.shields.io/badge/-R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://www.r-project.org/"/> |
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" href="https://www.javascript.com/"/> |
-<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-E10098?style=flat-square&logo=Kotlin&logoColor=white" href="https://kotlinlang.org/"/> |
-<img alt="C++" src="https://img.shields.io/badge/-C++_Language-232F3E?style=flat-square&logo=C%2B%2B&logoColor=white" href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"/> |
-<img alt="C" src="https://img.shields.io/badge/-C_Language-232F3E?style=flat-square&logo=C&logoColor=white" href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"/> |
-<img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" href="https://www.java.com/pt-BR/"/> |
-<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" href="" /> |
-<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" href=""/> |
-<img alt="MarkDown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" href="https://markdown.net.br/"/> |
-<img alt="MarkDown" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" href="https://nodejs.org/en/download/"/> |
+[![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=white "Python")](https://www.python.org/)
+[![R Language](https://img.shields.io/badge/R-2088FF?style=for-the-badge&logo=R&logoColor=white "R Language")](https://www.r-project.org/")
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge&logo=JavaScript&logoColor=white "JavaSript")](https://www.javascript.com/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-E10098?style=for-the-badge&logo=Kotlin&logoColor=white "Kotlin")](https://kotlinlang.org/)
+[![C++](https://img.shields.io/badge/-C++_Language-232F3E?style=for-the-badge&logo=C%2B%2B&logoColor=white "C++")](https://docs.microsoft.com/en-us/cpp/?view=msvc-160)
+[![C](https://img.shields.io/badge/-C_Language-232F3E?style=for-the-badge&logo=C&logoColor=white "C Language")](https://docs.microsoft.com/en-us/cpp/?view=msvc-160)
+[![Java](https://img.shields.io/badge/Java-2088FF?style=for-the-badge&logo=java&logoColor=white "Java")](https://www.java.com/pt-BR/)
+[![HTML](https://img.shields.io/badge/HTML-FB542B?style=for-the-badge&logo=html5&logoColor=white "HTML")](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-2088FF?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![MarkDown](https://img.shields.io/badge/Markdown-2372B6?style=for-the-badge&logo=markdown&logoColor=white "Markdown")](https://markdown.net.br/)
+[![NodeJS](https://img.shields.io/badge/node.js-003f2c?style=for-the-badge&logo=Node.js&logoColor=white "NodeJS")](https://nodejs.org/en/download/)
 
 ### - 🌐&nbsp; पुस्तकालय और उपकरण 
 <img alt="Packages R" src="https://img.shields.io/badge/-Packages_R-2088FF?style=flat-square&logo=R&logoColor=white" href="https://cloud.r-project.org/"/> | 
