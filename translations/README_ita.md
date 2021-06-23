@@ -69,15 +69,15 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31192B?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org/)
 
 ### - ⚒&nbsp; Ambienti di sviluppo integrati - IDE's
-<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" href="https://www.anaconda.com/blog"/> | 
-<img alt="RStudio" src="https://img.shields.io/badge/-RStudio-8DD6F9?style=flat-square&logo=rstudio&logoColor=white" href="https://www.rstudio.com/"/> | 
-<img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" href="https://code.visualstudio.com/"/> | 
-<img alt="Intellij Idea" src="https://img.shields.io/badge/-IntelliJ_IDEA-3b2e5a?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" href="https://www.jetbrains.com/idea/"/> | 
-<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-003f2c?style=flat-square&logo=PyCharm&logoColor=white" href="https://www.jetbrains.com/pycharm/"/> | 
-<img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-3b2e5a?style=flat-square&logo=Eclipse&logoColor=white" href="https://www.eclipse.org/ide/"/> |
-<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white" href="https://developer.android.com/studio"/> |
-<img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-45b8d8?style=flat-square&logo=apache-netbeans-ide&logoColor=white" href="https://netbeans.apache.org/"/> |
-<img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=Jupyter&logoColor=white" href="https://jupyter.org/index.html"/> |
+[![Anaconda](https://img.shields.io/badge/-Anaconda-13aa52?style=for-the-badge&logo=anaconda&logoColor=white "Anaconda")](https://www.anaconda.com/blog)
+[![RStudio](https://img.shields.io/badge/-RStudio-8DD6F9?style=for-the-badge&logo=rstudio&logoColor=white "RStudio")](https://www.rstudio.com/)
+[![VS Code](https://img.shields.io/badge/-VS_Code-45b8d8?style=for-the-badge&logo=visual-studio-code&logoColor=white "VS Code")](https://code.visualstudio.com/)
+[![Intellij Idea](https://img.shields.io/badge/-IntelliJ_IDEA-3b2e5a?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white "Intellij Idea")](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-003f2c?style=for-the-badge&logo=PyCharm&logoColor=white "PyCharm")](https://www.jetbrains.com/pycharm/)
+[![Eclipse](https://img.shields.io/badge/-Eclipse-3b2e5a?style=for-the-badge&logo=Eclipse&logoColor=white "Eclipse")](https://www.eclipse.org/ide/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-0086F8?style=for-the-badge&logo=android-studio&logoColor=white "Android Studio")](https://developer.android.com/studio)
+[![NetBeans](https://img.shields.io/badge/-NetBeans-45b8d8?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white "NetBeans")](https://netbeans.apache.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=for-the-badge&logo=Jupyter&logoColor=white "Jupyter Notebook")](https://jupyter.org/index.html)
 
 <h3>.</h3>
 
