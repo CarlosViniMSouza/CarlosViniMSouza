@@ -61,12 +61,12 @@
 [![Git](https://img.shields.io/badge/Git-23F050?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
 
 ### - 🛢&nbsp; DataBases and Cloud Services
-<img alt="Azure" src="https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=flat-square&logo=microsoft-azure&logoColor=white" href="https://azure.microsoft.com/pt-br/"/> | 
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" href="https://www.mongodb.com/"/> | 
-<img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" href="https://www.microsoft.com/pt-br/sql-server"/> | 
-<img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=flat-square&logo=Visual-Studio&logoColor=white" href="https://visualstudio.microsoft.com/pt-br/"/> |
-<img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-21759B?logo=ibm&logoColor=white" href="https://cloud.ibm.com/login"/> |
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" href="https://www.postgresql.org/"/> |
+[![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white "Azure")](https://azure.microsoft.com/pt-br/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")](https://www.mongodb.com/)
+[![SQL Server](https://img.shields.io/badge/-SQL_Server_Microsoft-46a2f1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white "SQL Server")](https://www.microsoft.com/pt-br/sql-server)
+[![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=for-the-badge&logo=Visual-Studio&logoColor=white "Visual Studio")](https://visualstudio.microsoft.com/pt-br/)
+[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white "IBM Cloud")](https://cloud.ibm.com/login)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31192B?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org/)
 
 ### - 🛠&nbsp; Integrated Development Environments - IDE's
 <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-13aa52?style=flat-square&logo=anaconda&logoColor=white" href="https://www.anaconda.com/blog"/> | 
