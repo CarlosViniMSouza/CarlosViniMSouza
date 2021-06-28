@@ -91,6 +91,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,Python)
 
 ![Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula)
