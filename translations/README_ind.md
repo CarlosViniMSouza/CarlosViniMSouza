@@ -6,7 +6,7 @@
 
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/twitter.png"/></a>
 &nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png"/></a>
-&nbsp; <a href="https://www.linkedin.com/in/carlos-souza-technology/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/carlosvinimsouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
 &nbsp; <a href="mailto:vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png"/></a>
 &nbsp; <a href="https://www.facebook.com/profile.php?id=100066752509880" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/facebook-new.png"/></a>
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/rocket.png"/></a>
