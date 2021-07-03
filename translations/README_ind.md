@@ -79,6 +79,12 @@
 [![NetBeans](https://img.shields.io/badge/-NetBeans-45b8d8?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white "NetBeans")](https://netbeans.apache.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=for-the-badge&logo=Jupyter&logoColor=white "Jupyter Notebook")](https://jupyter.org/index.html)
 
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://media-exp3.licdn.com/dms/image/C4E22AQGLY1xtX110RA/feedshare-shrink_2048_1536/0/1624369636944?e=1628121600&v=beta&t=dSAcC1OuLW0TdEsJaZDJoRfuTixfJMqT-tI6j-7DFpk"/>
+  </a>
+</p>
+
 <h3>.</h3>
 
 <h3> 🧑‍🔬&nbsp; प्रोग्रामिंग में मेरी प्रगति :  </h3>
