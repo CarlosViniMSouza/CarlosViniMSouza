@@ -31,7 +31,6 @@
 ### - 🖥&nbsp; Passatempos : Jogos, Filmes de ação e Aprender algo novo;
 ### - ☕&nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
 
-
 <h3>.</h3>
 
 <h3> :electron:&nbsp; Competências Técnicas : </h3>
