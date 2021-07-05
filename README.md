@@ -100,6 +100,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,Python)
 
+[![CarlosViniMSouza WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula)](https://www.github.com/CarlosViniMSouza)
+
 ![Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula)
 
 ![Cards_Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosViniMSouza&theme=dracula)
