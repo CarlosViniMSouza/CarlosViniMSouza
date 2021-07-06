@@ -105,11 +105,11 @@
 <figure>
 <embed>
 <img src="https://wakatime.com/share/@CarlosViniMSouza/241d18c6-a5eb-490a-b28b-79e1f777ff46.svg" 
-    width="33%"></img>
+    width="1500" height="450"></img>
 <img src="https://wakatime.com/share/@CarlosViniMSouza/c5f62091-cf5c-4e50-ab52-fa8631bd2571.svg" 
-    width="33%"></img>
+    width="1500" height="450"></img>
 <img src="https://wakatime.com/share/@CarlosViniMSouza/03ce123a-12de-4642-9c55-6ff2a4440e0a.svg" 
-    width="33%"></img>
+    width="1500" height="450"></img>
 </embed>
 </figure>
 
