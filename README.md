@@ -62,7 +62,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-21759B?style=for-the-badge&logo=Plotly&logoColor=white "Plotly")](https://plotly.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")](https://www.postman.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-23E398?style=for-the-badge&logo=Power%20BI&logoColor=white "Power BI")](https://powerbi.microsoft.com/pt-br/what-is-power-bi/)
-[![Terminal Linux](https://img.shields.io/badge/Terminal_Linux-231210?style=for-the-badge&logo=gnu-bash&logoColor=white "Terminal Linux")]()
+[![Terminal Linux](https://img.shields.io/badge/Terminal_Linux-231210?style=for-the-badge&logo=gnu-bash&logoColor=white "Terminal Linux")](https://www.kernel.org/doc/html/latest/index.html)
 [![Git](https://img.shields.io/badge/Git-23F050?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
 [![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=Django&logoColor=white%20%22Django%22)](https://www.djangoproject.com/)
 
