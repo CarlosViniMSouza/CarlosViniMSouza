@@ -60,6 +60,7 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-23E398?style=for-the-badge&logo=Power%20BI&logoColor=white "Power BI")](https://powerbi.microsoft.com/pt-br/what-is-power-bi/)
 [![Terminal Linux](https://img.shields.io/badge/Terminal_Linux-231210?style=for-the-badge&logo=gnu-bash&logoColor=white "Terminal Linux")]()
 [![Git](https://img.shields.io/badge/Git-23F050?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
+[![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=Django&logoColor=white%20%22Django%22)](https://www.djangoproject.com/)
 
 ### - 🛢&nbsp; Database e servizi cloud
 [![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white "Azure")](https://azure.microsoft.com/pt-br/)
