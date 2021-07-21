@@ -16,7 +16,7 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlos-vinicius-monteiro-de-souza-05677" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
-&nbsp; <a href="https://dsc.community.dev/u/mreux9/#/about" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/android.png"/></a>
+&nbsp; <a href="https://developers.google.com/profile/u/111668588055059151212?utm_source=developer.android.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/android.png"/></a>
 &nbsp; <a href="https://www.hackerrank.com/vinicius_souza51" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width=75/></a>
   
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! ✌️🤓&nbsp; </h2>
