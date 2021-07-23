@@ -14,6 +14,8 @@
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 &nbsp; <a href="https://developers.google.com/profile/u/111668588055059151212?utm_source=developer.android.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/android.png"/></a>
 &nbsp; <a href="https://www.hackerrank.com/vinicius_souza51" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/7596827?v=4" width=75/></a>
+
+![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Data%20Scientist%20|%20ML%20Engineer%22)
   
 <h2> 🌐&nbsp; कैसे के बारे में हम एक अच्छा लेते हैं ☕&nbsp; और NetWork करते हैं! ✌️🤓&nbsp; </h2>
 
