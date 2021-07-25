@@ -98,6 +98,9 @@
 ![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Python)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8)
+
+*The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame*
 
 [![CarlosViniMSouza WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula)](https://www.github.com/CarlosViniMSouza)
 
