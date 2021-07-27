@@ -194,7 +194,7 @@
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
@@ -202,7 +202,7 @@
 
 <p align="center">
   <a href="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg">
-    <img width="15%" src="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg"/>
+    <img width="25%" src="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg"/>
   </a>
 </p>
 
