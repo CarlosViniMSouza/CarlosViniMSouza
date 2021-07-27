@@ -198,6 +198,8 @@
 
 ![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs_2020.png)
 
+<h3> ♟&nbsp; Minha melhor partida no momento : </h3>
+
 <p align="center">
   <a href='https://www.chess.com/member/carlosvinimsouza'>
     <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_92-1.gif"/>
