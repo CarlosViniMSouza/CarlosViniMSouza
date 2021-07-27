@@ -216,7 +216,7 @@
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif">
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif"/>
+    <img width="80%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif"/>
   </a>
 </p>
 
