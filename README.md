@@ -175,7 +175,7 @@
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
@@ -202,6 +202,6 @@
 
 <p align="center">
   <a href='https://www.chess.com/member/carlosvinimsouza'>
-    <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_92-1.gif"/>
+    <img width="25%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_92-1.gif"/>
   </a>
 </p>
