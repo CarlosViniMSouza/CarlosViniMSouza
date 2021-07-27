@@ -209,7 +209,7 @@
 <!-- If you're using "main" as default branch -->
 <p align="center">
   <a href="https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg">
-    <img width="85%" src="https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg"/>
+    <img width="70%" src="https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg"/>
   </a>
 </p>
 <!--![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)-->
