@@ -98,19 +98,34 @@
 
 <h3> 🧑‍🔬&nbsp; Meu progresso na Programação : </h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true"/>
+  </a>
+</p>
 
-![CarlosViniMSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)
+<p align="center">
+  <a href="https://www.github.com/CarlosViniMSouza">
+    <img src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true"/>
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,Python)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8)
+<p align="center">
+  <a href="https://www.github.com/CarlosViniMSouza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,Python"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8"/>
+  </a>
+</p>
 
 *The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame*
 
-[![CarlosViniMSouza WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula)](https://www.github.com/CarlosViniMSouza)
+<p align="center">
+  <a href="https://www.github.com/CarlosViniMSouza">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula"/>
+  </a>
+</p>
 
-<figure>
-<embed>
+<figure><embed>
 <img src="https://wakatime.com/share/@CarlosViniMSouza/241d18c6-a5eb-490a-b28b-79e1f777ff46.svg" 
     width="1500" height="450"></img>
 <img src="https://wakatime.com/share/@CarlosViniMSouza/c5f62091-cf5c-4e50-ab52-fa8631bd2571.svg" 
@@ -149,7 +164,11 @@
 
 <h3> 🏆&nbsp; Meus Troféus do GitHub : </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula)
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula">
+    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
+  </a>
+</p>
 
 <h3>.</h3>
 
@@ -174,19 +193,32 @@
 <h3> 📊&nbsp; Minhas Métricas do GitHub : </h3>
 
 <p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
+  <a href="https://github.com/CarlosViniMSouza/">
     <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
-![VisitorCount](https://profile-counter.glitch.me/CarlosViniMSouza/count.svg)
+<p align="center">
+  <a href="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg">
+    <img width="15%" src="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg"/>
+  </a>
+</p>
 
 <!-- If you're using "main" as default branch -->
-![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg">
+    <img width="85%" src="https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg"/>
+  </a>
+</p>
+<!--![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)-->
 
-![GIF](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif?raw=true)
+<p align="center">
+  <a href="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif">
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif"/>
+  </a>
+</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
