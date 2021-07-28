@@ -35,8 +35,6 @@
 ### - 🖥&nbsp; Passatempos : Jogos, Filmes de ação e Aprender algo novo;
 ### - ☕&nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
 
-<h3>.</h3>
-
 <h3> :electron:&nbsp; Competências Técnicas : </h3>
 
 ### - 💻&nbsp; Linguagens de Programação
@@ -51,6 +49,12 @@
 [![CSS](https://img.shields.io/badge/CSS-2088FF?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![MarkDown](https://img.shields.io/badge/Markdown-2372B6?style=for-the-badge&logo=markdown&logoColor=white "Markdown")](https://markdown.net.br/)
 [![NodeJS](https://img.shields.io/badge/node.js-003f2c?style=for-the-badge&logo=Node.js&logoColor=white "NodeJS")](https://nodejs.org/en/download/)
+
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg"/>
+  </a>
+</p>
 
 ### - 🌐&nbsp; Bibliotecas e Ferramentas
 [![Packages R](https://img.shields.io/badge/-Packages_R-2088FF?style=for-the-badge&logo=R&logoColor=white "R Packages")](https://cloud.r-project.org/)
@@ -69,6 +73,12 @@
 [![Git](https://img.shields.io/badge/Git-23F050?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
 [![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=Django&logoColor=white%20%22Django%22)](https://www.djangoproject.com/)
 
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg"/>
+  </a>
+</p>
+
 ### - 🛢&nbsp; Bancos de Dados e Serviços em Nuvem
 [![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white "Azure")](https://azure.microsoft.com/pt-br/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")](https://www.mongodb.com/)
@@ -76,6 +86,12 @@
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=for-the-badge&logo=Visual-Studio&logoColor=white "Visual Studio")](https://visualstudio.microsoft.com/pt-br/)
 [![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white "IBM Cloud")](https://cloud.ibm.com/login)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31192B?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org/)
+
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg"/>
+  </a>
+</p>
 
 ### - ⚒&nbsp; Ambientes de Desenvolvimento Integrados - IDE's
 [![Anaconda](https://img.shields.io/badge/-Anaconda-13aa52?style=for-the-badge&logo=anaconda&logoColor=white "Anaconda")](https://www.anaconda.com/blog)
@@ -90,11 +106,9 @@
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://media-exp3.licdn.com/dms/image/C4E22AQGLY1xtX110RA/feedshare-shrink_2048_1536/0/1624369636944?e=1628121600&v=beta&t=dSAcC1OuLW0TdEsJaZDJoRfuTixfJMqT-tI6j-7DFpk"/>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg"/>
   </a>
 </p>
-
-<h3>.</h3>
 
 <h3> 🧑‍🔬&nbsp; Meu progresso na Programação : </h3>
 
@@ -142,7 +156,11 @@
 ![Cards_Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosViniMSouza&theme=dracula)
 ![Cards_Commits_Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula)
 
-<h3>.</h3>
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://camo.githubusercontent.com/90e0fecbe2d4a1dae70800e1e3d6b12f207b6763065a55efd301191476b7f591/68747470733a2f2f6d656469612d657870332e6c6963646e2e636f6d2f646d732f696d6167652f43344532324151474c593178745831313052412f6665656473686172652d736872696e6b5f323034385f313533362f302f313632343336393633363934343f653d3136323831323136303026763d6265746126743d6453416343314f754c5730546445734a615a444a6f526675546978664a4d71542d7449366a2d374446706b"/>
+  </a>
+</p>
 
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
 
@@ -160,8 +178,6 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3>.</h3>
-
 <h3> 🏆&nbsp; Meus Troféus do GitHub : </h3>
 
 <p align="center">
@@ -169,8 +185,6 @@
     <img width="65%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
   </a>
 </p>
-
-<h3>.</h3>
 
 🤗&nbsp; **Agradecimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
 
@@ -184,11 +198,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>.</h3>
-
 ![NLW_Together](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/NLW_Together.jpg?raw=true)
-
-<h3>.</h3>
 
 <h3> 📊&nbsp; Minhas Métricas do GitHub : </h3>
 
