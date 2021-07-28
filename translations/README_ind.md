@@ -246,3 +246,11 @@
     <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_92-1.gif"/>
   </a>
 </p>
+
+<h3> 🎖&nbsp; README.md . में मेरे बैज : </h3>
+
+[![CodeQL](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml)
+
+[![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml)
+
+[![Generate Animation](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml)
