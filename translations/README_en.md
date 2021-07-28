@@ -1,6 +1,6 @@
 #### Veja esse README.md em Português : <kbd>[<img title="Brasil" alt="Brasil" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/flags/br.jpg" width="22">](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/README.md)</kbd>
 
-<h2> Hello guys, my names is Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hello guys, my name is Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 📡&nbsp; If you want to contact me, chat or just exchange an idea, here are some ways available : </h3>
 
@@ -31,8 +31,6 @@
 ### - 🖥&nbsp; Hobbies: Games, Action Movies and Learning Something New;
 ### - ☕&nbsp; Coffee for me is something very important (better than seeing a finished project, it's a good coffee);
 
-<h3>.</h3>
-
 <h3> :electron:&nbsp; Technical skills : </h3>
 
 ### - 💻&nbsp; Languages Programming
@@ -47,6 +45,12 @@
 [![CSS](https://img.shields.io/badge/CSS-2088FF?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![MarkDown](https://img.shields.io/badge/Markdown-2372B6?style=for-the-badge&logo=markdown&logoColor=white "Markdown")](https://markdown.net.br/)
 [![NodeJS](https://img.shields.io/badge/node.js-003f2c?style=for-the-badge&logo=Node.js&logoColor=white "NodeJS")](https://nodejs.org/en/download/)
+
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg"/>
+  </a>
+</p>
 
 ### - 🌐&nbsp; Libraries and Tools 
 [![Packages R](https://img.shields.io/badge/-Packages_R-2088FF?style=for-the-badge&logo=R&logoColor=white "R Packages")](https://cloud.r-project.org/)
@@ -65,6 +69,12 @@
 [![Git](https://img.shields.io/badge/Git-23F050?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
 [![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=Django&logoColor=white%20%22Django%22)](https://www.djangoproject.com/)
 
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg"/>
+  </a>
+</p>
+
 ### - 🛢&nbsp; DataBases and Cloud Services
 [![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white "Azure")](https://azure.microsoft.com/pt-br/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")](https://www.mongodb.com/)
@@ -72,6 +82,12 @@
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=for-the-badge&logo=Visual-Studio&logoColor=white "Visual Studio")](https://visualstudio.microsoft.com/pt-br/)
 [![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white "IBM Cloud")](https://cloud.ibm.com/login)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31192B?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org/)
+
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg"/>
+  </a>
+</p>
 
 ### - 🛠&nbsp; Integrated Development Environments - IDE's
 [![Anaconda](https://img.shields.io/badge/-Anaconda-13aa52?style=for-the-badge&logo=anaconda&logoColor=white "Anaconda")](https://www.anaconda.com/blog)
@@ -86,11 +102,9 @@
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://media-exp3.licdn.com/dms/image/C4E22AQGLY1xtX110RA/feedshare-shrink_2048_1536/0/1624369636944?e=1628121600&v=beta&t=dSAcC1OuLW0TdEsJaZDJoRfuTixfJMqT-tI6j-7DFpk"/>
+    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg"/>
   </a>
 </p>
-
-<h3>.</h3>
 
 <h3> 🧑‍🔬&nbsp; My Progress in Programming : </h3>
 
@@ -140,7 +154,11 @@
 ![Cards_Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosViniMSouza&theme=dracula)
 ![Cards_Commits_Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula)
 
-<h3>.</h3>
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=500 src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/go-techs-tools.jpg"/>
+  </a>
+</p>
 
 <h3> 🗃&nbsp; My Contributions : </h3>
 
@@ -158,7 +176,6 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
-<h3>.</h3>
 
 <h3> 🏆&nbsp; My GitHub Trophies : </h3>
 
@@ -167,8 +184,6 @@
     <img width="65%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
   </a>
 </p>
-
-<h3>.</h3>
 
 🤗&nbsp; **Thanks to: [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) and [Raven](https://github.com/Anirban166) - For your help in the construction of my README.md**
 
@@ -182,11 +197,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>.</h3>
-
 ![NLW_Together](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/NLW_Together.jpg?raw=true)
-
-<h3>.</h3>
 
 <h3> 📊&nbsp; My GitHub Metrics : </h3>
 
