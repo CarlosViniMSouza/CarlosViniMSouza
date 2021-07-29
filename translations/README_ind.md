@@ -187,6 +187,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=dracula)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jobream&repo=List-of-Learning-Resources&theme=dracula)](https://github.com/jobream/List-of-Learning-Resources)
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
 <h3>.</h3>
