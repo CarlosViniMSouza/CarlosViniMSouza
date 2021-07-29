@@ -261,4 +261,6 @@
 
 [![OSSAR](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml)
 
+[![GitHub Actions Demo](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml)
+
 [![Generate Animation](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml)
