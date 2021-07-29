@@ -143,16 +143,27 @@
     width="1500" height="450"></img>
 <img src="https://wakatime.com/share/@CarlosViniMSouza/03ce123a-12de-4642-9c55-6ff2a4440e0a.svg" 
     width="1500" height="450"></img>
-</embed>
 </figure>
 
-![Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula)
+<p align="center">
+  <a href="https://www.github.com/CarlosViniMSouza">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula"/>
+  </a>
+</p>
 
-![Cards_Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosViniMSouza&theme=dracula)
-![Cards_Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosViniMSouza&theme=dracula)
+<p align="center">
+  <a href="https://www.github.com/CarlosViniMSouza">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosViniMSouza&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosViniMSouza&theme=dracula"/>
+  </a>
+</p>
 
-![Cards_Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosViniMSouza&theme=dracula)
-![Cards_Commits_Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula)
+<p align="center">
+  <a href="https://www.github.com/CarlosViniMSouza">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosViniMSouza&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula"/>
+  </a>
+</p>
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
