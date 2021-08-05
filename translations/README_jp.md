@@ -33,6 +33,12 @@
 
 <h3> :electron:&nbsp; 技術的なスキル : </h3>
 
+<p align="center">
+  <a href='https://github.com/CarlosViniMSouza/'>
+    <img width=400 src="https://classroom.github.com/assets/education_welcome-9814a7af7c53f0ad7867c5026890e6fe58682a5a87815028bc915c0fa1a1e91b.svg"/>
+  </a>
+</p>
+
 ### - 💻&nbsp; プログラミング言語 [Puroguramingu gengo]
 [![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=white "Python")](https://www.python.org/)
 [![R Language](https://img.shields.io/badge/R-2088FF?style=for-the-badge&logo=R&logoColor=white "R Language")](https://www.r-project.org/")
