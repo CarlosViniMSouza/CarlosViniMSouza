@@ -258,7 +258,7 @@
 
 <p align="center">
   <a href='https://www.chess.com/member/carlosvinimsouza'>
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_92-1.gif"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_96.6.gif"/>
   </a>
 </p>
 
