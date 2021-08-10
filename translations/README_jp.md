@@ -206,7 +206,7 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula">
-    <img width="65%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
   </a>
 </p>
 

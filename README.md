@@ -232,7 +232,7 @@
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
