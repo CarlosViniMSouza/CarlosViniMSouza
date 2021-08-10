@@ -44,11 +44,10 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://carlosvinimsouza.github.io/
           plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
+          plugin_people_limit: 36
+          plugin_people_size: 36
           plugin_people_types: followers, following
           plugin_stars: yes
           plugin_stars_limit: 4
