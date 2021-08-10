@@ -144,13 +144,14 @@
   </a>
 </p>
 
-<figure><embed>
-<img src="https://wakatime.com/share/@CarlosViniMSouza/241d18c6-a5eb-490a-b28b-79e1f777ff46.svg" 
-    width="1500" height="450"></img>
-<img src="https://wakatime.com/share/@CarlosViniMSouza/c5f62091-cf5c-4e50-ab52-fa8631bd2571.svg" 
-    width="1500" height="450"></img>
-<img src="https://wakatime.com/share/@CarlosViniMSouza/03ce123a-12de-4642-9c55-6ff2a4440e0a.svg" 
-    width="1500" height="450"></img>
+<figure>
+    <embed src="https://wakatime.com/share/@CarlosViniMSouza/3cb38028-a342-4ebb-bdd2-2a373e7f6897.svg"></embed>
+</figure>
+<figure>
+<embed src="https://wakatime.com/share/@CarlosViniMSouza/dc1214a8-3892-4529-bac1-786dbcaf930a.svg"></embed>
+</figure>
+<figure>
+<embed src="https://wakatime.com/share/@CarlosViniMSouza/5ae1442d-8703-4269-91ce-de1f0e7bbca7.svg"></embed>
 </figure>
 
 <p align="center">
