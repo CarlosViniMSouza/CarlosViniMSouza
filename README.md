@@ -106,6 +106,8 @@
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-0086F8?style=for-the-badge&logo=android-studio&logoColor=white "Android Studio")](https://developer.android.com/studio)
 [![NetBeans](https://img.shields.io/badge/-NetBeans-45b8d8?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white "NetBeans")](https://netbeans.apache.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=for-the-badge&logo=Jupyter&logoColor=white "Jupyter Notebook")](https://jupyter.org/index.html)
+[![WebStorm](https://img.shields.io/badge/-WebStorm-2088FF?style=for-the-badge&logo=WebStorm&logoColor=white "WebStorm")](https://www.jetbrains.com/webstorm/)
+[![CLion](https://img.shields.io/badge/-CLion-13aa52?style=for-the-badge&logo=CLion&logoColor=white "CLion")](https://www.jetbrains.com/clion/)
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
