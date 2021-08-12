@@ -19,13 +19,13 @@
 
 <h3> 👨‍💼💻&nbsp; Su di me : </h3>
 
-### - 📖&nbsp; Studiare R e Python per Data Science e B.I .;
-### - 📚&nbsp; Incentrato su: intelligenza artificiale, machine learning avanzato, big data;
-### - 🗺&nbsp; Lingue: inglese (intermedio), spagnolo (intermedio), italiano (base);
+### - 📖&nbsp; Studio delle basi del web, backend con Python, SQLite e CI/CD;
+### - 📚&nbsp; Incentrato su: Sviluppo Web e Intelligenza Artificiale;
+### - 🗺&nbsp; Lingue : inglese (intermedio), spagnolo (intermedio), italiano (base);
 ### - 🎓&nbsp; Studiare ingegneria del software presso l'Istituto federale di Amazonas;
 ### - 🛠&nbsp; Costruire le basi della mia carriera nell'IT;
 ### - 🖖&nbsp; Mi piace partecipare a eventi tecnologici e fare rete con qualsiasi sviluppatore;
-### - 🖥&nbsp; Hobby: giochi, film d'azione e imparare qualcosa di nuovo;
+### - 🖥&nbsp; Hobby : giochi, film d'azione e imparare qualcosa di nuovo;
 ### - ☕&nbsp; Il caffè per me è qualcosa di molto importante (meglio che vedere un progetto finito, è un buon caffè);
 
 <h3> :electron:&nbsp; Abilità tecniche : </h3>

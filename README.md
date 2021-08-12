@@ -23,8 +23,8 @@
 
 <h3> 👨‍💼💻&nbsp; Sobre a minha pessoa : </h3>
 
-### - 📖&nbsp; Estudando R e Python para Ciência de Dados e B.I;
-### - 📚&nbsp; Focado em : Inteligência Artificial, Aprendizado Reforçado de Máquina, Big Data;
+### - 📖&nbsp; Estudando básico de web, back-end com Python, SQLite e CI/CD;
+### - 📚&nbsp; Focado em : Desenvolvimento Web e Inteligência Artificial;
 ### - 🗺&nbsp; Idiomas : Inglês (Intermediário), Espanhol (Intermediário), Italiano (Básico);
 ### - 🎓&nbsp; Cursando Engenharia de Software no Instituto Federal do Amazonas;
 ### - 🛠&nbsp; Construindo a base da minha carreira em T.I;

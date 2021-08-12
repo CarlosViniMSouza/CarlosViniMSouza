@@ -19,13 +19,13 @@
 
 <h3> 👨‍💼💻&nbsp; About me : </h3>
 
-### - 📖&nbsp; Studying R and Python for Data Science and B.I;
-### - 📚&nbsp; Focused on: Artificial Intelligence, Enhanced Machine Learning, Big Data;
-### - 🗺&nbsp; Languages: English (Intermediate), Spanish (Intermediate), Italian (Basic);
+### - 📖&nbsp; Studying web basics, backend with Python, SQLite and CI/CD;
+### - 📚&nbsp; Focused on : Web Development and Artificial Intelligence;
+### - 🗺&nbsp; Languages : English (Intermediate), Spanish (Intermediate), Italian (Basic);
 ### - 🎓&nbsp; Studying Software Engineering at the Federal Institute of Amazonas;
 ### - 🛠&nbsp; Building the foundation of my I.T. career;
 ### - 🖖&nbsp; I like to participate in technology events and network with any dev;
-### - 🖥&nbsp; Hobbies: Games, Action Movies and Learning Something New;
+### - 🖥&nbsp; Hobbies : Games, Action Movies and Learning Something New;
 ### - ☕&nbsp; Coffee for me is something very important (better than seeing a finished project, it's a good coffee);
 
 <h3> :electron:&nbsp; Technical skills : </h3>
