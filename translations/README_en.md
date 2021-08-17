@@ -13,7 +13,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Data%20Scientist%20|%20ML%20Engineer%22)
+![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Full-Stack%20Python)
   
 <h2> 🌐&nbsp; How about we take a good ☕&nbsp; and do NetWork ?! ✌️🤓&nbsp; </h2>
 
@@ -89,13 +89,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.github.com/CarlosViniMSouza">
     <img src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true"/>
   </a>
 </p>
 
@@ -158,6 +153,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=dracula)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jobream&repo=List-of-Learning-Resources&theme=dracula)](https://github.com/jobream/List-of-Learning-Resources)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ileriayo&repo=markdown-badges&theme=dracula)](https://github.com/Ileriayo/markdown-badges)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
@@ -166,7 +162,7 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula">
-    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
+    <img width="45%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
   </a>
 </p>
 
@@ -186,13 +182,13 @@
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
