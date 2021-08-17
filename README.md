@@ -211,7 +211,7 @@
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="70%" src="https://pagespeed-insights.herokuapp.com/?url=https://carlosvinimsouza.github.io/"/>
+    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
