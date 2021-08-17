@@ -132,12 +132,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/go-techs-tools.jpg"/>
-  </a>
-</p>
-
 <h3> 🗃&nbsp; My Contributions : </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
@@ -153,7 +147,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=dracula)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jobream&repo=List-of-Learning-Resources&theme=dracula)](https://github.com/jobream/List-of-Learning-Resources)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ileriayo&repo=markdown-badges&theme=dracula)](https://github.com/Ileriayo/markdown-badges)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
@@ -177,6 +170,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ileriayo&repo=markdown-badges&theme=dracula)](https://github.com/Ileriayo/markdown-badges)
 
 <h3> 📊&nbsp; My GitHub Metrics : </h3>
 
