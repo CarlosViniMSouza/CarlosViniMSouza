@@ -120,18 +120,6 @@
 
 <p align="center">
   <a href="https://wakatime.com/@CarlosViniMSouza/">
-    <img src="https://wakatime.com/share/@CarlosViniMSouza/3cb38028-a342-4ebb-bdd2-2a373e7f6897.svg" width=500/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@CarlosViniMSouza/">
-    <img src="https://wakatime.com/share/@CarlosViniMSouza/dc1214a8-3892-4529-bac1-786dbcaf930a.svg" width=500/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@CarlosViniMSouza/">
     <img src="https://wakatime.com/share/@CarlosViniMSouza/5ae1442d-8703-4269-91ce-de1f0e7bbca7.svg" width=500/>
   </a>
 </p>
