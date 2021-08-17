@@ -209,7 +209,11 @@
   </a>
 </p>
 
-![PageSpeed](https://pagespeed-insights.herokuapp.com/?url=https://carlosvinimsouza.github.io/)
+<p align="center">
+  <a href="https://github.com/CarlosViniMSouza/">
+    <img width="70%" src="https://pagespeed-insights.herokuapp.com/?url=https://carlosvinimsouza.github.io/"/>
+  </a>
+</p>
 
 <h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
 
