@@ -176,13 +176,13 @@
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
@@ -196,12 +196,6 @@
 
 <!-- If you're using "main" as default branch -->
 ![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif">
-    <img width="80%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif"/>
-  </a>
-</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
