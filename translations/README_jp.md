@@ -13,7 +13,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Data%20Scientist%20|%20ML%20Engineer%22)
+![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Full-Stack%20Python)
   
 <h2> 🌐&nbsp; 良い ☕&nbsp; を取るのはどうですか。 そしてネットワークを行う？！ ✌️🤓&nbsp; </h2>
 
@@ -89,13 +89,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.github.com/CarlosViniMSouza">
     <img src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true"/>
   </a>
 </p>
 
@@ -137,12 +132,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/go-techs-tools.jpg"/>
-  </a>
-</p>
-
 <h3> 🗃&nbsp; 私の貢献 : </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
@@ -165,7 +154,7 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula">
-    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
+    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
   </a>
 </p>
 
@@ -180,18 +169,19 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ileriayo&repo=markdown-badges&theme=dracula)](https://github.com/Ileriayo/markdown-badges)
 
 <h3> 📊&nbsp; 私のGitHubメトリクス : </h3>
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
@@ -205,12 +195,6 @@
 
 <!-- If you're using "main" as default branch -->
 ![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif">
-    <img width="80%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif"/>
-  </a>
-</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
@@ -226,7 +210,7 @@
 
 <p align="center">
   <a href='https://www.chess.com/member/carlosvinimsouza'>
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_98.gif"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_98.gif"/>
   </a>
 </p>
 
