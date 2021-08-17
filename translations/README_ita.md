@@ -132,12 +132,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/go-techs-tools.jpg"/>
-  </a>
-</p>
-
 <h3> 🗃&nbsp; I miei contributi : </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
