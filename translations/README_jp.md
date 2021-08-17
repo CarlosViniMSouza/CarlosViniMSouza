@@ -30,12 +30,6 @@
 
 <h3> :electron:&nbsp; 技術的なスキル : </h3>
 
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=400 src="https://classroom.github.com/assets/education_welcome-9814a7af7c53f0ad7867c5026890e6fe58682a5a87815028bc915c0fa1a1e91b.svg"/>
-  </a>
-</p>
-
 ### - 💻&nbsp; プログラミング言語 [Puroguramingu gengo]
 [![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=white "Python")](https://www.python.org/)
 [![R Language](https://img.shields.io/badge/R-2088FF?style=for-the-badge&logo=R&logoColor=white "R Language")](https://www.r-project.org/")
@@ -48,12 +42,6 @@
 [![CSS](https://img.shields.io/badge/CSS-2088FF?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![MarkDown](https://img.shields.io/badge/Markdown-2372B6?style=for-the-badge&logo=markdown&logoColor=white "Markdown")](https://markdown.net.br/)
 [![NodeJS](https://img.shields.io/badge/node.js-003f2c?style=for-the-badge&logo=Node.js&logoColor=white "NodeJS")](https://nodejs.org/en/download/)
-
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg"/>
-  </a>
-</p>
 
 ### - 🌐&nbsp; ライブラリとツール
 [![Packages R](https://img.shields.io/badge/-Packages_R-2088FF?style=for-the-badge&logo=R&logoColor=white "R Packages")](https://cloud.r-project.org/)
@@ -72,12 +60,6 @@
 [![Git](https://img.shields.io/badge/Git-23F050?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
 [![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=Django&logoColor=white%20%22Django%22)](https://www.djangoproject.com/)
 
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg"/>
-  </a>
-</p>
-
 ### - 🛢&nbsp; データベースとクラウドサービス
 [![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white "Azure")](https://azure.microsoft.com/pt-br/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")](https://www.mongodb.com/)
@@ -85,12 +67,6 @@
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Microsoft-3b2e5a?style=for-the-badge&logo=Visual-Studio&logoColor=white "Visual Studio")](https://visualstudio.microsoft.com/pt-br/)
 [![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white "IBM Cloud")](https://cloud.ibm.com/login)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31192B?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org/)
-
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg"/>
-  </a>
-</p>
 
 ### - ⚒&nbsp; 統合開発環境 - IDE's
 [![Anaconda](https://img.shields.io/badge/-Anaconda-13aa52?style=for-the-badge&logo=anaconda&logoColor=white "Anaconda")](https://www.anaconda.com/blog)
@@ -104,12 +80,6 @@
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=for-the-badge&logo=Jupyter&logoColor=white "Jupyter Notebook")](https://jupyter.org/index.html)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-2088FF?style=for-the-badge&logo=WebStorm&logoColor=white "WebStorm")](https://www.jetbrains.com/webstorm/)
 [![CLion](https://img.shields.io/badge/-CLion-13aa52?style=for-the-badge&logo=CLion&logoColor=white "CLion")](https://www.jetbrains.com/clion/)
-
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg"/>
-  </a>
-</p>
 
 <h3> 🧑‍🔬&nbsp; プログラミングの進歩 : </h3>
 
@@ -222,13 +192,17 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-![NLW_Together](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/NLW_Together.jpg?raw=true)
-
 <h3> 📊&nbsp; 私のGitHubメトリクス : </h3>
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
     <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosViniMSouza/">
+    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
@@ -270,11 +244,7 @@
 <h3> 🎖&nbsp; README.mdのマイバッジ : </h3>
 
 [![CodeQL](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml)
-
 [![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml)
-
 [![OSSAR](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml)
-
 [![GitHub Actions Demo](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml)
-
 [![Generate Animation](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml)
