@@ -17,7 +17,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Data%20Scientist%20|%20ML%20Engineer%22)
+![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Full-Stack%20Python)
   
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! ✌️🤓&nbsp; </h2>
 
@@ -144,12 +144,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href='https://github.com/CarlosViniMSouza/'>
-    <img width=500 src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/go-techs-tools.jpg"/>
-  </a>
-</p>
-
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
@@ -193,13 +187,13 @@
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
-    <img width="70%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
@@ -213,12 +207,6 @@
 
 <!-- If you're using "main" as default branch -->
 ![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif">
-    <img width="80%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/funcionou.gif"/>
-  </a>
-</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
@@ -234,7 +222,7 @@
 
 <p align="center">
   <a href='https://www.chess.com/member/carlosvinimsouza'>
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_98.gif"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_98.gif"/>
   </a>
 </p>
 
