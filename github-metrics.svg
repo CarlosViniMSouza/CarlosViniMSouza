@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mkdocs/mkdocs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1757,7 +1757,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rocketseat-education/nlw-06-origin</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2250,7 +2250,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.618788887144845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.62816771174214 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2325,7 +2325,7 @@
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 133k out of 75m users
+                      ranked 132k out of 75m users
                     </span>
                   
                   
@@ -2652,7 +2652,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23/08/2021, 16:03 (timezone America/Sao_Paulo) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 23/08/2021, 17:07 (timezone America/Sao_Paulo) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
