@@ -14,23 +14,31 @@
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
 ![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Full-Stack%20Python)
-  
+
 <h2> 🌐&nbsp; 良い ☕&nbsp; を取るのはどうですか。 そしてネットワークを行う？！ ✌️🤓&nbsp; </h2>
 
 <h3> 👨‍💼💻&nbsp; 私について : </h3>
 
-### - 📖&nbsp; Python、SQLite、CI / CDを使用したWebの基本、バックエンドの学習。
-### - 📚&nbsp; 焦点：Web開発と人工知能。
+### - 📖&nbsp; Python、SQLite、CI / CD を使用した Web の基本、バックエンドの学習。
+
+### - 📚&nbsp; 焦点：Web 開発と人工知能。
+
 ### - 🗺&nbsp; 言語：英語（中級）、スペイン語（中級）、イタリア語（基本）。
+
 ### - 🎓&nbsp; アマゾナス連邦研究所でソフトウェア工学を学ぶ。
-### - 🛠&nbsp; ITにおける私のキャリアの基盤を構築します。
+
+### - 🛠&nbsp; IT における私のキャリアの基盤を構築します。
+
 ### - 🖖&nbsp; 私はテクノロジーイベントに参加したり、あらゆる開発者とネットワークを築いたりするのが好きです。
+
 ### - 🖥&nbsp; 趣味：ゲーム、アクション映画、何か新しいことを学ぶ。
+
 ### - ☕&nbsp; 私にとってコーヒーは非常に重要なものです（完成したプロジェクトを見るよりも、おいしいコーヒーです）。
 
 <h3> :electron:&nbsp; 技術的なスキル : </h3>
 
 ### - 💻&nbsp; プログラミング言語 [Puroguramingu gengo]
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,6 +52,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-003f2c?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ### - 🌐&nbsp; ライブラリとツール
+
 ![Packages R](https://img.shields.io/badge/-Packages_R-2088FF?style=for-the-badge&logo=R&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -64,14 +73,16 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### - 🛢&nbsp; データベースとクラウドサービス
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white "IBM Cloud")](https://cloud.ibm.com/login)
-[![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white "Azure")](https://azure.microsoft.com/pt-br/)
+[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white 'IBM Cloud')](https://cloud.ibm.com/login)
+[![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white 'Azure')](https://azure.microsoft.com/pt-br/)
 
 ### - ⚒&nbsp; 統合開発環境 - IDE's
+
 ![Anaconda](https://img.shields.io/badge/-Anaconda-13aa52?style=for-the-badge&logo=anaconda&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-8DD6F9?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -101,7 +112,7 @@
   </a>
 </p>
 
-*The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame*
+_The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame_
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
@@ -127,7 +138,7 @@
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosViniMSouza&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosViniMSouza&theme=dracula"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula"/>
   </a>
 </p>
@@ -158,9 +169,9 @@
   </a>
 </p>
 
-🤗&nbsp; **おかげで： [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - README.mdの作成にご協力ください**
+🤗&nbsp; **おかげで： [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - README.md の作成にご協力ください**
 
-**追加：README.mdをカスタマイズするための超クールなリポジトリ**
+**追加：README.md をカスタマイズするための超クールなリポジトリ**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dracula)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
@@ -194,6 +205,7 @@
 </p>
 
 <!-- If you're using "main" as default branch -->
+
 ![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
