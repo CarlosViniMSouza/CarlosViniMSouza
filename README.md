@@ -18,23 +18,31 @@
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
 ![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Full-Stack%20Python)
-  
+
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! ✌️🤓&nbsp; </h2>
 
 <h3> 👨‍💼💻&nbsp; Sobre a minha pessoa : </h3>
 
 ### - 📖&nbsp; Estudando básico de web, back-end com Python, SQLite e CI/CD;
+
 ### - 📚&nbsp; Focado em : Desenvolvimento Web e Inteligência Artificial;
+
 ### - 🗺&nbsp; Idiomas : Inglês (Intermediário), Espanhol (Intermediário), Italiano (Básico);
+
 ### - 🎓&nbsp; Cursando Engenharia de Software no Instituto Federal do Amazonas;
+
 ### - 🛠&nbsp; Construindo a base da minha carreira em T.I;
+
 ### - 🖖&nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
+
 ### - 🖥&nbsp; Passatempos : Jogos, Filmes de ação e Aprender algo novo;
+
 ### - ☕&nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
 
 <h3> :electron:&nbsp; Competências Técnicas : </h3>
 
 ### - 💻&nbsp; Linguagens de Programação
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,6 +56,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-003f2c?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ### - 🌐&nbsp; Bibliotecas e Ferramentas
+
 ![Packages R](https://img.shields.io/badge/-Packages_R-2088FF?style=for-the-badge&logo=R&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -68,14 +77,16 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### - 🛢&nbsp; Bancos de Dados e Serviços em Nuvem
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white "IBM Cloud")](https://cloud.ibm.com/login)
-[![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white "Azure")](https://azure.microsoft.com/pt-br/)
+[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-21759B?style=for-the-badge&logo=ibm&logoColor=white 'IBM Cloud')](https://cloud.ibm.com/login)
+[![Azure](https://img.shields.io/badge/-Microsoft_Azure-45b8d8?style=for-the-badge&logo=microsoft-azure&logoColor=white 'Azure')](https://azure.microsoft.com/pt-br/)
 
 ### - ⚒&nbsp; Ambientes de Desenvolvimento Integrados - IDE's
+
 ![Anaconda](https://img.shields.io/badge/-Anaconda-13aa52?style=for-the-badge&logo=anaconda&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-8DD6F9?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -110,7 +121,7 @@
   </a>
 </p>
 
-*The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame*
+_The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame_
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
@@ -139,7 +150,7 @@
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosViniMSouza&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosViniMSouza&theme=dracula"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula"/>
   </a>
 </p>
@@ -206,6 +217,7 @@
 </p>
 
 <!-- If you're using "main" as default branch -->
+
 ![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
