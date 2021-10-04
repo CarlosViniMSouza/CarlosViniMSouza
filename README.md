@@ -114,7 +114,7 @@
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&&hide=jupyter%20notebook,Python"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&hide=jupyter%20notebook,Python"/>
   </a>
 </p>
 
@@ -148,20 +148,6 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=dracula)](https://github.com/gabrielcmarinho/links-uteis)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=dracula)](https://github.com/Lorenalgm/hackathon-dicas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=dracula)](https://github.com/geekcomputers/Python)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=dracula)](https://github.com/perifacode/conteudo-gratuito)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=dracula)](https://github.com/dmpe/R)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=dracula)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jobream&repo=List-of-Learning-Resources&theme=dracula)](https://github.com/jobream/List-of-Learning-Resources)
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
 
 <h3> 🏆&nbsp; Meus Troféus do GitHub : </h3>
@@ -177,14 +163,6 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
     <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
-  </a>
-</p>
-
-<h3> 👋&nbsp; Número de Visitas ao meu Perfil : </h3>
-
-<p align="center">
-  <a href="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg">
-    <img width="25%" src="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg"/>
   </a>
 </p>
 
