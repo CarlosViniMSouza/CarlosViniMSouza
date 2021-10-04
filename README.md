@@ -179,11 +179,3 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 ![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs_2020.png)
-
-<h3> ♟&nbsp; Minha melhor partida no momento : </h3>
-
-<p align="center">
-  <a href='https://www.chess.com/member/carlosvinimsouza'>
-    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_98.gif"/>
-  </a>
-</p>
