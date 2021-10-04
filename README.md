@@ -114,7 +114,7 @@
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&hide=jupyter%20notebook,Python"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,Python"/>
   </a>
 </p>
 
