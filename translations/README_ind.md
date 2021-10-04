@@ -1,5 +1,3 @@
-#### Veja esse README.md em Português : <kbd>[<img title="Brasil" alt="Brasil" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/flags/br.jpg" width="22">](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/README.md)</kbd>
-
 <h2> हाय दोस्तों, मैं कार्लोस विनीसियस मोंटेइरो डी सूजा हूँ। <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 📡&nbsp; यदि आप मुझसे संपर्क करना चाहते हैं, तो चैट करें या केवल एक विचार का आदान-प्रदान करें, यहां कुछ तरीके उपलब्ध हैं : </h3>
@@ -12,8 +10,6 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
-
-![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Full-Stack%20Python)
 
 <h2> 🌐&nbsp; कैसे के बारे में हम एक अच्छा लेते हैं ☕&nbsp; और NetWork करते हैं! ✌️🤓&nbsp; </h2>
 
@@ -119,9 +115,6 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula"/>
-  <a href="https://wakatime.com/@CarlosViniMSouza/">
-    <img src="https://wakatime.com/share/@CarlosViniMSouza/5ae1442d-8703-4269-91ce-de1f0e7bbca7.svg" 
-    width=320/>
   </a>
 </p>
 
@@ -147,23 +140,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <h3> 🗃&nbsp; मेरा योगदान : </h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iuricode&repo=recursos-gratuitos&theme=dracula)](https://github.com/iuricode/recursos-gratuitos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielcmarinho&repo=links-uteis&theme=dracula)](https://github.com/gabrielcmarinho/links-uteis)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorenalgm&repo=hackathon-dicas&theme=dracula)](https://github.com/Lorenalgm/hackathon-dicas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekcomputers&repo=Python&theme=dracula)](https://github.com/geekcomputers/Python)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perifacode&repo=conteudo-gratuito&theme=dracula)](https://github.com/perifacode/conteudo-gratuito)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmpe&repo=R&theme=dracula)](https://github.com/dmpe/R)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvins&repo=Algoritmos-e-Estruturas-de-Dados&theme=dracula)](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jobream&repo=List-of-Learning-Resources&theme=dracula)](https://github.com/jobream/List-of-Learning-Resources)
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
-
-<h3>.</h3>
 
 <h3> 🏆&nbsp; मेरी गिटहब ट्राफियां : </h3>
 
@@ -173,40 +150,11 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
   </a>
 </p>
 
-<h3>.</h3>
-
-🤗&nbsp; **शुकि्रया : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - मेरे README.md के निर्माण में मदद के लिए**
-
-**अतिरिक्त: आपके README.md को कस्टमाइज़ करने के लिए सुपर-कूल रिपॉजिटरी**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dracula)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ileriayo&repo=markdown-badges&theme=dracula)](https://github.com/Ileriayo/markdown-badges)
-
 <h3> 📊&nbsp; मेरा गिटहब मेट्रिक्स : </h3>
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
     <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/">
-    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
-  </a>
-</p>
-
-<h3> 👋&nbsp; मेरी प्रोफ़ाइल पर विज़िट की संख्या : </h3>
-
-<p align="center">
-  <a href="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg">
-    <img width="25%" src="https://profile-counter.glitch.me/CarlosViniMSouza/count.svg"/>
   </a>
 </p>
 
@@ -223,19 +171,3 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 ![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs_2020.png)
-
-<h3> ♟&nbsp; इस समय मेरा सबसे अच्छा खेल : </h3>
-
-<p align="center">
-  <a href='https://www.chess.com/member/carlosvinimsouza'>
-    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_98.gif"/>
-  </a>
-</p>
-
-<h3> 🎖&nbsp; README.md . में मेरे बैज : </h3>
-
-[![CodeQL](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml)
-[![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml)
-[![OSSAR](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml)
-[![GitHub Actions Demo](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml)
-[![Generate Animation](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml)
