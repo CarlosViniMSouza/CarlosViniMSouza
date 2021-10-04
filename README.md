@@ -17,8 +17,6 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-![img-dev](https://github-hero-readme.vercel.app/api?username=CarlosViniMSouza&linkedin=Carlos%20Souza&twitter=CarlosViniMS1&description=Open%20Source%20Contribuiter%20|%20Full-Stack%20Python)
-
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! ✌️🤓&nbsp; </h2>
 
 <h3> 👨‍💼💻&nbsp; Sobre a minha pessoa : </h3>
@@ -116,8 +114,7 @@
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,Python"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosViniMSouza&layout=compact&theme=dracula&&hide=jupyter%20notebook,Python"/>
   </a>
 </p>
 
@@ -126,12 +123,6 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@CarlosViniMSouza/">
-    <img src="https://wakatime.com/share/@CarlosViniMSouza/5ae1442d-8703-4269-91ce-de1f0e7bbca7.svg" width=500/>
   </a>
 </p>
 
@@ -181,30 +172,11 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
   </a>
 </p>
 
-🤗&nbsp; **Agradecimentos para : [Duduxs](https://github.com/Duduxs), [devSouvik](https://github.com/devSouvik) e [Raven](https://github.com/Anirban166) - Pela ajuda na construção do meu README.md**
-
-**Extra : Repositórios Super-Legais para você personalizar seu README.md**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&theme=dracula)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieHubCommunity&repo=awesome-github-profiles&theme=dracula)](https://github.com/EddieHubCommunity/awesome-github-profiles)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ileriayo&repo=markdown-badges&theme=dracula)](https://github.com/Ileriayo/markdown-badges)
-
 <h3> 📊&nbsp; Minhas Métricas do GitHub : </h3>
 
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
     <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/">
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
@@ -237,11 +209,3 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
     <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/gifs/Precisao_98.gif"/>
   </a>
 </p>
-
-<h3> 🎖&nbsp; Meus Distintivos no README.md : </h3>
-
-[![CodeQL](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/codeql-analysis.yml)
-[![Metrics](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/blank.yml)
-[![OSSAR](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/ossar-analysis.yml)
-[![GitHub Actions Demo](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/github-actions-demo.yml)
-[![Generate Animation](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml/badge.svg)](https://github.com/CarlosViniMSouza/CarlosViniMSouza/actions/workflows/animation.yml)
