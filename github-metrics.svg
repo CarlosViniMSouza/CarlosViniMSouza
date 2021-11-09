@@ -1370,7 +1370,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -1404,7 +1404,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            1467 Commits
+            1468 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1595,14 +1595,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.9571357103964" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="295.9571357103964" y="0" width="153.91939256958003" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="449.87652827997647" y="0" width="3.008737211542676" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.88526549151914" y="0" width="1.771231053270421" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.65649654478955" y="0" width="1.6086352637571213" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.2651318085467" y="0" width="1.3940929265504234" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.65922473509715" y="0" width="1.3088779611129686" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.9681026962101" y="0" width="1.0318973037898993" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.92684852338624" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="295.92684852338624" y="0" width="153.90364101347694" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="449.8304895368632" y="0" width="3.008429308216163" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.8389188450793" y="0" width="1.771049791865725" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.60996863694504" y="0" width="1.6084706418197328" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.2184392787648" y="0" width="1.4410250028397134" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.65946428160447" y="0" width="1.3087440152579832" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.96820829686243" y="0" width="1.0317917031374932" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2097,6 +2097,44 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">CarlosViniMSouza/SpringWebFIC</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#06ce2f2</span>
+                                        <span class="message">security in progress...</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#0f6a08a</span>
+                                        <span class="message">Deploy to GitHub pages</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
                     </div>
                                 </div>
@@ -2142,44 +2180,6 @@
                                     <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
                                         <span class="sha">#d2962e1</span>
-                                        <span class="message">Deploy to GitHub pages</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#76d9102</span>
-                                        <span class="message">Deploy to GitHub pages</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e1bd86d</span>
                                         <span class="message">Deploy to GitHub pages</span>
                                     </div>
                                 </div>
@@ -2905,7 +2905,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2021, 21:22:36 (timezone America/Sao_Paulo) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 8 Nov 2021, 22:49:14 (timezone America/Sao_Paulo) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
