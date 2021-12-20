@@ -1919,7 +1919,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>systemd/systemd</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1961,7 +1961,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sourcegraph/sourcegraph</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2003,7 +2003,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hadley/r4ds</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2045,7 +2045,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ogham/exa</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2997,7 +2997,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2021, 18:06:41 (timezone America/Sao_Paulo) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 20 Dec 2021, 19:07:14 (timezone America/Sao_Paulo) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
