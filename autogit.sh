@@ -1,6 +1,6 @@
 git pull
 git add .
-git commit -m "README_ind.md & README_ita.md -> translation fixed"
+git commit -m "README_jp.md -> translation fixed"
 git push
 git status
 clear
