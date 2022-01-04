@@ -98,7 +98,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<h3> 🔋&nbsp; Minha Especialização : </h3>
+<h3> 🔋&nbsp; मेरी विशेषज्ञता : </h3>
 
 ### - 🌐&nbsp; वेब(फ्रंट-एंड + बैक-एंड + डीबी):
 
