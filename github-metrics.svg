@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3122" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3154" class="">
     <defs>
         <style/>
     </defs>
@@ -48,7 +48,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -87,7 +87,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1794 Commits
+                            1799 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -345,14 +345,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.814725354141" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="295.814725354141" y="0" width="153.14535679864542" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.9600821527864" y="0" width="3.0172458611715425" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.97732801395796" y="0" width="2.0992182076962873" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.07654622165427" y="0" width="1.7861115951468134" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.86265781680106" y="0" width="1.6015651729217162" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.46422298972277" y="0" width="1.5090689514013687" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.97329194112416" y="0" width="1.0267080588758557" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.79230104008116" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="295.79230104008116" y="0" width="153.13119132797823" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="448.9234923680594" y="0" width="3.0423132802810025" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.9658056483404" y="0" width="2.099024036520832" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.0648296848612" y="0" width="1.798210823263725" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.8630405081249" y="0" width="1.6014170331089732" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.46445754123386" y="0" width="1.5089293672023263" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.9733869084362" y="0" width="1.0266130915637819" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -598,7 +598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theindianappguy/uvento</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flutter Events App Ui Challenge Speed Code</div>
@@ -645,7 +645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PipedreamHQ/pipedream</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Connect APIs, remarkably fast.  Free for developers.</div>
@@ -698,7 +698,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>afgprogrammer/Flutter-GridView-Example-UI</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flutter GridView Example in a Shopping List Design - day 10</div>
@@ -751,7 +751,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MarcusNg/flutter_youtube_api</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">https://youtu.be/feQhHStBVLE</div>
@@ -906,14 +906,74 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                                        <span class="repo">CarlosViniMSouza/Social-Network-Django</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#af9320e</span>
-                                        <span class="message">Deploy to GitHub pages</span>
+                                        <span class="sha">#bf1df6c</span>
+                                        <span class="message">conclusion.js -&gt; alts add</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Social-Network-Django</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3662f43</span>
+                                        <span class="message">profile.html -&gt; finished | profile_list.html -&gt; finished</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Social-Network-Django</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7e33f13</span>
+                                        <span class="message">profile.html -&gt; finished | profile_list.html -&gt; finished</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Social-Network-Django</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#799d983</span>
+                                        <span class="message">Next Topic: Link the Profile Pages | profile.html -&gt; add | views.py and urls.py -&gt; alts add</span>
                                     </div>
                                 </div>
                             </section>
@@ -932,65 +992,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <span class="sha">#36aff9c</span>
+                                        <span class="sha">#ea3934a</span>
                                         <span class="message">Deploy to GitHub pages</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/Book_Flutter_Apprentice</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#1d24bfb</span>
-                                        <span class="message">README.md -&gt; img add | home.dart -&gt; alts add</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">CarlosViniMSouza/Book_Flutter_Apprentice</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#f84385c</span>
-                                        <span class="message">assets: img -&gt; add | Project Restarted</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1b810fc</span>
-                                        <span class="message">assets: img -&gt; add | Project Restarted</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">theindianappguy/uvento</span>
                                     </div>
                                 </div>
                             </section>
@@ -1690,7 +1693,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2022, 09:11:39 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 8 Jan 2022, 10:15:58 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
