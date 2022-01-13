@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3190" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
     <defs>
         <style/>
     </defs>
@@ -598,7 +598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>afgprogrammer/Flutter-Login-Page-3</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flutter Beautiful Login Page Design and Animation - day 14</div>
@@ -651,7 +651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bprofiro/editor</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -915,6 +915,26 @@
                                         </svg>
                                         <div class="content">
                                             Pushed 1 commit in
+                                            <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">output</span></div>
+                                        <div class="commit">
+                                            <span class="sha">#2953c79</span>
+                                            <span class="message">Deploy to GitHub pages</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Pushed 1 commit in
                                             <span class="repo">CarlosViniMSouza/API_Development_FullCourse</span>
                                         </div>
                                     </div>
@@ -983,30 +1003,6 @@
                                         <div class="commit">
                                             <span class="sha">#6833011</span>
                                             <span class="message">post.py -&gt; finished | @routers.put() -&gt; finished</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 2 commits in
-                                            <span class="repo">CarlosViniMSouza/API_Development_FullCourse</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">master</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#fb9ab30</span>
-                                            <span class="message">post.py -&gt; add | @routers.delete() -&gt; finished</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#177ed43</span>
-                                            <span class="message">post.py -&gt; add | @routers.delete() -&gt; in execution ...</span>
                                         </div>
                                     </div>
                                 </section>
@@ -1706,7 +1702,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 13 Jan 2022, 09:12:15 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 13 Jan 2022, 10:18:20 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
