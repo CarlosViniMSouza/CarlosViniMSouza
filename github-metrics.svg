@@ -87,7 +87,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1850 Commits
+                            1851 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -345,14 +345,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.6073397437309" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="295.6073397437309" y="0" width="152.9484103632329" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.5557501069638" y="0" width="3.149333116850284" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.7050832238141" y="0" width="2.0965185924301037" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.80160181624416" y="0" width="1.8235336826005433" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.6251354988447" y="0" width="1.5995055443539206" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.22464104319863" y="0" width="1.5045510434912588" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.72919208668986" y="0" width="1.270807913310067" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.6101672457266" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="295.6101672457266" y="0" width="152.94577969873208" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="448.55594694445864" y="0" width="3.1492789493122744" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.70522589377094" y="0" width="2.096482532970424" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.80170842674136" y="0" width="1.8235023183953607" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.6252107451367" y="0" width="1.5994780333621785" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.2246887784989" y="0" width="1.504525165687034" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.7292139441859" y="0" width="1.270786055814085" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -520,13 +520,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.48 s</div>
+                        <div class="audit text">0.47 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.77 s</div>
+                        <div class="audit text">0.76 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -562,13 +562,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.48 s</div>
+                        <div class="audit text">0.47 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.77 s</div>
+                        <div class="audit text">0.76 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -598,7 +598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-client/python</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Python client library for kubernetes</div>
@@ -921,6 +921,26 @@
                                     <div class="details">
                                         <div>on branch <span class="code">master</span></div>
                                         <div class="commit">
+                                            <span class="sha">#59aa89c</span>
+                                            <span class="message">test_calculations.py -&gt; add | Any test being receveid</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Pushed 1 commit in
+                                            <span class="repo">CarlosViniMSouza/API_Development_FullCourse</span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>on branch <span class="code">master</span></div>
+                                        <div class="commit">
                                             <span class="sha">#a29719f</span>
                                             <span class="message">database.py -&gt; add</span>
                                         </div>
@@ -983,26 +1003,6 @@
                                         <div class="commit">
                                             <span class="sha">#abebb6f</span>
                                             <span class="message">requirements.txt -&gt; add</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">CarlosViniMSouza/API_Development_FullCourse</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">master</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#72639fa</span>
-                                            <span class="message">.dockerignore &amp; Procfile -&gt; add</span>
                                         </div>
                                     </div>
                                 </section>
@@ -1288,7 +1288,7 @@
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.08040201005025 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.859296482412056 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1310,7 +1310,7 @@
                                         <span class="prefix"></span>
                                         Deployer
                                     </div>
-                                    <div class="text">Repositories have been deployed 73 times</div>
+                                    <div class="text">Repositories have been deployed 74 times</div>
                                 </div>
                             </div>
                             <div class="achievement c largeable-width-half">
@@ -1702,7 +1702,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 14 Jan 2022, 14:16:33 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 14 Jan 2022, 15:08:36 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
