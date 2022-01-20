@@ -66,7 +66,6 @@ Italiano – nível Básico.
 	° Introdução á Aprendizagem de Máquina;
 ```
 
-
 ### ° Participação em Hackathons e Competições, onde exerci funções e atividades como:
 ```R
 	1 – IBM Behind The Code – Edition 2020:
@@ -83,12 +82,19 @@ Italiano – nível Básico.
 ```R
 	2 – Hackathon Eugenio&Natura:
 	Desenvolvedor Back-End, atividade exercida:
-		° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de	produtos (com base nas preferências de diversas pessoas). Utilizando de APIs da Eugenio(para análise de dados) e Google Maps(na parte de Geolocalização do aplicativo).
+		° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um 
+		Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de	produtos (com base nas preferências de 
+		diversas pessoas). Utilizando de APIs da Eugenio(para análise de dados) e Google Maps(na parte de Geolocalização do 
+		aplicativo).
 ```
 ```R
 	3 – Hackathon GetNet&SEBRAE:
 	Desenvolvedor Back-End, atividade exercida:
-		° Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão	guardadas dentro de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito(para a situação atual de sua microempresa), direcionamento para cursos e especializações necessárias á atividade essencial da empresa, e também, fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio Empreendedor, informações relevantes sobre seus clientes e ‘potenciais’ clientes.
+		° Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão	guardadas dentro 
+		de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito(para a situação atual de sua 
+		microempresa), direcionamento para cursos e especializações necessárias á atividade essencial da empresa, e também, 
+		fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio Empreendedor, informações relevantes sobre seus 
+		clientes e ‘potenciais’ clientes.
 ```
 
 ### Projetos Pessoais co-relacionados as minhas áreas de interesse:

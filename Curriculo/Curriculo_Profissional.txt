@@ -42,24 +42,23 @@ Italiano – nível Básico.
 ° Organização do Festival de Dança durante o Ensino Médio.
 
 ° Participação em Olimpíadas de Matemática:
-	° OBMEP;
-	° Olimpíada de Matemática do SESI;
-	° OAM - Olimpíada Amazonense de Matemática;
-	° Olimpíada de Cálculo, Álgebra e Física da EST – UEA;
+  ° OBMEP;
+  ° Olimpíada de Matemática do SESI;
+  ° OAM - Olimpíada Amazonense de Matemática;
+  ° Olimpíada de Cálculo, Álgebra e Física da EST – UEA;
 
 ° Participação em cursos técnicos da Samsung Ocean:
-	° Web Scraping com Python;
-	° Ciência de Dados: Laboratório com Pandas e Python;
-	° Deep Learning: Introdução com Keras e Python;
-	° Ciência de Dados Aplicada ao Setor Público;
-	° Uso de dados de Mídia Social para Análise Urbana;
+  ° Web Scraping com Python;
+  ° Ciência de Dados: Laboratório com Pandas e Python;
+  ° Deep Learning: Introdução com Keras e Python;
+  ° Ciência de Dados Aplicada ao Setor Público;
+  ° Uso de dados de Mídia Social para Análise Urbana;
 
 ° Participação em cursos de capacitação profissional no IFAM - Campus Zona Leste:
-	° Introdução a Programação com JavaScript
-	° Java Orientado a Objetos
-	° Introdução a Programação Web - SpringBoot Ecossytem
-	° Introdução á Aprendizagem de Máquina
-
+  ° Introdução a Programação com JavaScript
+  ° Java Orientado a Objetos
+  ° Introdução a Programação Web - SpringBoot Ecossytem
+  ° Introdução á Aprendizagem de Máquina
 
 ° Participação em Hackathons e Competições, onde exerci funções e atividades como:
 	1 – IBM Behind The Code – Edition 2020:
@@ -87,10 +86,10 @@ Italiano – nível Básico.
 		fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio	Empreendedor, informações relevantes sobre seus 
 		clientes e ‘potenciais’ clientes.
 
-
 ° Projetos Pessoais co-relacionados as minhas áreas de interesse:
   ° Projeto Covid-19 no R
   ° Analise da Covid-19 com Jupyter Notebook
   ° Blog
   ° Roadmap-FullStack-Python
   ° Curso Completo de Desenvolvimento de APIs
+	
