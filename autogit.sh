@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "All Translations : position 'My Stack' -> charged"
+git commit -m "CV's -> update"
 git push
 git status
 clear

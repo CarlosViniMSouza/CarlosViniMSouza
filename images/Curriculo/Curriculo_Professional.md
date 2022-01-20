@@ -1,16 +1,20 @@
 # Currículo Profissional
 
-## [👨‍💻 Carlos Vinícius Monteiro de Souza](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/README.md)
-#### [🔎 Endereço - Manaus - Amazonas](https://www.google.com/maps/place/R.+Epaminondas+Bara%C3%BAna,+32-10+-+Parque+10+de+Novembro,+Manaus+-+AM,+69054-714/@-3.0734622,-60.0067465,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x926c1a8c5a4e3fa9:0xdee7e50cb28e5a27!2sR.+Epaminondas+Bara%C3%BAna+-+Parque+Dez+de+Novembro,+Manaus+-+AM,+69055-010!3b1!8m2!3d-3.0737536!4d-60.0050479!3m4!1s0x926c1a8c5a4ca84b:0x56402a17937791bd!8m2!3d-3.0734673!4d-60.006201)
-#### [🔵 Contato via-Telegram](https://t.me/CarlosViniMSouza) [🟢 Contato via-Whatssap](https://api.whatsapp.com/send?phone=5592992680331) [ 🌐 Contato via-LinkedIn](https://www.linkedin.com/in/carlos-souza-technology/)
+## [👨‍💻 Carlos Vinícius Monteiro de Souza](https://carlosvinimsouza.github.io/)
+#### [🔎 Endereço: Manaus, Amazonas, Brasil](https://www.google.com.br/maps/place/Manaus,+AM/@-3.0446598,-60.0371446,12z/data=!3m1!4b1!4m5!3m4!1s0x926c1bc8b37647b7:0x2b485c9ff765a9cc!8m2!3d-3.1190275!4d-60.0217314)
+#### [🔵 Contato via-Telegram](https://t.me/CarlosViniMSouza) [🟢 Contato via-Whatssap](https://api.whatsapp.com/send?phone=5592992680331) [ 🌐 Contato via-LinkedIn](https://www.linkedin.com/in/carlos-souza-technology/) [⚪️ Contato via-LinkedIn](https://www.linkedin.com/in/carlosvinimsouza/)
 
 
 ## 🎯 _Objetivo Profissional_
 ```R
-Cargo na área de Ciência de Dados e/ou Desenvolvimento de Software:
+Cargo nas áreas de: Ciência de Dados/Desenvolvimento de Software/Engenharia de Software:
+° Analista de Dados Jr.
 ° Cientista de Dados Jr.
 ° Desenvolvedor Python Jr.
+° Desenvolvedor Django Jr.
+° Desenvolvedor Back-End Python Jr.
 ```
+
 
 ## 📚 _Formação_
 ```R
@@ -24,6 +28,7 @@ Cargo na área de Ciência de Dados e/ou Desenvolvimento de Software:
     ° Cancelado: Novembro/2020.
 ```
 
+
 ## 🗺 _Idiomas_
 ```R
 Inglês – nível Intermediário.
@@ -31,8 +36,11 @@ Espanhol – nível Intermediário.
 Italiano – nível Básico.
 ```
 
+
 ## ⚒ _Atividades Extracurricular_
+
 ### ° Organização do Festival de Dança durante o Ensino Médio.
+
 ### ° Participação em Olimpíadas de Matemática:
 ```R
 	1 – OBMEP;
@@ -50,6 +58,15 @@ Italiano – nível Básico.
 	5 – Uso de dados de Mídia Social para Análise Urbana;
 ```
 
+### ° Participação em cursos de capacitação profissional no [IFAM - Campus Zona Leste](http://www2.ifam.edu.br/campus/cmzl)
+```R
+	1 - Introdução a Programação com JavaScript
+	2 - Java Orientado a Objetos
+	3 - Introdução a Programação Web(SpringBoot_Ecossytem)
+	4 - Introdução á Aprendizagem de Máquina
+```
+
+
 ### ° Participação em Hackathons e Competições, onde exerci funções e atividades como:
 ```R
 	1 – IBM Behind The Code – Edition 2020:
@@ -66,17 +83,18 @@ Italiano – nível Básico.
 ```R
 	2 – Hackathon Eugenio&Natura:
 	Desenvolvedor Back-End, atividade exercida:
-		### ° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão 
-		guardadas dentro de um Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de 
-		produtos (com base nas preferências de diversas pessoas). Utilizando de APIs da Eugenio(para análise 
-		de dados) e Google Maps(na parte de Geolocalização do aplicativo).
+		° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de	produtos (com base nas preferências de diversas pessoas). Utilizando de APIs da Eugenio(para análise de dados) e Google Maps(na parte de Geolocalização do aplicativo).
 ```
 ```R
 	3 – Hackathon GetNet&SEBRAE:
 	Desenvolvedor Back-End, atividade exercida:
-		### °  Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão
-		guardadas dentro de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito
-		(para a situação atual de sua microempresa), direcionamento para cursos e especializações necessárias á 
-		atividade essencial da empresa, e também, fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio
-		Empreendedor, informações relevantes sobre seus clientes e ‘potenciais’ clientes.
+		° Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão	guardadas dentro de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito(para a situação atual de sua microempresa), direcionamento para cursos e especializações necessárias á atividade essencial da empresa, e também, fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio Empreendedor, informações relevantes sobre seus clientes e ‘potenciais’ clientes.
+```
+
+### Projetos Pessoais co-relacionados as minhas áreas de interesse:
+```R
+	1 - Projeto Covid-19 no R
+	2 - Analise da Covid-19 com Jupyter Notebook
+	3 - Blog(construido_em="Django", link="https://github.com/CarlosViniMSouza/Blog")
+	4 - RoadmapFullStackPython(construido_em="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
 ```
