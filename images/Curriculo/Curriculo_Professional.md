@@ -22,7 +22,7 @@ Cargo nas áreas de: Ciência de Dados/Desenvolvimento de Software/Engenharia de
     ° Instituto Federal do Amazonas.
     ° Conclusão: Dezembro/2024.
 
-° Graduação em Enganharia Elétrica - Cancelado.
+° Graduação em Engenharia Elétrica - Cancelado.
     ° Universidade do Estado do Amazonas.
     ° Início: Março/2019.
     ° Cancelado: Novembro/2020.
@@ -43,27 +43,27 @@ Italiano – nível Básico.
 
 ### ° Participação em Olimpíadas de Matemática:
 ```R
-	1 – OBMEP;
-	2 – OAM;
-	3 – Olimpíada de Matemática do SESI;
-	4 – Olimpíada de Matemática da EST – UEA;
+	° OBMEP;
+	° Olimpíada de Matemática do SESI;
+	° OAM - Olimpíada Amazonense de Matemática;
+	° Olimpíada de Cálculo, Álgebra e Física da EST – UEA;
 ```
 
 ### ° Participação em cursos técnicos da [Samsung Ocean](http://www.oceanbrasil.com/):
 ```R
-	1 – Web Scraping com Python;
-	2 – Ciência de Dados: Laboratório com Pandas e Python;
-	3 – Deep Learning: Introdução com Keras e Python;
-	4 – Ciência de Dados Aplicada ao Setor Público;
-	5 – Uso de dados de Mídia Social para Análise Urbana;
+	° Web Scraping com Python;
+	° Ciência de Dados: Laboratório com Pandas e Python;
+	° Deep Learning: Introdução com Keras e Python;
+	° Ciência de Dados Aplicada ao Setor Público;
+	° Uso de dados de Mídia Social para Análise Urbana;
 ```
 
 ### ° Participação em cursos de capacitação profissional no [IFAM - Campus Zona Leste](http://www2.ifam.edu.br/campus/cmzl)
 ```R
-	1 - Introdução a Programação com JavaScript
-	2 - Java Orientado a Objetos
-	3 - Introdução a Programação Web(SpringBoot_Ecossytem)
-	4 - Introdução á Aprendizagem de Máquina
+	° Introdução a Programação com JavaScript;
+	° Java Orientado a Objetos;
+	° Introdução a Programação Web - Ecossitema SpringBoot;
+	° Introdução á Aprendizagem de Máquina;
 ```
 
 
@@ -93,8 +93,9 @@ Italiano – nível Básico.
 
 ### Projetos Pessoais co-relacionados as minhas áreas de interesse:
 ```R
-	1 - Projeto Covid-19 no R
-	2 - Analise da Covid-19 com Jupyter Notebook
-	3 - Blog(construido_em="Django", link="https://github.com/CarlosViniMSouza/Blog")
-	4 - RoadmapFullStackPython(construido_em="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
+	° Projeto Covid-19 no R
+	° Analise da Covid-19 com Jupyter Notebook
+	° Blog(construido_em="Django", link="https://github.com/CarlosViniMSouza/Blog")
+	° RoadmapFullStackPython(construido_em="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
+	° Curso Completo de Desenvolvimento de APIs(construido_em="FastAPI", link="https://github.com/CarlosViniMSouza/API_Development_FullCourse") 
 ```
