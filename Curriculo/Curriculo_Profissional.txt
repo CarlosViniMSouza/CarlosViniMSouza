@@ -9,12 +9,15 @@ Currículo Profissional
 
 
 🎯 Objetivo Profissional
-Cargo nas áreas de: Ciência de Dados/Desenvolvimento de Software/Engenharia de Software:
-° Analista de Dados Jr.
-° Cientista de Dados Jr.
-° Desenvolvedor Python Jr.
-° Desenvolvedor Django Jr.
-° Desenvolvedor Back-End Python Jr.
+° Cargo nas áreas de Ciência/Análise de Dados:
+	° Analista de Dados Jr.
+	° Cientista de Dados Jr.
+
+° Desenvolvimento de Software/Engenharia de Software:
+	° Desenvolvedor Python Jr.
+	° Desenvolvedor Django Jr.
+	° Desenvolvedor Web Python Jr.
+	° Desenvolvedor Back-End Python Jr.
 
 
 📚 Formação
@@ -72,16 +75,22 @@ Italiano – nível Básico.
 	
 	2 – Hackathon Eugenio&Natura:
 	Desenvolvedor Back-End, atividade exercida:
-		° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de produtos (com base nas preferências de diversas pessoas). Utilizando de APIs da Eugenio(para análise de dados) e Google Maps(na parte de Geolocalização do aplicativo).
+		° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um
+		 Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de produtos (com base nas preferências de
+		 diversas pessoas). Utilizando de APIs da Eugenio(para análise de dados) e Google Maps(na parte de Geolocalização do aplicativo).
 	
 	3 – Hackathon GetNet&SEBRAE:
 	Desenvolvedor Back-End, atividade exercida:
-		°  Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito (para a situação atual de sua microempresa), direcionamento para cursos e especializações necessárias á atividade essencial da empresa, e também, fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio	Empreendedor, informações relevantes sobre seus clientes e ‘potenciais’ clientes.
+		°  Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão guardadas dentro 
+		de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito (para a situação atual de sua 
+		microempresa), direcionamento para cursos e especializações necessárias á atividade essencial da empresa, e também, 
+		fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio	Empreendedor, informações relevantes sobre seus 
+		clientes e ‘potenciais’ clientes.
 
 
 ° Projetos Pessoais co-relacionados as minhas áreas de interesse:
-	° Projeto Covid-19 no R
-	° Analise da Covid-19 com Jupyter Notebook
-	° Blog
-	° Roadmap-FullStack-Python
-	° Curso Completo de Desenvolvimento de APIs
+  ° Projeto Covid-19 no R
+  ° Analise da Covid-19 com Jupyter Notebook
+  ° Blog
+  ° Roadmap-FullStack-Python
+  ° Curso Completo de Desenvolvimento de APIs
