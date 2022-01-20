@@ -2,7 +2,7 @@
 
 ## [👨‍💻 Carlos Vinícius Monteiro de Souza](https://carlosvinimsouza.github.io/)
 #### [🔎 Endereço: Manaus, Amazonas, Brasil](https://www.google.com.br/maps/place/Manaus,+AM/@-3.0446598,-60.0371446,12z/data=!3m1!4b1!4m5!3m4!1s0x926c1bc8b37647b7:0x2b485c9ff765a9cc!8m2!3d-3.1190275!4d-60.0217314)
-#### [🔵 Contato via-Telegram](https://t.me/CarlosViniMSouza) [🟢 Contato via-Whatssap](https://api.whatsapp.com/send?phone=5592992680331) [ 🌐 Contato via-LinkedIn](https://www.linkedin.com/in/carlos-souza-technology/) [⚪️ Contato via-LinkedIn](https://www.linkedin.com/in/carlosvinimsouza/)
+#### [🔵 Contato via-Telegram](https://t.me/CarlosViniMSouza) [🟢 Contato via-Whatssap](https://api.whatsapp.com/send?phone=5592992680331) [⚪️ Contato via-LinkedIn](https://www.linkedin.com/in/carlosvinimsouza/)
 
 
 ## 🎯 _Objetivo Profissional_
