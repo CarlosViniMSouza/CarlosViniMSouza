@@ -10,14 +10,14 @@ Currículo Profissional
 
 🎯 Objetivo Profissional
 ° Cargo nas áreas de Ciência/Análise de Dados:
-	° Analista de Dados Jr.
-	° Cientista de Dados Jr.
+  ° Analista de Dados Jr.
+  ° Cientista de Dados Jr.
 
 ° Desenvolvimento de Software/Engenharia de Software:
-	° Desenvolvedor Python Jr.
-	° Desenvolvedor Django Jr.
-	° Desenvolvedor Web Python Jr.
-	° Desenvolvedor Back-End Python Jr.
+  ° Desenvolvedor Python Jr.
+  ° Desenvolvedor Django Jr.
+  ° Desenvolvedor Web Python Jr.
+  ° Desenvolvedor Back-End Python Jr.
 
 
 📚 Formação
