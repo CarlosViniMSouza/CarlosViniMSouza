@@ -48,7 +48,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1892 Commits
+                            1897 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.62763689314045" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="295.62763689314045" y="0" width="152.89938062809082" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.5270175212313" y="0" width="3.1756885721490797" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.7027060933804" y="0" width="2.0958465243055433" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.79855261768597" y="0" width="1.8229491235765671" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.62150174126253" y="0" width="1.6040289817586295" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.2255307230211" y="0" width="1.5040687387782188" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.72959946179935" y="0" width="1.2704005382006553" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.64107395699193" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="295.64107395699193" y="0" width="152.88688145425462" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="448.5279554112465" y="0" width="3.1754289668887448" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.70338437813524" y="0" width="2.0956751936570233" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.79905957179227" y="0" width="1.8228001016649247" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.6218596734572" y="0" width="1.603897856066694" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.2257575295239" y="0" width="1.5039457846069828" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.72970331413086" y="0" width="1.2702966858691194" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -554,7 +554,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        4
+                                        5
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -800,14 +800,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                                        <span class="repo">CarlosViniMSouza/Data-Classes-Python</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bff1328</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#8c08b5b</div>
+                                        <div class="message">Next Topic: Immutable Data Classes</div>
                                     </div>
                                 </div>
                             </section>
@@ -820,14 +820,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                                        <span class="repo">CarlosViniMSouza/Data-Classes-Python</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#33f40ce</div>
-                                        <div class="message">2 files removed from Curriculo folder</div>
+                                        <div class="sha">#ff6a690</div>
+                                        <div class="message">Advanced Default Values / Part2 -&gt; add | main.py -&gt; alts add</div>
                                     </div>
                                 </div>
                             </section>
@@ -840,14 +840,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                                        <span class="repo">CarlosViniMSouza/Data-Classes-Python</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#24322cf</div>
-                                        <div class="message">Curriculo_Professional em .txt e .md -&gt; correcoes (N.3) | Curriculo_Professional.pdf -&gt; add</div>
+                                        <div class="sha">#0e5ddff</div>
+                                        <div class="message">Advanced Default Values / Part1 -&gt; add | cardsNum02.py -&gt; add | cardsNum01.py -&gt; renamed</div>
                                     </div>
                                 </div>
                             </section>
@@ -860,14 +860,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                                        <span class="repo">CarlosViniMSouza/Data-Classes-Python</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#63afc42</div>
-                                        <div class="message">Curriculo_Professional em .txt e .md -&gt; correcoes (N.3)</div>
+                                        <div class="sha">#250346f</div>
+                                        <div class="message">Next Topic: Advanced Default Values | cards.py -&gt; add</div>
                                     </div>
                                 </div>
                             </section>
@@ -880,14 +880,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
+                                        <span class="repo">CarlosViniMSouza/Data-Classes-Python</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7592d9f</div>
-                                        <div class="message">Curriculo_Professional.txt -&gt; correcoes (N.2)</div>
+                                        <div class="sha">#307609d</div>
+                                        <div class="message">Next Topic: More Flexible Data Classes | haversine_formula.py -&gt; add</div>
                                     </div>
                                 </div>
                             </section>
@@ -1315,7 +1315,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.394934976043799 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.607118412046551 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1587,7 +1587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2022, 21:23:56 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 20 Jan 2022, 22:51:15 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
