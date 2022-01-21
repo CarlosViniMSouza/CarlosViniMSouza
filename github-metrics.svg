@@ -699,7 +699,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miguelgrinberg/flasky</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Companion code to my O'Reilly book "Flask Web Development", second edition.</div>
@@ -1700,7 +1700,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2022, 19:07:04 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 21 Jan 2022, 20:06:59 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
