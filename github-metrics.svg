@@ -71,7 +71,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Dev. BackEnd Python (Django) | Dev. FARM Stack (FastAPI + ReactJS + MongoDB)</div>
+                        <div class="introduction">Dev. BackEnd @Python (@Django) | Dev. FARM Stack (FastAPI + @ReactJS + @MongoDB)</div>
                     </section>
                 </div>
             </section>
@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AMAI-GmbH/AI-Expert-Roadmap</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Roadmap to becoming an Artificial Intelligence Expert in 2021</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jainaman224/Algo_Ds_Notes</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">It is a repository that is a collection of algorithms and data structures with implementation in various languages.</div>
@@ -1587,7 +1587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2022, 14:11:29 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 15:07:56 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
