@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Developer-Y/cs-video-courses</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of Computer Science courses with video lectures.</div>
@@ -527,7 +527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sqlalchemy/sqlalchemy</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Database Toolkit for Python</div>
@@ -580,7 +580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darkreader/darkreader</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dark Reader Chrome and Firefox extension</div>
@@ -633,7 +633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mongodb-developer/mongodb-with-fastapi</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example of using MongoDB with FastAPI</div>
@@ -1563,7 +1563,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 13:09:18 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 14:11:12 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
