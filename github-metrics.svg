@@ -464,10 +464,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
-                                <text x="60" y="60" dominant-baseline="central">90</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="276.36 329"/>
+                                <text x="60" y="60" dominant-baseline="central">84</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -599,7 +599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sqlalchemy/sqlalchemy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Database Toolkit for Python</div>
@@ -652,7 +652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darkreader/darkreader</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dark Reader Chrome and Firefox extension</div>
@@ -705,7 +705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mongodb-developer/mongodb-with-fastapi</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example of using MongoDB with FastAPI</div>
@@ -752,7 +752,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mongodb-developer/FARM-Intro</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Introducing FARM - FastAPI, React &amp; MongoDB</div>
@@ -1686,7 +1686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 10:14:05 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 11:17:50 (timezone America/Sao_Paulo) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
