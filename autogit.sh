@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "2 files removed from Curriculo folder"
+git commit -m "Most Used Languages -> alt num. lps add"
 git push
 git status
 clear
