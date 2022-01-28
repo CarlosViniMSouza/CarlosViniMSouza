@@ -1,4 +1,4 @@
-<h2> こんにちは、カルロス・ヴィニシウス・モンテイロ・デ・ソウザです。<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> こんにちは、カルロス・ヴィニシウス・モンテイロ・デ・ソウザです。✌️🤓&nbsp; </h2>
 
 <h3> 📡&nbsp; 私に連絡したり、チャットしたり、単にアイデアを交換したい場合は、ここにいくつかの方法があります : </h3>
 
@@ -11,7 +11,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-<h2> 🌐&nbsp; 良い ☕&nbsp; を取るのはどうですか。 そしてネットワークを行う？！ ✌️🤓&nbsp; </h2>
+<h2> 🌐&nbsp; 良い ☕&nbsp; を取るのはどうですか。 そしてネットワークを行う？！ </h2>
 
 <h3> 👨‍💼💻&nbsp; 私について : </h3>
 

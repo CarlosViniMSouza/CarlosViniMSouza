@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Most Used Languages -> alt num. lps add IN readme ITA/JAP"
+git commit -m "Emoki: ✌️🤓 -> add in READMEs Intro"
 git push
 git status
 clear

@@ -1,4 +1,4 @@
-<h2> Ciao ragazzi, sono Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Ciao ragazzi, sono Carlos Vinicius Monteiro de Souza. ✌️🤓&nbsp; </h2>
 
 <h3> 📡&nbsp; Se vuoi contattarmi, chattare o semplicemente scambiare un'idea, ecco alcuni modi disponibili : </h3>
 
@@ -11,7 +11,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-<h2> 🌐&nbsp; Che ne dici di prendere un buon ☕&nbsp; e fai NetWork ?! ✌️🤓&nbsp; </h2>
+<h2> 🌐&nbsp; Che ne dici di prendere un buon ☕&nbsp; e fai NetWork ?! </h2>
 
 <h3> 👨‍💼💻&nbsp; Su di me : </h3>
 

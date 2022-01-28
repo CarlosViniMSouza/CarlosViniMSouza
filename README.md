@@ -4,7 +4,7 @@
 
 #### इस README.md को हिंदी में देखें : <kbd>[<img title="को हिंदी में देखें" alt="को हिंदी में देखें" src="flags/ind.jpg" width="22">](translations/README_ind.md)</kbd>
 
-<h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. ✌️🤓&nbsp; </h2>
 
 <h3> 📡&nbsp; Se quiser me contatar, conversar ou só trocar uma ideia, aqui estão algumas vias disponíveis : </h3>
 
@@ -17,7 +17,7 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-<h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! ✌️🤓&nbsp; </h2>
+<h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! </h2>
 
 <h3> 👨‍💼💻&nbsp; Sobre a minha pessoa : </h3>
 
