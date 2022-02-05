@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>realpython/python-guide</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python best practices guidebook, written for humans.</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/kafka</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of Apache Kafka</div>
@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/spark</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Spark - A unified analytics engine for large-scale data processing</div>
@@ -1586,7 +1586,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2022, 23:08:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 5 Feb 2022, 00:07:19 (timezone America/Sao_Paulo) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
