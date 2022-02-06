@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/nifi</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache NiFi</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/beam</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Beam is a unified programming model for Batch and Streaming</div>
@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/ofbiz-framework</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Management and Manufacturing Resource Planning. OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions.</div>
@@ -645,7 +645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/apisix</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud-Native API Gateway</div>
@@ -1558,7 +1558,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2022, 02:06:11 (timezone America/Sao_Paulo) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 6 Feb 2022, 03:08:14 (timezone America/Sao_Paulo) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
