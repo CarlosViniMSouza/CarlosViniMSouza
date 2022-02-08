@@ -31,6 +31,8 @@
 
 ### - ☕&nbsp; मेरे लिए कॉफी कुछ बहुत महत्वपूर्ण है (समाप्त परियोजना को देखने से बेहतर है, यह एक अच्छी कॉफी है);
 
+<br></br>
+
 <h3> 🔋&nbsp; मेरी विशेषज्ञता : </h3>
 
 ### - 🌐&nbsp; वेब(फ्रंट-एंड + बैक-एंड + डीबी):
@@ -63,6 +65,8 @@
   [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/absolute_beginners.html)
   [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/user_guide/index.html)
   [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/getting_started/)
+
+<br></br>
 
 <h3> :electron:&nbsp; तकनीकी कौशल : </h3>
 
@@ -129,6 +133,8 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<br></br>
+
 <h3> 🧑‍🔬&nbsp; प्रोग्रामिंग में मेरी प्रगति :  </h3>
 
 <p align="center">
@@ -165,9 +171,13 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
   </a>
 </p>
 
+<br></br>
+
 <h3> 🗃&nbsp; मेरा योगदान : </h3>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
+
+<br></br>
 
 <h3> 🏆&nbsp; मेरी गिटहब ट्राफियां : </h3>
 
@@ -176,6 +186,8 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
     <img width="60%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
   </a>
 </p>
+
+<br></br>
 
 <h3> 📊&nbsp; मेरा गिटहब मेट्रिक्स : </h3>
 
