@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Curriculo_Professional.txt & Curriculo_Professional.pdf -> link to LinkedIn : updated"
+git commit -m "add <br></br> in my README.md"
 git push
 git status
 clear
