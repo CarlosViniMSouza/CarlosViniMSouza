@@ -37,6 +37,8 @@
 
 ### - ☕&nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
 
+<br></br>
+
 <h3> 🔋&nbsp; Minha Especialização : </h3>
 
 ### - 🌐&nbsp; Web(Front-End + Back-End + DB):
@@ -69,6 +71,8 @@
   [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/absolute_beginners.html)
   [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/user_guide/index.html)
   [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/getting_started/)
+
+<br></br>
 
 <h3> :electron:&nbsp; Competências Técnicas : </h3>
 
@@ -135,6 +139,8 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<br></br>
+
 <h3> 🧑‍🔬&nbsp; Meu progresso na Programação : </h3>
 
 <p align="center">
@@ -176,9 +182,13 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
   </a>
 </p>
 
+<br></br>
+
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosViniMSouza&theme=github)
+
+<br></br>
 
 <h3> 🏆&nbsp; Meus Troféus do GitHub : </h3>
 
@@ -187,6 +197,8 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
     <img width="65%" src="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula&no-frame=true&margin-w=15&row=2&column=4"/>
   </a>
 </p>
+
+<br></br>
 
 <h3> 📊&nbsp; Minhas Métricas do GitHub : </h3>
 
