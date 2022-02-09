@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2991" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2973" class="">
     <defs>
         <style/>
     </defs>
@@ -71,7 +71,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Dev. BackEnd @Python (@Django) | Interested in Dev. FARM Stack (FastAPI + @ReactJS + @MongoDB)</div>
+                        <div class="introduction">Full Stack Python | Software Enginner</div>
                     </section>
                 </div>
             </section>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2022, 11:06:32 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 9 Feb 2022, 12:07:39 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
