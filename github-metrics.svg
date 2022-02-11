@@ -48,7 +48,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2118 Commits
+                            2123 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thonny/thonny</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python IDE for beginners</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theislab/scib</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Benchmarking analysis of data integration tools</div>
@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/react-native</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework for building native applications using React</div>
@@ -812,8 +812,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf8d32c</div>
-                                        <div class="message">dife_capital_patrimonio.txt -&gt; add</div>
+                                        <div class="sha">#9e1944c</div>
+                                        <div class="message">agentes_pub_intro.txt -&gt; alts added (Part1)</div>
                                     </div>
                                 </div>
                             </section>
@@ -832,8 +832,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3277701</div>
-                                        <div class="message">patrimonio_intro.txt -&gt; alts add</div>
+                                        <div class="sha">#070b053</div>
+                                        <div class="message">agentes_pub_intro.txt -&gt; Topic added: Cargo, Emprego e Função Pública</div>
                                     </div>
                                 </div>
                             </section>
@@ -852,8 +852,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#41f064a</div>
-                                        <div class="message">patrimonio_intro.txt -&gt; added | arquivo finalizado</div>
+                                        <div class="sha">#2571d65</div>
+                                        <div class="message">agentes_pub_intro.txt -&gt; Next Topic: Poderes, deveres e prerrogativas</div>
                                     </div>
                                 </div>
                             </section>
@@ -872,8 +872,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#924b836</div>
-                                        <div class="message">princip_cont_fund.txt -&gt; added | arquivo finalizado</div>
+                                        <div class="sha">#5e4259a</div>
+                                        <div class="message">Next Topic: Revogação | Topic -&gt; added</div>
                                     </div>
                                 </div>
                             </section>
@@ -892,7 +892,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d31a9c3</div>
+                                        <div class="sha">#543aee8</div>
                                         <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
@@ -1162,7 +1162,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.77310061601641 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.98528405201918 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2022, 21:26:54 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 10 Feb 2022, 22:54:15 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
