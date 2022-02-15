@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "add <br></br> in translations files"
+git commit -m "README.md: topic -> Competencias Tecnicas = removed"
 git push
 git status
 exit
