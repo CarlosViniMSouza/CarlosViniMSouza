@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2185 Commits
+                            1989 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.81554076379825" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="287.81554076379825" y="0" width="157.28636187281157" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.1019026366098" y="0" width="6.566653917605979" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.6685565542158" y="0" width="2.0365610988150897" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.70511765303087" y="0" width="1.970727657957984" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.67584531098885" y="0" width="1.5603555740424526" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.23620088503134" y="0" width="1.4615229921735609" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.69772387720485" y="0" width="1.3022761227951123" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.81819778081524" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="287.81819778081524" y="0" width="157.28393475167712" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.10213253249236" y="0" width="6.5665525860962655" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.6686851185886" y="0" width="2.036529672183908" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.7052147907725" y="0" width="1.9706972472173963" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.6759120379899" y="0" width="1.5603314958455516" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.2362435338355" y="0" width="1.4615004390844022" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.69774397291985" y="0" width="1.3022560270801191" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -809,6 +809,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/RealPython-PyTricks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb78382</div>
+                                        <div class="message">02_fev_2022: day21.py -&gt; add</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Python-Statistics-Fund</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d9274c5</div>
+                                        <div class="message">Topic: Measures of Variability | Sub-Sub-Topic: Variance -&gt; added | Next Sub-Sub-Topic: Standard Deviation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
                                     </div>
                                 </div>
@@ -857,46 +897,6 @@
                                     <div class="commit">
                                         <div class="sha">#2e43fa6</div>
                                         <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/Python-Statistics-Fund</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#11e0433</div>
-                                        <div class="message">Sub-Sub-Topic: Mode -&gt; added | Next Sub-Topic: Measures of Variability</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/Python-Statistics-Fund</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#61509cb</div>
-                                        <div class="message">Sub-Sub-Topic: Median -&gt; added | Next Sub-Topic: Mode</div>
                                     </div>
                                 </div>
                             </section>
@@ -1629,7 +1629,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2022, 10:12:50 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 11:08:24 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
