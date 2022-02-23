@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2196 Commits
+                            2197 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.8533908592133" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="287.8533908592133" y="0" width="157.2289447841734" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.08233564338667" y="0" width="6.58926228848647" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.6715979318731" y="0" width="2.0358176560414423" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.70741558791457" y="0" width="1.9700082475572898" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.67742383547187" y="0" width="1.559785969194104" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.237209804666" y="0" width="1.4609894659721208" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.6981992706381" y="0" width="1.3018007293618636" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.85674389789364" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="287.85674389789364" y="0" width="157.2258823089021" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.08262620679574" y="0" width="6.589133944097704" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.6717601508934" y="0" width="2.035778002775073" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.7075381536685" y="0" width="1.969969876113974" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.6775080297825" y="0" width="1.5597555879817533" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.2372636177642" y="0" width="1.4609610090991365" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.69822462686335" y="0" width="1.3017753731366006" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -815,6 +815,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e0e2500</div>
+                                        <div class="message">Topic: Measures of Variability | Sub-Sub-Topic: Percetiles (Part2) -&gt; added | Next Sub-Sub-Topic: Ranges</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Python-Statistics-Fund</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#8569723</div>
                                         <div class="message">Topic: Measures of Variability | Sub-Sub-Topic: Percetiles (Part1) -&gt; added | Next Sub-Sub-Topic: Percetiles (Part2)</div>
                                     </div>
@@ -877,26 +897,6 @@
                                     <div class="commit">
                                         <div class="sha">#b8d9f10</div>
                                         <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/Python-Statistics-Fund</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e274893</div>
-                                        <div class="message">Topic: Measures of Variability | Sub-Sub-Topic: Skewness (Part2) -&gt; added | Next Sub-Sub-Topic: Percetiles</div>
                                     </div>
                                 </div>
                             </section>
@@ -1629,7 +1629,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2022, 14:11:16 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 15:07:57 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
