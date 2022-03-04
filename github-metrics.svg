@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2256 Commits
+                            2257 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.9168605934136" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="287.9168605934136" y="0" width="157.1709751303774" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.087835723791" y="0" width="6.586832855062753" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.67466857885375" y="0" width="2.035067058593406" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.7097356374471" y="0" width="1.9692819137626894" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.6790175512098" y="0" width="1.5592108826363833" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.23822843384625" y="0" width="1.4604508052715848" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.69867923911784" y="0" width="1.3013207608821664" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.9183279265943" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="287.9183279265943" y="0" width="157.16963495151012" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.0879628781044" y="0" width="6.586776689894932" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.6747395679994" y="0" width="2.03504970581015" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.7097892738095" y="0" width="1.969265121921814" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.6790543957313" y="0" width="1.5591975874241288" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.23825198315546" y="0" width="1.460438352175176" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.69869033533064" y="0" width="1.3013096646693838" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -806,6 +806,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/FastAPI_FullCourse</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#09eb461</div>
+                                        <div class="message">Actual Topic: Relationships | Next Topic: API Routers</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
                                     </div>
                                 </div>
@@ -874,26 +894,6 @@
                                     <div class="commit">
                                         <div class="sha">#c0161d3</div>
                                         <div class="message">Actual Topic: Docs Tags | Next Topic: Relationships</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/FastAPI_FullCourse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#878dd13</div>
-                                        <div class="message">Actual Topic: Show a User | Next Topic: Docs Tags</div>
                                     </div>
                                 </div>
                             </section>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2022, 10:14:19 (timezone America/Sao_Paulo) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 4 Mar 2022, 11:07:23 (timezone America/Sao_Paulo) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
