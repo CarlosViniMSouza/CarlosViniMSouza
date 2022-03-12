@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/chalice</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python Serverless Microframework for AWS</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>csev/dj4e-samples</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Django For Everybody Sample Code</div>
@@ -1616,7 +1616,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2022, 23:27:53 (timezone America/Sao_Paulo) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 12 Mar 2022, 00:08:25 (timezone America/Sao_Paulo) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
