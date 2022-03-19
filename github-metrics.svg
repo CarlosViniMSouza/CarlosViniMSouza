@@ -599,7 +599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FirebaseExtended/flutterfire</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 A collection of Firebase plugins for Flutter apps.</div>
@@ -652,7 +652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VincentJouanne/flutter-bloc-clean-architecture</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏛  Flutter clean architecture using the bloc library for state management. This repository aims to help people to architecture their Flutter apps by providing an opinionated example.</div>
@@ -1726,7 +1726,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2022, 19:07:33 (timezone America/Sao_Paulo) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 19 Mar 2022, 20:07:41 (timezone America/Sao_Paulo) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
