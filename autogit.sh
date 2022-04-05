@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Curriculo (version: EN) -> add"
+git commit -m "Badge (Prisma) -> exit | Badge (Postgre) -> come in"
 git push
 git status
 exit
