@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2384 Commits
+                            2386 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.4499551733935" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="284.4499551733935" y="0" width="150.19099352060618" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.6409486939997" y="0" width="10.664284606785534" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="445.3052333007852" y="0" width="6.99191194007184" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.29714524085705" y="0" width="2.7920376950125343" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.0891829358696" y="0" width="2.1837182799383124" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.2729012158079" y="0" width="1.4421155117384539" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.7150167275463" y="0" width="1.2849832724536567" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.4520772706416" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="284.4520772706416" y="0" width="150.18917797054831" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.64125524119" y="0" width="10.664155693978707" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.30541093516865" y="0" width="6.991827419916337" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.297238355085" y="0" width="2.7920039440925892" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.0892422991776" y="0" width="2.183691882550849" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.27293418172843" y="0" width="1.4420980790493196" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.7150322607777" y="0" width="1.2849677392222696" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -806,6 +806,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Microsservices_FastAPI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8646ac6</div>
+                                        <div class="message">Products CRUD (part2) -&gt; add | inventory folder -&gt; concluded</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Microsservices_FastAPI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ceb180</div>
+                                        <div class="message">Products CRUD (part1) -&gt; add</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
                                     </div>
                                 </div>
@@ -854,46 +894,6 @@
                                     <div class="commit">
                                         <div class="sha">#27d5551</div>
                                         <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d1c6c72</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/Microsservices_FastAPI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9609a6f</div>
-                                        <div class="message">problems with installing redis_om | inventory folder -&gt; add</div>
                                     </div>
                                 </div>
                             </section>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2022, 10:19:20 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 5 Apr 2022, 11:08:32 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
