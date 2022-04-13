@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PokeAPI/pokebase</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python 3 wrapper for Pokéapi v2</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/case-police</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚨 Make the case correct, PLEASE!</div>
@@ -1578,7 +1578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2022, 07:09:07 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 13 Apr 2022, 08:07:38 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
