@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2435 Commits
+                            2437 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.3777551330851" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="284.3777551330851" y="0" width="149.95737769869052" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.3351328317756" y="0" width="10.664565979395682" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.9996988111713" y="0" width="7.02302666926682" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.0227254804381" y="0" width="3.004284648288455" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.0270101287266" y="0" width="2.2501329754195054" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.27714310414615" y="0" width="1.4398723612493676" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.7170154653955" y="0" width="1.2829845346045665" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.37604222821307" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="284.37604222821307" y="0" width="149.96676211897505" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.3428043471881" y="0" width="10.665233374163709" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.00803772135185" y="0" width="7.014188536587465" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.0222262579393" y="0" width="3.0044726581765087" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.0266989161158" y="0" width="2.25027379005538" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.2769727061712" y="0" width="1.439962469302745" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.7169351754739" y="0" width="1.2830648245261165" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brworkit/python-flask-pokeapi-api</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -540,7 +540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PokeAPI/pokebase</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python 3 wrapper for Pokéapi v2</div>
@@ -593,7 +593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/case-police</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚨 Make the case correct, PLEASE!</div>
@@ -803,6 +803,46 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/FlaskSQLChallenger</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d5a4a98</div>
+                                        <div class="message">challenger: show the response API in body request</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/FlaskSQLChallenger</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#61eb936</div>
+                                        <div class="message">pokemonController -&gt; ok | pokemonService -&gt; in progress ...</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -848,46 +888,6 @@
                                     <div class="commit">
                                         <div class="sha">#ffd09ab</div>
                                         <div class="message">comments removed in -&gt; templates | schema.sql -&gt; alt</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b4a8ed</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/FlaskSQLChallenger</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#94f25c4</div>
-                                        <div class="message">comments add in -&gt; db.py &amp; auth.py</div>
                                     </div>
                                 </div>
                             </section>
@@ -1121,7 +1121,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.69849246231156 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="101.25628140703519 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1143,7 +1143,7 @@
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 129 times</div>
+                                <div class="text">Repositories have been deployed 131 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1579,7 +1579,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2022, 11:08:25 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 13 Apr 2022, 12:07:57 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
