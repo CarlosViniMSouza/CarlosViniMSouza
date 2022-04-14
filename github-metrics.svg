@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2921" class="">
     <defs>
         <style/>
     </defs>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2444 Commits
+                            2445 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.29618682730427" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="284.29618682730427" y="0" width="149.9975079610723" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.29369478837657" y="0" width="10.702304508087606" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.99599929646416" y="0" width="7.024591376574185" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.0205906730384" y="0" width="3.0050886282796734" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.025679301318" y="0" width="2.2507351360339625" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.276414437352" y="0" width="1.4402576871102215" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.7166721244622" y="0" width="1.2833278755378072" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.30605568744215" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="284.30605568744215" y="0" width="149.9890829622042" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.29513864964633" y="0" width="10.70170338541169" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.996842035058" y="0" width="7.024196822189911" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.0210388572479" y="0" width="3.0049198396868775" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.02595869693477" y="0" width="2.250608717660543" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.2765674145953" y="0" width="1.440176791303694" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.71674420589903" y="0" width="1.2832557941009506" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RonaldMiller17/flask_pokedex</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pokedex using flask, SqlAlchemy, and alembic</div>
@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zJairO/pyDex</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using pokeapi with Python and Flask framework.</div>
@@ -801,6 +801,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b459583</div>
+                                        <div class="message">flaskenv -&gt; alt</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/FlaskSQLChallenger</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#078b546</div>
                                         <div class="message">Ok, I cant fixed the problems with login | I will end the project here</div>
                                     </div>
@@ -863,30 +883,6 @@
                                     <div class="commit">
                                         <div class="sha">#40527de</div>
                                         <div class="message">README updated -&gt; How to execute (using Git Bash)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">CarlosViniMSouza/FlaskSQLChallenger</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1698d25</div>
-                                        <div class="message">files removed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b16fd2b</div>
-                                        <div class="message">flask application hosted in Heroku</div>
                                     </div>
                                 </div>
                             </section>
@@ -1578,7 +1574,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2022, 13:10:29 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 14 Apr 2022, 14:14:15 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
