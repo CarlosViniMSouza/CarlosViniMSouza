@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2452 Commits
+                            2453 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.3317634639979" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="284.3317634639979" y="0" width="149.95832402915084" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.2900874931487" y="0" width="10.698686587767199" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.98877408091596" y="0" width="7.0456750776476325" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.0344491585636" y="0" width="3.004303607316132" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.03875276587974" y="0" width="2.2383731552343638" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.2771259211141" y="0" width="1.4398814477984614" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.71700736891256" y="0" width="1.2829926310874729" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.34239176797536" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="284.34239176797536" y="0" width="149.96392946215738" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.30632123013277" y="0" width="10.706557195962631" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.0128784260954" y="0" width="7.045938444552332" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.0588168706478" y="0" width="3.0044159080017474" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.0632327786495" y="0" width="2.213791361597598" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.2770241402471" y="0" width="1.4399352704791646" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.7169594107263" y="0" width="1.2830405892737757" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/vercel</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Develop. Preview. Ship.</div>
@@ -795,6 +795,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/nextjs-blog-template</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5f974ba</div>
+                                        <div class="message">next subject - Styling Tips</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
                                     </div>
                                 </div>
@@ -856,26 +876,6 @@
                                     <div class="commit">
                                         <div class="sha">#8eafa12</div>
                                         <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/nextjs-blog-template</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef70f0d</div>
-                                        <div class="message">next subject - Polishing Layout</div>
                                     </div>
                                 </div>
                             </section>
@@ -1567,7 +1567,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2022, 12:08:36 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 15 Apr 2022, 13:10:25 (timezone America/Sao_Paulo) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
