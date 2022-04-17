@@ -87,6 +87,12 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CarlosViniMSouza&layout=compact&theme=dracula"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.github.com/CarlosViniMSouza">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula"/>
   </a>
 </p>
