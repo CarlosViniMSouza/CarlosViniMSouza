@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "wakatime stats add in README_en.md"
+git commit -m "SpaceMan-steam theme add in images/Others"
 git push
 git status
 exit
