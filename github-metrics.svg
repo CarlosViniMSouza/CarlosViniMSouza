@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2607 Commits
+                            2608 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.40112141489817" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="284.40112141489817" y="0" width="149.9661664579552" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.3672878728534" y="0" width="10.619188728478354" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.98647660133173" y="0" width="6.836008407301774" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.8224850086335" y="0" width="3.390963143580606" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.2134481522141" y="0" width="2.145633002521087" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.3590811547352" y="0" width="1.3578591170126495" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.71694027174783" y="0" width="1.283059728252175" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.4148643848388" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="284.4148643848388" y="0" width="149.95442959189802" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.36929397673686" y="0" width="10.618357634381029" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.9876516111179" y="0" width="6.83547339785973" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.8231250089776" y="0" width="3.390697755185603" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.2138227641632" y="0" width="2.1454650779301394" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.3592878420933" y="0" width="1.3577528463053474" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.7170406883987" y="0" width="1.2829593116013427" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -550,7 +550,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        154
+                                        155
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -802,6 +802,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#1a4318e</div>
+                                        <div class="message">Atualmente: sessao02/code04.py -&gt; ok | Prox. Passo: Funções (agora vai ficar interessante)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Python-Tutorial-Basico</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#d51048d</div>
                                         <div class="message">Atualmente: sessao02/code04.py -&gt; ok | Prox. Passo: Dicionarios</div>
                                     </div>
@@ -864,26 +884,6 @@
                                     <div class="commit">
                                         <div class="sha">#66f6b50</div>
                                         <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/Python-Tutorial-Basico</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8096ee2</div>
-                                        <div class="message">Prox. Passo: sessao02/code02.py (part3)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1575,7 +1575,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2022, 13:16:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 14:17:32 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
