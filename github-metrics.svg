@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2612 Commits
+                            2613 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.4401284782751" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="284.4401284782751" y="0" width="149.9328533764221" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.37298185469723" y="0" width="10.616829810408483" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.9898116651057" y="0" width="6.834489874749985" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.8243015398557" y="0" width="3.3902098841331854" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.2145114239889" y="0" width="2.1451563773672855" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.3596678013562" y="0" width="1.3575574858344719" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.7172252871907" y="0" width="1.2827747128093676" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.45420225113895" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="284.45420225113895" y="0" width="149.9208339957689" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.3750362469079" y="0" width="10.61597871129346" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.99101495820133" y="0" width="6.833941987255515" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.82495694545685" y="0" width="3.389938107653421" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.2148950531103" y="0" width="2.1449844107136826" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.359879463824" y="0" width="1.3574486571167266" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.7173281209407" y="0" width="1.2826718790593366" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -796,6 +796,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Python-Tutorial-Basico</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d8e4d5a</div>
+                                        <div class="message">Atualmente: Intro. Classes | Prox. Passo: Classes (Parte2)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
                                     </div>
                                 </div>
@@ -864,26 +884,6 @@
                                     <div class="commit">
                                         <div class="sha">#b82b999</div>
                                         <div class="message">Atualmente: add .pdf e .pptx | Prox. Passo: Sessao 03</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/Python-Tutorial-Basico</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4a7aa14</div>
-                                        <div class="message">Atualmente: myfile.txt &amp; sessao02/code07.py -&gt; ok | Prox. Passo: Sessao 03</div>
                                     </div>
                                 </div>
                             </section>
@@ -1575,7 +1575,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2022, 10:33:14 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 11:11:54 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
