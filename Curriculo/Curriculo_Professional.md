@@ -8,26 +8,26 @@
 ## 🎯 _Objetivo Profissional_
 ```R
 Cargo nas áreas de: Ciência de Dados/Desenvolvimento de Software/Engenharia de Software:
-° Analista de Dados Jr.
-° Cientista de Dados Jr.
-° Desenvolvedor Python Jr.
-° Desenvolvedor Django Jr.
-° Desenvolvedor Back-End Python Jr.
+
+	° Analista de Dados Jr.
+	° Cientista de Dados Jr.
+	° Desenvolvedor Python Jr.
+	° Desenvolvedor Django Jr.
+	° Desenvolvedor Back-End Python Jr.
 ```
 
 
 ## 📚 _Formação_
 ```R
 ° Graduação em Engenharia de Software - Em Andamento.
-    ° Instituto Federal do Amazonas.
-    ° Conclusão: Dezembro/2024.
+  ° Instituto Federal do Amazonas.
+  ° Conclusão: Dezembro/2024.
 
 ° Graduação em Engenharia Elétrica - Cancelado.
-    ° Universidade do Estado do Amazonas.
-    ° Início: Março/2019.
-    ° Cancelado: Novembro/2020.
+  ° Universidade do Estado do Amazonas.
+  ° Início: Março/2019.
+  ° Cancelado: Novembro/2020.
 ```
-
 
 ## 🗺 _Idiomas_
 ```R
@@ -35,7 +35,6 @@ Inglês – nível Intermediário.
 Espanhol – nível Intermediário.
 Italiano – nível Básico.
 ```
-
 
 ## ⚒ _Atividades Extracurricular_
 
@@ -58,7 +57,7 @@ Italiano – nível Básico.
 	° Uso de dados de Mídia Social para Análise Urbana;
 ```
 
-### ° Participação em cursos de capacitação profissional no [IFAM - Campus Zona Leste](http://www2.ifam.edu.br/campus/cmzl)
+### ° Participação em cursos de capacitação profissional no [IFAM - Campus Zona Leste](http://www2.ifam.edu.br/campus/cmzl):
 ```R
 	° Introdução a Programação com JavaScript;
 	° Java Orientado a Objetos;
@@ -102,6 +101,6 @@ Italiano – nível Básico.
 	° Projeto Covid-19 no R
 	° Analise da Covid-19 com Jupyter Notebook
 	° Blog(construido_em="Django", link="https://github.com/CarlosViniMSouza/Blog")
-	° RoadmapFullStackPython(construido_em="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
-	° Curso Completo de Desenvolvimento de APIs(construido_em="FastAPI", link="https://github.com/CarlosViniMSouza/API_Development_FullCourse") 
+	° Roadmap-FullStack-Python(construido_em="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
+	° Curso Completo de Desenvolvimento de APIs(construido_em="FastAPI", link="https://github.com/CarlosViniMSouza/API_Development_FullCourse")
 ```
