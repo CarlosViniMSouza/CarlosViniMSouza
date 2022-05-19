@@ -101,6 +101,6 @@ Italiano – nível Básico.
 	° Projeto Covid-19 no R
 	° Analise da Covid-19 com Jupyter Notebook
 	° Blog(construido_em="Django", link="https://github.com/CarlosViniMSouza/Blog")
-	° Roadmap-FullStack-Python(construido_em="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
-	° Curso Completo de Desenvolvimento de APIs(construido_em="FastAPI", link="https://github.com/CarlosViniMSouza/API_Development_FullCourse")
+	° Roadmap_FullStack_Python(construido_em="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
+	° Curso_Completo_de_Desenvolvimento_de_APIs(construido_em="FastAPI", link="https://github.com/CarlosViniMSouza/API_Development_FullCourse")
 ```

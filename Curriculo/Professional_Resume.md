@@ -31,7 +31,7 @@
 
 ## _🗺 Languages_
 ```R
-English - Intermediate level.
+English – Intermediate level.
 Spanish – Intermediate level.
 Italian – Basic level.
 ```
@@ -100,6 +100,6 @@ Italian – Basic level.
   ° Covid-19 Project in R
   ° Analysis of Covid-19 with Jupyter Notebook
   ° Blog(build_in="Django", link="https://github.com/CarlosViniMSouza/Blog")
-  ° Roadmap-FullStack-Python(build_in="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
-  ° Curso Completo de Desenvolvimento de APIs(build_in="FastAPI", link="https://github.com/CarlosViniMSouza/API_Development_FullCourse")
+  ° Roadmap_FullStack_Python(build_in="MarkDown", link="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python")
+  ° Full_API_Development_Course(build_in="FastAPI", link="https://github.com/CarlosViniMSouza/API_Development_FullCourse")
 ```
