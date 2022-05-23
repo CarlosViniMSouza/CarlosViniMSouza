@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2626 Commits
+                            2627 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.4964212923589" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="284.4964212923589" y="0" width="149.8718866725453" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.36830796490415" y="0" width="10.612512723762125" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.98082068866626" y="0" width="6.831710788572676" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.81253147723896" y="0" width="3.388831334219463" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.2013628114584" y="0" width="2.144284099472993" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.3456469109314" y="0" width="1.3720999867287835" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.71774689766016" y="0" width="1.2822531023397785" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.5023503901734" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="284.5023503901734" y="0" width="149.86682349900624" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.3691738891796" y="0" width="10.612154197591549" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.98132808677116" y="0" width="6.831479990535372" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.81280807730656" y="0" width="3.3887168481639347" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.2015249254705" y="0" width="2.1442116583851165" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.34573658385557" y="0" width="1.3720536326026032" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.7177902164582" y="0" width="1.282209783541822" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -534,7 +534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>himanshugarg08/flutter_give_collect_money</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -802,6 +802,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#f4245fb</div>
+                                        <div class="message">Atualmente: W3Schools -&gt; add code03.py (Part01) | Prox. Passo: add code03.py (Part02)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">CarlosViniMSouza/Python-Tutorial-Basico</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ed6f2da</div>
                                         <div class="message">Atualmente: W3Schools -&gt; add code02.py | Prox. Passo: Melhorar sessao03/code02.py</div>
                                     </div>
@@ -864,26 +884,6 @@
                                     <div class="commit">
                                         <div class="sha">#e021dd8</div>
                                         <div class="message">Atualmente: W3Schools -&gt; add code01.py | Prox. Passo: Melhorar sessao03/code02.py</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CarlosViniMSouza/CarlosViniMSouza</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#171061c</div>
-                                        <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
                             </section>
@@ -1575,7 +1575,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2022, 11:08:49 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 12:15:12 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
