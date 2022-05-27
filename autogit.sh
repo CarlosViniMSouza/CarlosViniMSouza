@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Curriculo_Professional.md -> details alt"
+git commit -m "add foto-chapa"
 git push
 git status
 exit
