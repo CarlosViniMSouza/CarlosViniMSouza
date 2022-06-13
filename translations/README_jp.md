@@ -2,7 +2,7 @@
 
 <h3> 📡&nbsp; 私に連絡したり、チャットしたり、単にアイデアを交換したい場合は、ここにいくつかの方法があります : </h3>
 
-&nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/twitter.png"/></a>
+&nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/452/twitter-squared.png" width=90 heigth=90/></a>
 &nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/carlosvinimsouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
 &nbsp; <a href="mailto:vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png"/></a>
