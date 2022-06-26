@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Minha Especialização -> alt in README_ita | checkProfile.ts -> added"
+git commit -m "Minha Especialização -> alt in README_jp"
 git push
 git status
 exit
