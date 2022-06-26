@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Flask and NextJS -> add | Yarn -> removed"
+git commit -m "Minha Especialização -> alt"
 git push
 git status
 exit
