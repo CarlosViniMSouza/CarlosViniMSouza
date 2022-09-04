@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Minha Especialização -> alt in README_jp"
+git commit -m "Flutter -> added in all READMEs"
 git push
 git status
 exit
