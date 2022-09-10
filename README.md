@@ -160,7 +160,17 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <!-- If you're using "main" as default branch -->
 
-![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://github.com/CarlosViniMSouza/">
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosViniMSouza/">
+    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/platane-demo.svg"/>
+  </a>
+</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
