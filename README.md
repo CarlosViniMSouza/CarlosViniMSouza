@@ -1,8 +1,6 @@
-#### See this README.md in English : <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translations/README_en.md)</kbd> Vea este README.md en español : <kbd>[<img title="Español" alt="Español" src="flags/es.png" width="22">](translations/README_es.md)</kbd>
+[See this README.md in English](translations/README_en.md) || [Vea este README.md en español](translations/README_es.md)
 
-#### Vedi questo README.md in italiano : <kbd>[<img title="Italiano" alt="Italiano" src="flags/ita.png" width="22">](translations/README_ita.md)</kbd> この README.md を日本語で参照してください。: <kbd>[<img title="日本語" alt="日本語" src="flags/jp.jpg" width="22">](translations/README_jp.md)</kbd>
-
-#### इस README.md को हिंदी में देखें : <kbd>[<img title="को हिंदी में देखें" alt="को हिंदी में देखें" src="flags/ind.jpg" width="22">](translations/README_ind.md)</kbd>
+[この README.md を日本語で参照してください。](translations/README_jp.md) || [इस README.md को हिंदी में देखें](translations/README_ind.md)
 
 <h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. ✌️🤓&nbsp; </h2>
 
@@ -69,7 +67,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### - 🏢&nbsp; Infraestrutura:
+### 🏢&nbsp; Infraestrutura:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -83,7 +81,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### - 📊&nbsp; Análise/Ciência de Dados:
+### 📊&nbsp; Análise/Ciência de Dados:
 
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -158,17 +156,9 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
   </a>
 </p>
 
-<!-- If you're using "main" as default branch -->
-
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
     <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/">
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/platane-demo.svg"/>
   </a>
 </p>
 
