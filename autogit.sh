@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Flutter -> added in all READMEs"
+git commit -m "React Native replaced Flutter"
 git push
 git status
 exit
