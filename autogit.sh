@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "React Native replaced Flutter | Replaced the structure"
+git commit -m "blank.yml -> alts add"
 git push
 git status
 exit
