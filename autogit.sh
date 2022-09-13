@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "charnge -> uses: lowlighter/metrics@main"
+git commit -m "change -> uses: CarlosViniMSouza/metrics@latest"
 git push
 git status
 exit
