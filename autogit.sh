@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "blank.yml -> updated | pagespeed -> see later"
+git commit -m "charnge -> uses: lowlighter/metrics@main"
 git push
 git status
 exit
