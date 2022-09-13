@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "erro num. 1000 -> uses: lowlighter/metrics@latest"
+git commit -m "deleted github-metrics.svg"
 git push
 git status
 exit
