@@ -149,12 +149,6 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/">
-    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
-  </a>
-</p>
-
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)

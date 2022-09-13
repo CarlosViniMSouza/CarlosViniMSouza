@@ -92,7 +92,7 @@
 <h3> 🧑‍🔬&nbsp; Meu progresso na Programação : </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://www.github.com/CarlosViniMSouza">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=CarlosViniMSouza&theme=dracula&show_icons=true"/>
   </a>
 </p>
@@ -153,12 +153,6 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 <p align="center">
   <a href="https://github.com/CarlosViniMSouza/">
     <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/">
-    <img width="60%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
