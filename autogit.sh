@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "deleted:    .github/workflows/blank.yml"
+git commit -m "fixed error pagespeed.svg in translations folder"
 git push
 git status
 exit

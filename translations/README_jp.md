@@ -145,7 +145,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
-    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/github-metrics.svg"/>
+    <img width="50%" src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg"/>
   </a>
 </p>
 
