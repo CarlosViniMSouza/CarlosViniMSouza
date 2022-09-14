@@ -142,7 +142,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 <h3> 📊&nbsp; पेजस्पीड साइट : </h3>
 
 <p align="center">
-  <img src="../pagespeed.svg" width="50%"/>
+  <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg" width="50%"/>
 </p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
