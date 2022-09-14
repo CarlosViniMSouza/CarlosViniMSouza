@@ -139,7 +139,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <br></br>
 
-<h3> 📊&nbsp; मेरा गिटहब मेट्रिक्स : </h3>
+<h3> 📊&nbsp; पेजस्पीड साइट : </h3>
 
 <p align="center">
   <a href='https://github.com/CarlosViniMSouza/'>
