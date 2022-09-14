@@ -150,7 +150,9 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <h3> 📊&nbsp; PageSpeed Site : </h3>
 
-![result-benchmark](https://pagespeed-insights.herokuapp.com/?url=https://carlosvinimsouza.github.io)
+<p align="center">
+  <img src="../pagespeed.svg" width="50%"/>
+</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)

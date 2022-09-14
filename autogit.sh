@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "alt link to pagespeed (again)"
+git commit -m "pagespeed.svg -> rewriter"
 git push
 git status
 exit
