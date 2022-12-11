@@ -15,13 +15,13 @@
 
 <h3> 👨‍💼💻&nbsp; Acerca de mí : </h3>
 
-### - 📖&nbsp; Estudiar conceptos básicos web, backend con Python, SQLite y CI / CD;
+### - 📖&nbsp; Estudiar: frontend con React.js, backend con NestJS y MongoDB;
 
-### - 📚&nbsp; Enfocado en : Desarrollo Web e Inteligencia Artificial;
+### - 📚&nbsp; Enfocado en: Desarrollo Web;
 
-### - 🗺&nbsp; Idiomas : inglés (intermedio), español (intermedio), italiano (básico);
+### - 🗺&nbsp; Idiomas: Inglés (Intermedio), Español (Intermedio);
 
-### - 🎓&nbsp; Estudiando Ingeniería de Software en el Instituto Federal de Amazonas;
+### - 🎓&nbsp; Educación: Estudiando Ingeniería de Software en el Instituto Federal de Amazonas;
 
 ### - 🛠&nbsp; Construyendo la base de mi carrera en TI;
 

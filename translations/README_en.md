@@ -15,19 +15,19 @@
 
 <h3> 👨‍💼💻&nbsp; About me : </h3>
 
-### - 📖&nbsp; Studying web basics, backend with Python, SQLite and CI/CD;
+### - 📖&nbsp; Studying: frontend with React.js, backend with NestJS, and MongoDB;
 
-### - 📚&nbsp; Focused on : Web Development and Artificial Intelligence;
+### - 📚&nbsp; Focused on: Web Development;
 
-### - 🗺&nbsp; Languages : English (Intermediate), Spanish (Intermediate), Italian (Basic);
+### - 🗺&nbsp; Languages: English (Intermediate), Spanish (Intermediate);
 
-### - 🎓&nbsp; Studying Software Engineering at the Federal Institute of Amazonas;
+### - 🎓&nbsp; Education: Studying Software Engineering at the Federal Institute of Amazonas;
 
 ### - 🛠&nbsp; Building the foundation of my I.T. career;
 
 ### - 🖖&nbsp; I like to participate in technology events and network with any dev;
 
-### - 🖥&nbsp; Hobbies : Games, Action Movies and Learning Something New;
+### - 🖥&nbsp; Hobbies: Games, Action Movies and Learning Something New;
 
 ### - ☕&nbsp; Coffee for me is something very important (better than seeing a finished project, it's a good coffee);
 
