@@ -4,7 +4,7 @@
 
 <h2> Oi gente, Eu sou o Carlos Vinicius Monteiro de Souza. ✌️🤓&nbsp; </h2>
 
-<h3> 📡&nbsp; Se quiser me contatar, conversar ou só trocar uma ideia, aqui estão algumas vias disponíveis : </h3>
+<h3> 📡&nbsp; Se quiser me contatar, conversar ou só trocar uma ideia, aqui estão algumas vias disponíveis </h3>
 
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/452/twitter-squared.png" width=90 heigth=90/></a>
 &nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png"/></a>
@@ -21,7 +21,7 @@
 
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! </h2>
 
-<h3> 👨‍💼💻&nbsp; Sobre a minha pessoa : </h3>
+<h3> 👨‍💼💻&nbsp; Sobre a minha pessoa </h3>
 
 ### - 📖&nbsp; Estudando: frontend com React.js, backend com NestJS e MongoDB;
 
@@ -41,7 +41,7 @@
 
 <br></br>
 
-<h2> 🔋&nbsp; Minha Especialização : </h2>
+<h2> 🔋&nbsp; Minha Especialização </h2>
 
 ## 🌐&nbsp; Web(Front-End + Back-End + DB):
 
@@ -69,7 +69,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🏢&nbsp; Infraestrutura:
+### Infraestrutura
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -85,7 +85,7 @@
 
 <br></br>
 
-<h3> 🧑‍🔬&nbsp; Meu progresso na Programação : </h3>
+<h3> 🧑‍🔬&nbsp; Meu progresso na Programação </h3>
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
@@ -105,7 +105,7 @@
   </a>
 </p>
 
-_The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. No right is the unhidden Python and Jupyter Notebook frame_
+*The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. No right is the unhidden Python and Jupyter Notebook frame*
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
@@ -128,7 +128,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <br></br>
 
-<h3> 🏆&nbsp; Meus Troféus do GitHub : </h3>
+<h3> 🏆&nbsp; Meus Troféus do GitHub </h3>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula">
@@ -138,7 +138,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <br></br>
 
-<h3> 📊&nbsp; PageSpeed Site : </h3>
+<h3> 📊&nbsp; PageSpeed Site </h3>
 
 <p align="center">
   <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg" width="50%"/>

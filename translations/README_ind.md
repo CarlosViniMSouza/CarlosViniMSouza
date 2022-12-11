@@ -1,6 +1,6 @@
 <h2> हाय दोस्तों, मैं कार्लोस विनीसियस मोंटेइरो डी सूजा हूँ।. ✌️🤓&nbsp; </h2>
 
-<h3> 📡&nbsp; यदि आप मुझसे संपर्क करना चाहते हैं, तो चैट करें या केवल एक विचार का आदान-प्रदान करें, यहां कुछ तरीके उपलब्ध हैं : </h3>
+<h3> 📡&nbsp; यदि आप मुझसे संपर्क करना चाहते हैं, तो चैट करें या केवल एक विचार का आदान-प्रदान करें, यहां कुछ तरीके उपलब्ध हैं </h3>
 
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/452/twitter-squared.png" width=90 heigth=90/></a>
 &nbsp; <a href="https://www.instagram.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png"/></a>
@@ -10,10 +10,11 @@
 &nbsp; <a href="https://app.rocketseat.com.br/me/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/rocket.png"/></a>
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
+&nbsp; <a href="https://www.hackerrank.com/carlosvinimsouza?hr_r=1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/windows/90/000000/hackerrank.png"/>
 
-<h2> 🌐&nbsp; कैसे के बारे में हम एक अच्छा लेते हैं ☕&nbsp; और NetWork करते हैं! </h2>
+<h2> 🌐&nbsp; कैसे के बारे में हम एक अच्छा लेते हैं ☕&nbsp; और NetWork करते हैं ?! </h2>
 
-<h3> 👨‍💼💻&nbsp; मेरे बारे मेँ : </h3>
+<h3> 👨‍💼💻&nbsp; मेरे बारे मेँ </h3>
 
 ### - 📖&nbsp; अध्ययन: React.js के साथ फ्रंटएंड, NestJS और MongoDB के साथ बैकएंड;
 
@@ -33,7 +34,7 @@
 
 <br></br>
 
-<h3> 🔋&nbsp; मेरी विशेषज्ञता : </h3>
+<h3> 🔋&nbsp; मेरी विशेषज्ञता </h3>
 
 ## - 🌐&nbsp; वेब(फ्रंट-एंड + बैक-एंड + डीबी):
 
@@ -61,7 +62,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🏢&nbsp; आधारभूत संरचना:
+### आधारभूत संरचना
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -77,7 +78,7 @@
 
 <br></br>
 
-<h3> 🧑‍🔬&nbsp; प्रोग्रामिंग में मेरी प्रगति :  </h3>
+<h3> 🧑‍🔬&nbsp; प्रोग्रामिंग में मेरी प्रगति </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -92,7 +93,7 @@
   </a>
 </p>
 
-_The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame_
+*The 'Top Langs' framework crashed because of the amount of code loaded in Jupyter and PyCharm when a project is started. On the right is the unhidden Python and Jupyter Notebook frame*
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
@@ -115,7 +116,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <br></br>
 
-<h3> 🏆&nbsp; मेरी गिटहब ट्राफियां : </h3>
+<h3> 🏆&nbsp; मेरी गिटहब ट्राफियां </h3>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula">
@@ -125,7 +126,7 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 <br></br>
 
-<h3> 📊&nbsp; पेजस्पीड साइट : </h3>
+<h3> 📊&nbsp; पेजस्पीड साइट </h3>
 
 <p align="center">
   <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg" width="50%"/>
