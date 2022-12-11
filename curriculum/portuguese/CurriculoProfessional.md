@@ -7,13 +7,14 @@
 
 ## 🎯 _Objetivo Profissional_
 ```R
-Cargo nas áreas de: Ciência de Dados/Desenvolvimento de Software/Engenharia de Software:
+° Cargo nas áreas de Desenvolvimento Web/Mobile:
+  ° Desenvolvedor Full-Stack JS
 
-	° Analista de Dados Jr.
-	° Cientista de Dados Jr.
-	° Desenvolvedor Python Jr.
-	° Desenvolvedor Django Jr.
-	° Desenvolvedor Back-End Python Jr.
+° Desenvolvimento de Software/Engenharia de Software:
+  ° Desenvolvedor Front-End React.js
+  ° Desenvolvedor Back-End JS.
+  ° Desenvolvedor Mobile React Native
+  ° Desenvolvedor Python Jr.
 ```
 
 

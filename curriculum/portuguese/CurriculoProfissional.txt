@@ -10,15 +10,14 @@ Currículo Profissional
 
 
 🎯 Objetivo Profissional
-° Cargo nas áreas de Ciência/Análise de Dados:
-  ° Analista de Dados Jr.
-  ° Cientista de Dados Jr.
+° Cargo nas áreas de Desenvolvimento Web/Mobile:
+  ° Desenvolvedor Full-Stack JS
 
 ° Desenvolvimento de Software/Engenharia de Software:
+  ° Desenvolvedor Front-End React.js
+  ° Desenvolvedor Back-End JS.
+  ° Desenvolvedor Mobile React Native
   ° Desenvolvedor Python Jr.
-  ° Desenvolvedor Django Jr.
-  ° Desenvolvedor Web Python Jr.
-  ° Desenvolvedor Back-End Python Jr.
 
 
 📚 Formação
@@ -35,7 +34,6 @@ Currículo Profissional
 🗺 Idiomas
 Inglês – nível Intermediário.
 Espanhol – nível Intermediário.
-Italiano – nível Básico.
 
 
 ⚒ Atividades Extracurricular

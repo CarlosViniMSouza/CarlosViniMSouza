@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "pagespeed.svg -> src alt"
+git commit -m "curriculum -> alt | README.md -> alt"
 git push
 git status
 exit

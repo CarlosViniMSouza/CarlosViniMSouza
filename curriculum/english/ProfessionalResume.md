@@ -8,13 +8,14 @@
 
 ## _🎯 Professional Goal_
 ```R
-° Position in the areas of Science/Data Analysis:
+° Position in the areas of Web/Mobile Development:
+  ° Full-Stack JS Developer
 
-  ° Data Analyst Jr.
-  ° Data Scientist Jr.
-  ° Developer Python Jr.
-  ° Developer Django Jr.
-  ° Back-End Developer Python Jr.
+° Software Development/Software Engineering:
+  ° Front-End React.js Developer
+  ° Back-End JS Developer
+  ° Mobile React Native Developer
+  ° Python Developer Beginner
 ```
 
 ## _📚 Training_
@@ -33,7 +34,6 @@
 ```R
 English – Intermediate level.
 Spanish – Intermediate level.
-Italian – Basic level.
 ```
 
 ## _⚒ Extracurricular Activities_

@@ -10,15 +10,14 @@ Professional Resume
 
 
 🎯 Professional Goal
-° Position in the areas of Science/Data Analysis:
-  ° Data Analyst Jr.
-  ° Data Scientist Jr.
+° Position in the areas of Web/Mobile Development:
+  ° Full-Stack JS Developer
 
 ° Software Development/Software Engineering:
-  ° Developer Python Jr.
-  ° Developer Django Jr.
-  ° Web Developer Python Jr.
-  ° Back-End Developer Python Jr.
+  ° Front-End React.js Developer
+  ° Back-End JS Developer
+  ° Mobile React Native Developer
+  ° Python Developer Beginner
 
 
 📚 Training
@@ -35,7 +34,6 @@ Professional Resume
 🗺 Languages
 English - Intermediate level.
 Spanish – Intermediate level.
-Italian – Basic level.
 
 
 ⚒ Extracurricular Activities
