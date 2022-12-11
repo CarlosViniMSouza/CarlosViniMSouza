@@ -23,19 +23,19 @@
 
 <h3> 👨‍💼💻&nbsp; Sobre a minha pessoa </h3>
 
-### - 📖&nbsp; Estudando: frontend com React.js, backend com NestJS e MongoDB;
+### - 📖&nbsp; **Estudando:** frontend com **React.js**, backend com **NestJS** e **MongoDB**;
 
-### - 📚&nbsp; Focado em: Desenvolvimento Web;
+### - 📚&nbsp; **Focado em:** Desenvolvimento Web;
 
-### - 🗺&nbsp; Idiomas: Inglês (Intermediário), Espanhol (Intermediário);
+### - 🗺&nbsp; **Idiomas:** Inglês (Intermediário), Espanhol (Intermediário);
 
-### - 🎓&nbsp; Educação: Cursando Engenharia de Software no Instituto Federal do Amazonas;
+### - 🎓&nbsp; **Educação:** Cursando Engenharia de Software no Instituto Federal do Amazonas;
 
 ### - 🛠&nbsp; Construindo a base da minha carreira em T.I;
 
 ### - 🖖&nbsp; Gosto de participar de eventos sobre tecnologias e fazer network com qualquer dev;
 
-### - 🖥&nbsp; Passatempos: Jogos, Filmes de ação e Aprender algo novo;
+### - 🖥&nbsp; **Passatempos:** Jogos, Filmes de ação e Aprender algo novo;
 
 ### - ☕&nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
 
@@ -43,7 +43,7 @@
 
 <h2> 🔋&nbsp; Minha Especialização </h2>
 
-## 🌐&nbsp; Web(Front-End + Back-End + DB):
+## 🌐&nbsp; Web(Front-End + Back-End + DB)
 
 ### Front-End
 
