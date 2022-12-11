@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Specialization on README.md -> alt"
+git commit -m "Specializ. on READMEs translations -> alt"
 git push
 git status
 exit
