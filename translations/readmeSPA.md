@@ -16,21 +16,21 @@
 
 <h3> 👨‍💼💻&nbsp; Acerca de mí </h3>
 
-### - 📖&nbsp; **Estudiar:** frontend con **React.js**, backend con **NestJS** y **MongoDB**;
+📖&nbsp; **Estudiar:** frontend con **React.js**, backend con **NestJS** y **MongoDB**;
 
-### - 📚&nbsp; **Enfocado en:** Desarrollo Web;
+📚&nbsp; **Enfocado en:** Desarrollo Web;
 
-### - 🗺&nbsp; **Idiomas:** Inglés (Intermedio), Español (Intermedio);
+🗺&nbsp; **Idiomas:** Inglés (Intermedio), Español (Intermedio);
 
-### - 🎓&nbsp; **Educación:** Estudiando Ingeniería de Software en el Instituto Federal de Amazonas;
+🎓&nbsp; **Educación:** Estudiando Ingeniería de Software en el Instituto Federal de Amazonas;
 
-### - 🛠&nbsp; Construyendo la base de mi carrera en TI;
+🛠&nbsp; Construyendo la base de mi carrera en TI;
 
-### - 🖖&nbsp; Me gusta participar en eventos de tecnología y relacionarme con cualquier desarrollador;
+🖖&nbsp; Me gusta participar en eventos de tecnología y relacionarme con cualquier desarrollador;
 
-### - 🖥&nbsp; **Pasatiempos:** juegos, películas de acción y aprender algo nuevo;
+🖥&nbsp; **Pasatiempos:** juegos, películas de acción y aprender algo nuevo;
 
-### - ☕&nbsp; El café para mí es algo muy importante (mejor que ver un proyecto terminado, es un buen café);
+☕&nbsp; El café para mí es algo muy importante (mejor que ver un proyecto terminado, es un buen café);
 
 <br></br>
 
@@ -140,4 +140,4 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs_2020.png)
+![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs2020.png)

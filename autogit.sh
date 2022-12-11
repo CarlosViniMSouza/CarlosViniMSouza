@@ -1,6 +1,6 @@
 git pull
 git add -A
-git commit -m "Specializ. Syntax on READMEs -> updated"
+git commit -m "renamed readmes -> done"
 git push
 git status
 exit
