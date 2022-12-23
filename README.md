@@ -23,7 +23,7 @@
 
 <h3> 👨‍💼💻&nbsp; Sobre a minha pessoa </h3>
 
-📖&nbsp; **Estudando:** frontend com **React.js**, backend com **NestJS** e **MongoDB**;
+📖&nbsp; **Estudando:** frontend com **React.js**, backend com **ExpressJS** e **MongoDB**;
 
 📚&nbsp; **Focado em:** Desenvolvimento Web;
 

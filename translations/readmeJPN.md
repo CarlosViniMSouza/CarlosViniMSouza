@@ -16,7 +16,7 @@
 
 <h3> 👨‍💼💻&nbsp; 私について </h3>
 
-📖&nbsp; **勉強中:** フロントエンドは **React.js**、バックエンドは **NestJS** と **MongoDB**。
+📖&nbsp; **勉強中:** フロントエンドは **React.js**、バックエンドは **ExpressJS** と **MongoDB**。
 
 📚&nbsp; **焦点:** Web 開発。
 

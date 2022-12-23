@@ -16,7 +16,7 @@
 
 <h3> 👨‍💼💻&nbsp; Acerca de mí </h3>
 
-📖&nbsp; **Estudiar:** frontend con **React.js**, backend con **NestJS** y **MongoDB**;
+📖&nbsp; **Estudiar:** frontend con **React.js**, backend con **ExpressJS** y **MongoDB**;
 
 📚&nbsp; **Enfocado en:** Desarrollo Web;
 
