@@ -11,6 +11,11 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
+<h2> ⭐&nbsp; 私は LeetCode と freeCodeCamp を使用しています </h2>
+
+&nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+&nbsp; <a href="https://www.freecodecamp.org/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-regular-tal-revivo.png"/>
+
 <h2> 🌐&nbsp; 良い ☕&nbsp; を取るのはどうですか。 そしてネットワークを行う ？！ </h2>
 
 <h3> 👨‍💼💻&nbsp; 私について </h3>

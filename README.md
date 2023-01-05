@@ -18,7 +18,7 @@
 <h2> ⭐&nbsp; Eu estou na LeetCode e na freeCodeCamp </h2>
 
 &nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
-&nbsp; <a href="https://www.freecodecamp.org/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/96/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-fresh-tal-revivo.png"/>
+&nbsp; <a href="https://www.freecodecamp.org/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-regular-tal-revivo.png"/>
 
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! </h2>
 
