@@ -15,9 +15,10 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-<h2> ⭐&nbsp; Eu estou na LeetCode </h2>
+<h2> ⭐&nbsp; Eu estou na LeetCode e na freeCodeCamp </h2>
 
 &nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+&nbsp; <a href="https://www.freecodecamp.org/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/96/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-fresh-tal-revivo.png"/>
 
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! </h2>
 

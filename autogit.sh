@@ -1,5 +1,5 @@
 git pull
 git add -A
-git commit -m "replace HackerRank by LeetCode"
+git commit -m "freeCodeCamp added in README"
 git push
 git status
