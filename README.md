@@ -15,11 +15,6 @@
 &nbsp; <a href="https://t.me/CarlosViniMSouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/telegram-app.png"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 
-<h2> ⭐&nbsp; Eu estou na LeetCode e na freeCodeCamp </h2>
-
-&nbsp; <a href="https://leetcode.com/CarlosViniMSouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
-&nbsp; <a href="https://www.freecodecamp.org/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-regular-tal-revivo.png"/>
-
 <h2> 🌐&nbsp; Que tal tomarmos um bom ☕&nbsp; e fazer NetWork ?! </h2>
 
 <h3> 👨‍💼💻&nbsp; Sobre a minha pessoa </h3>
@@ -40,7 +35,7 @@
 
 ☕&nbsp; Café para mim é algo muito importante (melhor do que ver um projeto pronto, é uma bom coffee);
 
-<br></br>
+<br>
 
 <h2> 🔋&nbsp; Minha Especialização </h2>
 
@@ -96,7 +91,7 @@
 
 <p align="center">
   <a href="https://www.github.com/CarlosViniMSouza">
-    <img src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula&count_private=true&include_all_commits=true&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=CarlosViniMSouza&layout=compact&theme=dracula"/>
   </a>
 </p>
 
@@ -142,15 +137,7 @@
 <h3> 📊&nbsp; PageSpeed Site </h3>
 
 <p align="center">
-  <img src="https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg" width="50%"/>
+  <img src="./pagespeed.svg" width="50%"/>
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
-
-![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs2020.png)
+![techs](./images/techs.png)

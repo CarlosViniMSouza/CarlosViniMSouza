@@ -1,5 +1,5 @@
 git pull
 git add -A
-git commit -m "freeCodeCamp added in translations"
+git commit -m "update READMEs -> remove leetcode & fcc"
 git push
 git status
