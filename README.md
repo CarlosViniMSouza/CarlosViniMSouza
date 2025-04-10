@@ -33,6 +33,7 @@
 
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 <br>
 
@@ -119,8 +120,6 @@
 
 ### 🧑‍🔬 My Progress in Programming
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosViniMSouza&theme=dracula)
-
 ![GitHub My Progress](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula)
 
 ![GitHub My Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosViniMSouza&theme=dracula)
@@ -128,7 +127,10 @@
 
 ![GitHub My Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosViniMSouza&theme=dracula)
 ![GitHub My Commits Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula&utcOffset=-4)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosViniMSouza&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
