@@ -1,20 +1,20 @@
-## Hello! I'm CarlosViniMSouza. ✌️🤓
+## Hello! I'm CarlosViniMSouza! 🚀
 
 ### 📡 My Contacts and Social Medias
 
-&nbsp; <a href="https://www.linkedin.com/in/carlosvinimsouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
-&nbsp; <a href="mailto:vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png"/></a>
-&nbsp; <a href="https://app.rocketseat.com.br/me/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/rocket.png"/></a>
-&nbsp; <a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
+<a href="https://www.linkedin.com/in/carlosvinimsouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
+<a href="https://api.whatsapp.com/send?phone=5592992680331" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
+<a href="https://app.rocketseat.com.br/me/carlosvinimsouza" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/rocket.png"/></a>
+<a href="mailto:vinicius.souza5530@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png"/></a>
 
-### 👨‍💼 About me
+### ✌️🤓 About me
 
-- 📖 **Working:** Bots with BotCity Ecossystem;
+- 👨‍💼 **Working:** Bots with BotCity Ecossystem;
 - 📚 **Focused on:** RPAs and A.I.;
-- 🗺 **Languages:** English, Spanish;
+- 🗺 **Languages:** English and Spanish;
 - 🎓 **Education:** Bachelor of Software Engineering at the Federal Institute of Amazonas;
 - 🖖 **Hobbies**: I like to participate in technology events and network with any dev;
-- 🖥 **Personal Tastes:** Games, Action Movies and Learning Something New;
+- 🖥 **Personal Tastes:** Games, Lofi and Learning something new;
 - 📃 [**Link to my Professional Curriculum**](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/curriculum/english/ProfessionalResume.md)
 
 ### 🔋 Knowledge and Experiences
@@ -41,6 +41,7 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) ---
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)](#)
+[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#) ---
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
@@ -60,6 +61,14 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
+<br>
+
+#### ORMs
+
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
+[![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
 
 <br>
 
@@ -94,7 +103,23 @@
 
 <br>
 
+#### Data Science/Analytics
+
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+
+<br>
+
 ### 🧑‍🔬 My Progress in Programming
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosViniMSouza&theme=dracula)
 
 ![GitHub My Progress](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula)
 
@@ -103,9 +128,6 @@
 
 ![GitHub My Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosViniMSouza&theme=dracula)
 ![GitHub My Commits Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosViniMSouza&theme=dracula&utcOffset=-4)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosViniMSouza&theme=dracula)](https://git.io/streak-stats)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula)
 
 <br>
@@ -124,4 +146,4 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs2020.png)
+![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/techs.png)

@@ -1,4 +1,4 @@
 git add .
-git commit -m "done: refactoring profile - 2025 #001"
+git commit -m "done: add more badges | #002"
 git push
 git status
