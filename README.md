@@ -17,9 +17,9 @@
 - 🖥 **Personal Tastes:** Games, Lofi and Learning something new;
 - 📃 [**Link to my Professional Curriculum**](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/curriculum/english/ProfessionalResume.md)
 
-### 🔋 Knowledge and Experiences
-
 <br>
+
+### 🔋 Knowledge and Experiences
 
 #### FrontEnd
 
@@ -34,8 +34,6 @@
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-
-<br>
 
 #### BackEnd
 
@@ -53,17 +51,12 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Quarkus](https://img.shields.io/badge/Quarkus-2962FF?logo=quarkus&logoColor=white)](#)
 
-<br>
-
 #### DataBase (SQL and NoSQL)
 
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-
-<br>
 
 #### ORMs
 
@@ -71,30 +64,23 @@
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
 
-<br>
-
 #### 📱 Mobile
 
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
-
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-
-<br>
 
 #### 🏭 Infrastructure
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-
 [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#)
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
-
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 
@@ -102,16 +88,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
-<br>
-
 #### Data Science/Analytics
 
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
@@ -119,6 +103,10 @@
 <br>
 
 ### 🧑‍🔬 My Progress in Programming
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosViniMSouza&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub My Progress](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosViniMSouza&theme=dracula)
 
@@ -130,15 +118,15 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarlosViniMSouza&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosViniMSouza&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+### 📊 PageSpeed Site
 
 <br>
-
-### 📊 PageSpeed Site
 
 ![Pagespeed](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/pagespeed.svg)
 
 ### 🎖️ Extras
+
+<br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
