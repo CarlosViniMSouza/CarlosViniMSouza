@@ -1,4 +1,4 @@
 git add .
-git commit -m "doing: Padding between Topics | #004"
+git commit -m "done: Refactoring Page"
 git push
 git status
